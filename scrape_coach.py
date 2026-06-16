@@ -8,6 +8,8 @@ COOKIES = {
     "sess_":     "75rs9mhw7sf6q86j9q5g",
     "PHPSESSID": "4415506a315a506a3fc811483822",
     "t_":        "mr_5",
+    "wordpress_logged_in_144e0bc188c8905af9f2b7928ef0a6cf": "krilov%40gmail.com%7C1781792093%7CIGcQaKUYcBKHbuWXBRXwycm5dmd0Az52RwKWhnDUKnn%7C061dcec189f4c1103b65a3dab52493590899dcde25b1987256cc6c26d2b98340",
+    "wordpress_sec_144e0bc188c8905af9f2b7928ef0a6cf":        "krilov%40gmail.com%7C1781792093%7CIGcQaKUYcBKHbuWXBRXwycm5dmd0Az52RwKWhnDUKnn%7C2b2d87cdba735b1118276716939119aceb8beba0a94c7ac59e063d0a994e28bc",
 }
 
 BASE_URL   = "https://2kfor2k.staceyboehman.com"
