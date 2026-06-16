@@ -2,16 +2,15 @@
 
 ## Staying present on sales call when personal circumstances are distracting
 
+**Date:** 2026-06-11
+
 **QUESTION:**
 
 Hi there, I had a sales call over the weekend that didn’t close, and I know why. There was a money objection, that likely was hiding an underlying fear about her confidence in her ability to get the result (enough to make it worth the investment), but I struggled to stay with her on the call because of some life circumstances that were happening at the same time. I’d like support on how to stay present even when other things are going on.
 
-
 Circumstances: my husband and I had had a fight the day before, and I’d left the fight feeling like he wasn’t supportive of my business. We didn’t talk it through before the sales call (we ended up discussing later that day and moving through it), and so when the client brought up money, I felt discouraged because that keeps being an objection I’m getting, I was annoyed with my husband for not being supportive, and I definitely just started believing her objection. It was hard to rein myself in in the moment.
 
-
 Additionally, right before the call, my son woke up from his nap with an ear infection. My husband was with him and ended up needing to take him to urgent care. My husband texted me a couple updates during the sales call, and so that was understandably distracting as I was trying to focus on this potential client. I’m confident in my husband’s ability to care for our son, so I didn’t feel the need to cut the call short, and I didn’t think I needed to be with my son right in that moment. But there was some guilt about staying on the call, wondering if I was doing something wrong, wondering how to balance business priorities with motherhood. But if I compare it to a day job, if I were in an important work meeting, I would likely trust my husband to handle things and stay in the meeting. But my son not being well also played into the situation with my husband and not feeling supported from him.
-
 
 I’d love some coaching on staying present on a sales call when other urgent life things feel distracting, and also that balance of prioritizing the business when my son isn’t feeling well. I think there’s mom guilt getting in the way, so that feels like a different issue than the husband situation. Would love your thoughts!
 
@@ -117,7 +116,9 @@ What thoughts come up for you as you sit with these questions?  You got this Co
 
 ---
 
-## Consult #2 &#8211; 24/04/26
+## Consult #2 – 24/04/26
+
+**Date:** 2026-04-27
 
 **QUESTION:**
 
@@ -137,7 +138,6 @@ What Worked
 
 – Used “What’s been valuable for you today?” as an effective wrap-up.
 
-
 What Didn’t Work
 
 – I agreed with his need to “think about it” instead of probing further.
@@ -152,7 +152,6 @@ What Didn’t Work
 
 – When I asked how much it felt like a “YES,” he stalled, and I felt I “lost him.”
 
-
 What To Do Differently
 
 – Develop non-confrontational questions for “I need to think,” such as: “How do you plan to walk yourself through that thought process?”
@@ -164,7 +163,6 @@ What To Do Differently
 – Strict 30-min intake (approx. 3.75 mins per section). Set expectations early: “We’re going to move quickly through this part.”
 
 – Get more specific on the “Bridging the Gap” steps.
-
 
 I’d appreciate coaching on this eval please!
 
@@ -230,22 +228,19 @@ Great work Coach, bring any further coaching back after you have reflected on th
 
 ## Consult eval
 
+**Date:** 2026-03-16
+
 **QUESTION:**
 
 Hi AAC!
 
-
 My most recent consult eval with some questions.
-
 
 WWW: she reached out just having seen my instagram handle which had the word ‘coach’ in it, I felt like I could connect to her and create a good bridge, it helped me get clarity on a lot of things for myself
 
-
 WDW: when I set up the call I said it’s usually an hour but asked her to set aside 1h15/1h30 for the call so that she doesn’t need to go straight into seeing patients afterwards and it gives us more time if we need it but she got to the call almost 10 minutes late and then said she needed to go at ten/5 minutes to the hour for a patient, so we only ended up having 45 minutes for the whole call and I was a bit thrown when she said that but tried my best to do the consult in that time, I did get to each part incl objections but then we really ran out of time and so I wanted to book a follow up but it didn’t feel like a “true” follow up in the sense that I think she was a no but we couldn’t really talk about that more; I was also a bit hesitant because the main thing she wanted help with was getting more patients into her practice and I’m not a business coach so I felt it important to say that to her but I think it was more a reflection of my uncertainty
 
-
 WDD: I have created a much clearer bridge for her particular issue and really gotten clear on how exactly I could have helped her; the areas I’m a bit unsure about was how I could have handled the limited time differently (my thinking was either reschedule the entire call, or get started but then schedule a time to finish the call e.g. only do the life wheel on that day and the rest on another call; my thought is like, they’re going to just ask me to tell them the price and won’t want to schedule another call, but I think I need to get clear for myself why it helps them not to do this) and the other thing is whether I should even be saying “I’m not a business coach” if they come to me with a goal for their practice (I’m a career wellbeing coach for healthcare professionals) so I think it’s more my belief here but I do wonder about what responsibility I have to them in this regard? This also has helped me get more clarity & certainty on this for myself but I’m curious if you have any guidance on this please.
-
 
 Thank you!!
 
@@ -1211,6 +1206,8 @@ discover.
 
 ## my own revenue challenge of $10k in 30 days for April.
 
+**Date:** 2026-03-31
+
 **QUESTION:**
 
 Evaluation of last 2 revenue challenges: Failed:
@@ -1245,9 +1242,7 @@ I reached out to people personally, invited them to work with me
 
 I allowed myself to believe it was possible for me the whole time.
 
-
 Just a share: I am facilitating a challenge this month and I’ve been promoting it on social and in person and the way I’ve been showing up has been amazing to me. I’ve been sharing the why, who it’s for and making actual offers boldly. It felt a little uncomfortable but not so much that I’ve shut down. (It’s a free challenge). I have 15 people signed up for it (I’m a little nervous to lead 15 people but also excited) and I’ve realized I’ve created evidence that I can be bold, make offers and I’m still ok AND 15 people said yes. I’ve never had that many people say yest to anything I’ve put out there.
-
 
 My plan to go “All In “ this time
 
@@ -1320,12 +1315,13 @@ You’re not just learning how to do the challenge you’re learning how to coac
 
 ---
 
-## 06/08/2026 &#8211; evaluation on the last 3 months
+## 06/08/2026 – evaluation on the last 3 months
+
+**Date:** 2026-06-08
 
 **QUESTION:**
 
 Thank you so much again. I just want to take a moment to tell all of you how much your coaching has impacted my life over the past few months. I went back and looked at my first message to you back in March and I can see just how far I’ve come since then. To celebrate my progress I want to do an evaluation over the progress I’ve made in the past 3 months.
-
 
 What’s working?
 
@@ -1349,7 +1345,6 @@ What’s working?
 
 – This led me to start the process of FINALLY buying a car
 
-
 What isn’t working
 
 – Still unintentionally getting caught in the story that my circumstances need to change before I can show up fully. Feeling: embarrassed; Action: not showing up on social media and marketing as effectively as I could, “waiting” until things change.
@@ -1359,7 +1354,6 @@ What isn’t working
 – Worrying that my family will always see me as someone who needs help rather than someone who’s a competent adult
 
 – Spinning in thought work and not taking productive action
-
 
 What to do differently
 
@@ -1431,16 +1425,15 @@ Do you have any questions about this evaluation specifically, or is there one ar
 
 ## Consult Left Early
 
+**Date:** 2026-04-14
+
 **QUESTION:**
 
 I had a consult that left at the 30 min mark and I have explored the ways that this was in my control. She arrived late and immediately said that she might need to leave early or continue the call from the car. She said her schedule was initially free for this hour when she booked the consult a few days ago but something had come up. she also said that her schedule tends to be in flux a lot. I told her that if she needed to leave early she could and we could find a new time slot to do the remaining portions of the consult. I realize I would have rather used that moment to reschedule to a time that she could actually be there for the full hour.
 
-
 It ended with us deciding to finish up next week, where I’ll start with bridging the gap.
 
-
 Some theories for why I didn’t take that approach
-
 
 1. I got in the pool with her about the craziness of her schedule
 
@@ -1450,9 +1443,7 @@ Some theories for why I didn’t take that approach
 
 4. I wasn’t the strongest energy on the call. I let her energy (chaos) overpower my energy and it literally split the consult in half. This feels differential. Like I deferred to her, I let her set the tone.
 
-
 I’d like to use this Ask A Coach space to coach through each of these so that I can resolve them for future consults.
-
 
 I also want to have a plan for what to do on the rest of her consultation next week so that I’m not still in the pool with her/experiencing these issues that I described.
 
@@ -1466,22 +1457,13 @@ Let’s dig in to each of the 4 areas you shared just in case you haven’t had 
 
 – When it feels tempting to jump in the pool, keep in mind one of your “superpowers” as a coach is to stay in curiosity and be neutral so you can see where her brain isn’t serving her. One of the ways I like to visualize this is imagining someone in a pool who is starting to struggle. If you jump jump in with the life raft on a rope, it’s much harder to pull them out when you are also in the water. If instead you stay on the edge and throw them the life-raft, you have more strength and power to pull the rope and get them out. The next time you notice yourself wanting to jump in the pool, what might you do instead?
 
-
-
-
 2. People pleasing – I wanted her to like me and I wanted to be agreeable more than I wanted to do the consultation justice and create the space for the consult to be the best it could be
 
 – This is very human! We of course want to be likable and lovable. When you think of WHO you want to be as a coach, how do you want to show up? How can you trust that who you are as a person is likeable while also able to say the hard things (or honest things) with love? Stacey often calls this “being willing to risk the relationship”. While that may seem like we may come off as harsh or bold, sometimes it simply means we show up ready to coach someone’s brain with honesty and love (even if it’s not the easiest thing to do). Service energy may be helpful to anchor into here. What best serves the client for her to get the most from the consult?
 
-
-
-
 3. I wasn’t in service energy, in that I wasn’t seeing the consult as a valuable service that needed to be provided all at once. For example, you wouldn’t get half of a teeth cleaning or half of a facial and just tell the person they could leave early if they wanted to because that’s not actually of highest service to the client.
 
 — Great awareness here coach! You are so right. Now you know what you can do better for next time if this ever comes up again!
-
-
-
 
 4. I wasn’t the strongest energy on the call. I let her energy (chaos) overpower my energy and it literally split the consult in half. This feels differential. Like I deferred to her, I let her set the tone.
 
@@ -1491,12 +1473,13 @@ Hope your consult goes well! Feel free to come back with any coaching you may ne
 
 ---
 
-## Consult &amp; Client Drought (1/21/2026 &#8211; LF)
+## Consult & Client Drought (1/21/2026 – LF)
+
+**Date:** 2026-01-27
 
 **QUESTION:**
 
 How can I turn things around in my business & start creating consults + clients again?
-
 
 Currently,
 
@@ -1518,12 +1501,9 @@ Currently,
 
 – I joined Entrepreneur Coach
 
-
 So, I believe I’m ‘doing’ enough, but I haven’t had a consult book since Aug. 2025 & she was a no.
 
-
 My Models:
-
 
 Unintentional
 
@@ -1537,7 +1517,6 @@ A: freeze, do nothing, 2nd guess myself & my actions, spin in confusion, overthi
 
 R: Stay stuck & confused, with no results
 
-
 Intentional
 
 C: 0 consults in 5 months
@@ -1549,7 +1528,6 @@ F: empowered
 A: evaluate, ask for help, make offers, think about & speak directly to my ideal client, solve her problem
 
 R: I solve for creating consults & clients
-
 
 Thanks in advance for your coaching.
 
@@ -1576,7 +1554,6 @@ This is where belief planning matters. How do you need to be thinking  consiste
 
 The second area I want you to look at is time. How long have you actually been operating from your intentional model? And what timeline are you expecting for consults and clients to appear?
 
-
 We tend to underestimate how long it takes to build momentum 
 and
  how long we need to stay in a high-value mindset for that momentum to show up. When we judge results by how much effort we feel we’re putting in, discouragement creeps in fast.
@@ -1584,7 +1561,6 @@ and
 Effort doesn’t create clients. Skill does. Mastery does. Repetition does. And belief is what allows those things to compound.
 
 Finally, when clients aren’t reaching out yet, evaluation becomes your highest-value work. Not judgment  evaluation. Turn everything into a road map hwo to go again and who you need to become when you go again?
-
 
 How are you meeting people, exactly? What’s working? What’s unclear? Where are you asking for consults, and where are you holding back? And what are the thoughts you want to deliberately cultivate so your actions stay belief-led instead of fear-managed?
 
@@ -1595,6 +1571,8 @@ You’re not stuck. You’re building the part most people quit before. This is 
 ---
 
 ## Ghosting consult
+
+**Date:** 2026-03-19
 
 **QUESTION:**
 
@@ -1633,19 +1611,17 @@ What actions would you take next in your business?
 
 ## Making money is as in my control as weight loss
 
+**Date:** 2026-04-14
+
 **QUESTION:**
 
 Things I notice when I work towards a result and don’t create the results I want in two weeks. This is good awareness.
 
-
 I started EOC, Creating new beliefs. It’s going great. At the start of class, I set the intention that I would create 3 clients this month. I feel empowered, focused, creating desire.
-
 
 I hold the desire and space well for 2 weeks, then my brain is like, “OK, where issss it?’
 
-
 My brain expected I would sign at least one client within those two weeks. I noticed when that did not happen, my brain offered these UTS:
-
 
 This isn’t working.
 
@@ -1659,18 +1635,13 @@ You’re embarrassing.
 
 Why do you always try to do things you can’t create?
 
-
 Rude. These are not thoughts I’m entertaining, but I did write the crap out after ITC to see what was causing the feelings of Disbelief. I evaluated my actual work and anchored back into what I am grateful for and the other results I’ve created during these two weeks. One is being invited to speak at a Women’s Conference this summer and being invited on a podcast that I wanted to speak on. Those are great things.
-
 
 Things I DO believe I control over: my time, my schedule, my body – ex: to lose 15 pounds I know how to do that. I know that when I take those actions, I get the results. This is in process now and going great despite a couple unexpected results. I’ve lost 3 pounds.
 
-
 I’m showing my brain, that’s what making money is like. Meet people, tell them I’m a life coach, make offers. That’s all it really takes. In my evaluation, I laid out the other tasks I’m taking from being the sold out coach.
 
-
 Right now, what my brain is really craving is the reassurance that my work will pay off. I assured it that yes. However, just like with our health, we can’t go into this in disbelief, we have to make the plan based on the fact we have, make decisions as the athlete, weigh and checkin once a week to see where I’m at, and don’t make fluctuations means I can’t do it, I’m having setbacks, or that this is going slow.
-
 
 Borrowing that is helpful. I’d love coaching on my control in making the money. I’ll do an ITC on that too. I’m asking: What do I control bringing in cash?
 
@@ -1757,6 +1728,8 @@ You’re much closer than your brain is telling you you just have to outlast tha
 ---
 
 ## 1:1 vs. group
+
+**Date:** 2026-03-24
 
 **QUESTION:**
 
@@ -1910,16 +1883,15 @@ What’s coming up for you as you look at it this way?
 
 ## Jumping in with both feet
 
+**Date:** 2026-02-02
+
 **QUESTION:**
 
 I am getting the objection of “I want to wait to start til I can fully go all in” or “I want to wait to start til I finish setting up XYZ.” or “I want to wait to start because I’m visiting my mom next week & I want to be able to give this investment my full attention”
 
-
 And I typically ask “What does “going all in” mean for you?”
 
-
 They usually say some version of they just don’t want to let themselves down for not utilizing coaching and the investment.
-
 
 But often times the delay is forever or their self trust about following through worries them enough to talk themselves out of the investment. Any advice for how I coach through this objection better?
 
@@ -1945,25 +1917,19 @@ really hearing them
  
 when they say this, then get curious as to why their brain is offering it, and repeat back what you hear in a loving way.
 
-
-
 Let’s do an example scenario:
 
 You:
  “What I’m hearing you say is you don’t think you will utilize the coaching if you start now… how so? or why?”
 
-
 Them: 
  “Yes, I just think I’ll be too busy to give it my full attention. It would be easier when I’m done with xyz in a few weeks.”
-
 
 You:
  “Interesting, can I share what I see? It’s what I would do as your coach.”
 
-
 Them:
  “Sure!”
-
 
 You:
  “Okay, our brain’s job is to protect us from discomfort and challenge — but we also know that growth usually comes from facing and moving through those challenges. Do you see how, right now, your brain is doing its job and trying to protect you? On one hand, you know coaching would be helpful for creating the results you want, and at the same time, your brain is telling you it would be safer to wait. But that’s actually the whole point of coaching – to build the skills to meet the challenges that are already in front of us.
@@ -2006,43 +1972,33 @@ Bring anything you may still need back here for more coaching.
 
 ## Consult Eval 1/26/26
 
+**Date:** 2026-01-28
+
 **QUESTION:**
 
 What worked:
 
-
 I connected with the client and knew her problem well.
-
 
 I focused on connecting with the client instead of making sure I stuck to the call format. This meant discussing her relationship in a bit more detail than I’ve done in the past.
 
-
 I
-
 
 What didn’t work:
 
-
 I didn’t ask her about what comes up for her around the price. Time ran over and I got the feeling that she was a no. And once i felt like she was a no I let go of the process. I think moving forward I want to let go of the reins but not the process.
-
 
 I felt nervous as soon as she said she was coach shopping. I felt pressure to perform and be the best even though I’m not trying to get a yes, I’m trying to get to an honest answer. I felt exposed.
 
-
 I wasn’t able to coach her on shopping around for other coaches. I didn’t go very well last time I did this so I need to figure out what motivation is with this one so I feel really clean about it.
-
 
 What to do next time:
 
-
 Stick to the process even when I feel like the clients is a no.
-
 
 Make sure to ask about price no matter what. The first person that says the elephant in the room wins the prize!
 
-
 Get consent to coach on objections.
-
 
 Please share any coaching you have on the above consult. Thanks!
 
@@ -2067,23 +2023,21 @@ You shared that this person was shopping around for other coaches which brought 
  — share more on this if you don’t mind.
  What do you mean by this?
 
-
 5. What might you try differently next time if on a consult they say they are shopping around?
 
 ---
 
-## Weight loss consult &#8211; bridging the gap
+## Weight loss consult – bridging the gap
+
+**Date:** 2026-03-09
 
 **QUESTION:**
 
 hi there!
 
-
 I just had a consult with a potential weight loss client. I felt a little stuck with the bridging the gap part. Her main issue is yoyo dieting. The pattern is she over-restricts and then over indulges. the way i would help her is by first addressing the over-restriction because that is the first domino of the cycle. i could tell she is afraid of not over-restricting (for her its mainly severely intermittent fasting where she eats one meal a day). i brought that up and she agreed she’s afraid of not over-restricting). i wasn’t really sure where to go from there. i started getting into the details of what we would do on our first call which would be to create a custom plan for her where she would pick it and i would help guide her using my guidelines that i would provide during our first session.
 
-
 We ended the call saying that she would think about it and get back to me.
-
 
 Would love your thoughts! not sure if i did the bridging the gap part correctly / overcoming objections. Thank you in advance!
 
@@ -2173,21 +2127,19 @@ Take some time to answers the questions and then bring back your answers here fo
 
 ## Self-love week eval 2
 
+**Date:** 2026-02-27
+
 **QUESTION:**
 
 I took a long time because I didn’t plan ahead, I was clear on the topic and took notes in my notes app, but was wrapped in warming them up and didn’t think about the time. I want to warm them up but 5 min or so.
 
 What planning will you implement specifically to create a clean start time?- I’ll say hellos, ask. questions about the training before, and share a thought about it and use that to ease into that days topic. I will have a timer. T- they are ready to go, I have great information to teach, we’re all ready. F- decisive, planned, clear.
 
-
 What thoughts were behind the energy shift- It was a mix; disappointment when not as many people were there; not man consults booked. Next time I want to remind myself that I’m doing this for right now clients as well as those 3 years from now and in-between. I’m in this for the long haul. I’m always speaking to one person whether live or in person and this is content I’ll use over and over again.
-
 
 I didn’t plan ahead because I didn’t really sit and think out the flow of this challenge. I did underestimate the time and energy it would take and didn’t think about the benefit of nurturing or having concise emails in place. For the next round, I want a daily email to market to everyone to join. Once started, I want a daily email to remind them of the live call in the morning and to wrap up and provide replay at the end. I also want to send an email to those that have not joined sharing screenshots of wins/shifts, etc and remind them to join. I’ll start emailing/marketing 7 days before go-time. and then selling 5 days after.
 
-
 the 20 consults was just a hope. no date behind it. To create more consults next time, I’ll have a tighter marketing plan like above, tighter teaching live call with Q&A at the end of each call; continue the giveaways, etcl.
-
 
 I am a 10/10 it will make a difference because I know it will make this a better teaching/learning/buying experience for them.
 
@@ -2234,6 +2186,8 @@ Great work!
 ---
 
 ## Can you help me with the evaluation step please?
+
+**Date:** 2026-03-09
 
 **QUESTION:**
 
@@ -2328,19 +2282,17 @@ So let’s start there  with what you hope to gain from them and what you think
 
 ## Three Consults This Week
 
+**Date:** 2026-02-04
+
 **QUESTION:**
 
 I have three consults on my calendar this week. I asked myself, how are you feeling about the three consults?
 
-
 I have a bit of nervousness and what feels like graspy energy when I think, “This could it, I could make some money.” Then I also go to “they won’t say, “yes.”, and also telling myself not to get too excited to say cautious – I know this warning is to brace myself for discouragement if the consult cancels or if I am unable to convert them on the call.
-
 
 I don’t know if I’m asking myself the write questions but I wanted to dump out what I’m thinking about this week in my self coaching. This month I’d like to sign 6 clients. I’ve done this in the past, however my belief in signing 6 clients this month feels like a 1 because I’m telling myself I have to get better at consults.
 
-
 I’ve been noticing that I do a lot of “protection” of myself or what my brain thinks is protection. So, I fail ahead of time on goals I’ve set.
-
 
 Going into this week, I do want to prepare for my consults by reviewing my last two consults that did not close and I also want to coach my brain on not choosing failure ahead of time.
 
@@ -2395,6 +2347,8 @@ And that version of you the one who doesn’t fail ahead of time, who leads with
 
 ## #95 consult
 
+**Date:** 2026-03-09
+
 **QUESTION:**
 
 What worked:
@@ -2414,7 +2368,6 @@ In reflection, she was talking about what she needed to do, but wasn’t compell
 I talked to her instead of asking questions for her to come to the conclusion herself
 
 I’ve been self-sabataging I think, and have not been using a process. I’ve signed clients but I’m back to feeling all over the place on my consults and the lack of process I use.
-
 
 What to do differently:
 
@@ -2448,54 +2401,43 @@ This being said, if you’d like, find one specific area you’d like to focus o
 
 ## Surprised by a follow up no show
 
+**Date:** 2026-04-30
+
 **QUESTION:**
 
 WHAT WORKED
 
 I prepped before the call, refreshed on 2K, and came in service energy. This was a referral and she’d been watching me on IG for 6 months. Tech hiccup at the jump, but we moved right into the greet. She was looking off to the side, but I didn’t let it bother me.
 
-
 I loved having the pre-qualifying questions. They helped guide where she is and where she wants to go. I inquired deeper throughout and held a strong standard: I only work with people ready to go all in on one product. She had multiple ideas.
-
 
 She got emotional several times because I hit the nail on the head and she felt safe. I spoke the truth, even when uncomfortable. This is the best I’ve done at bridging the gap.I clearly saw what she needed. I identified her objection early: time.
 
-
 I let her ask about price, stated it confidently, and held silence. When she said it was higher than expected, I agreed and asked what it’s costing her not to do it—she connected it to her health, mindset, and lifestyle. When she gave the time objection, I challenged it and she realized it’s already been 3 years.
 
-
 She asked to start later, I said no and reinforced we start now. I gave two options: decide now or follow up in 2 days. She chose follow-up. Call felt natural, not rushed. I had fun, served, spoke truth, and saw her highest potential. I could feel she wanted to say yes.
-
 
 WHAT DIDN’T WORK
 
 I need to simplify how I bridge the gap:clear, concise, slower. I didn’t fully understand her vision or end goal. I rushed key moments.
 
-
 I didn’t fully handle the time objection at a deeper level or inquire enough. She mentioned her husband and I didn’t address it. When she asked to start later, I said no instead of exploring it.
 
-
 She lacked belief in herself, and I missed the chance to fully paint the vision and step her into possibility.
-
 
 WHAT I’LL DO DIFFERENTLY
 
 Rebalance the call: 25% where they are, 25% where they want to go, 15% gap, 15% vision, 15% objections, 5% next steps.
 
-
 Practice simplifying the gap. Focus on mastering vision. Slow down.
 
-
 When time objections come up, inquire deeper and uncover the real fear (uncertainty, doubt). Stay curious instead of assuming.
-
 
 RESULT / HYPOTHESIS
 
 No-show for follow-up.
 
-
 I didn’t paint the vision strongly enough or fully resolve the time objection. My response to “starting later” may have created resistance. The no-show reflects indecision and unresolved fear.
-
 
 Followed up with a video (gap + vision). Releasing attachment and calling in clients ready to commit.
 
@@ -2526,25 +2468,21 @@ If not, try to do so with any new consult evals going forward so we can best ser
 
 ## Connection energy not coming across
 
+**Date:** 2026-03-19
+
 **QUESTION:**
 
 First- I just want to say the quality of ask a coach has been so amazing lately. Loving the depth in the Q&A, thank you.
 
-
 Second- I had a consult recently she was a no and when I asked for feedback over email, this is what was said:
-
 
 “Absolutely, I’m passionate about the coaching field so I’ll be honest. I didn’t feel an emotional connection with you. It felt more transactional than anything.”
 
-
 I certainly didn’t mean for it to feel transactional but I did keep the call structured and professional.
-
 
 But I think I need to work on the skill of “emotionally connecting” like she said. I am wondering what that could look like.
 
-
 Part of me just comes up with logical answers like more small talk at the beginning of the call but I know that’s not what this is about.
-
 
 Can you help me brainstorm how I might ground my energy in more emotional connection with the person on the call aside from active listening and coaching questions?
 
@@ -2562,7 +2500,6 @@ Now let’s look at the “emotional connection” piece. I love that your brain
 
 You’ve probably experienced that before at a doctor’s office or on a sales call where someone is saying the “right” things, but it feels flat or transactional anyway. So the question isn’t:
 
-
 “What should I do differently?” 
 It’s: 
 “Who am I being and what am I thinking that creates connection?”
@@ -2573,17 +2510,7 @@ When you lean heavily into structure and professionalism, it’s not a problem i
 
 “I need to get this right”
 
-
-
-
-
-
 “I need to be effective”
-
-
-
-
-
 
 “I need to show value”
 
@@ -2593,31 +2520,11 @@ So let’s experiment with thoughts that naturally create connection:
 
 “I genuinely care about this person.”
 
-
-
-
-
-
 “I want to understand what it’s like to be them.”
-
-
-
-
-
 
 “What is their life like without this work?”
 
-
-
-
-
-
 “How is this problem impacting them emotionally?”
-
-
-
-
-
 
 “I’m here to serve, not perform.”
 
@@ -2647,17 +2554,7 @@ Try going into a consult where you lean too far into connection:
 
 Less structure
 
-
-
-
-
-
 Less “professional”
-
-
-
-
-
 
 More human
 
@@ -2668,6 +2565,8 @@ That tells me you’re deeply connected to your mission and your growth and that
 ---
 
 ## I feel like quitting- IV
+
+**Date:** 2026-05-14
 
 **QUESTION:**
 
@@ -2701,11 +2600,9 @@ And that matters because when your brain believes people only care about price, 
 
 I also want you to notice something important:
 
-
 The more time you spend thinking deeply about your client’s problem, understanding why they’re stuck, learning how to explain it clearly, and helping them see what’s possible on the other side the more valuable your offer becomes.
 
 Not you as a human.
-
 
 Your worth is already whole and complete. 
 This work does not add to or take away from your worthiness. 
@@ -2720,11 +2617,9 @@ This is also why in-person conversations can be so valuable. They leave room for
 
 You mentioned wanting certainty that your program works “even if they’ve tried everything,” and I think this is important too:
 
-
 Part of building certainty is being willing to practice before you feel fully ready. Before you have all the proof. Before your brain gives you permission. 
 Because that’s actually how confidence gets built. 
 Not by waiting to feel certain first.
-
 
 But by continuing to speak, coach, refine, think, and share anyway.
 
@@ -2732,7 +2627,9 @@ You’re already doing the right work here. Keep practicing the beliefs you want
 
 ---
 
-## Another no&#8230;part 3
+## Another no…part 3
+
+**Date:** 2026-06-11
 
 **QUESTION:**
 
@@ -2791,12 +2688,13 @@ There is so much gold in this reflection. Great Work Coach!
 
 ## Meetup evaluation and feedback request
 
+**Date:** 2026-04-29
+
 **QUESTION:**
 
 Hi!
 
 I went to an informal church ladies meetup yesterday. Picnic in the park with moms and kids. I was hoping to meet and connect and tell people I was a life coach and see what happened from there. I did go in curious but also with intent to meet people and tell them I was a life coach and offer to help, if the occasion arose.
-
 
 My eval:
 
@@ -2810,7 +2708,6 @@ My boys enjoyed themselves
 
 I brought my chair, had a nice time, good weather.
 
-
 Wdw- No bathrooms and ants showed up
 
 Only one other family showed up because the leader last minute change the venue didn’t alert anybody who had said they were going and didn’t show up.
@@ -2819,18 +2716,15 @@ The other lady and I talked about realty the whole time -why? That was her job. 
 
 It was really far away for me to drive.
 
-
 Wdd- introduce myself and figure out where in the conversation I could insert that this is how I help the ladies that I coach.
 
 Check the invite again last second?
 
 Not bring sandwiches.
 
-
 I really just feel like i don’t know how to naturally steer the conversation to, oh, that is what I help people with.
 
 I don’t really even think any of our conversation was a lead-in to tie coaching in or how I help.
-
 
 Do you have any suggestions or what else I could do differently? Or is that too salesy or creepy and because she didn’t ask, I shouldn’t push?
 
@@ -2925,7 +2819,9 @@ I have to ask what are you bringing instead of sandwiches next time? I’m curio
 
 ---
 
-## Consult Eval &#8211; JB &#8211; 06/02/26
+## Consult Eval – JB – 06/02/26
+
+**Date:** 2026-02-11
 
 **QUESTION:**
 
@@ -2942,7 +2838,6 @@ What went well
 • I sensed that she wasn’t fully bought in and asked questions to understand what was going on instead of shying away from it
 
 • I asked what was missing for her to make her decision
-
 
 What didn’t go well
 
@@ -2963,7 +2858,6 @@ What didn’t go well
 • But I think at the core, where I failed is on creating the vision. I was too much on the process and not enough on the results it would create for her or how she would feel.
 
 So she did have the concrete part she was looking for but it must have still felt too brainy and not enough problem solving or relief bringing.
-
 
 What to do differently
 
@@ -2993,22 +2887,19 @@ If not, try to do so with any new consult evals going forward so we can best ser
 
 ## Client wants to postpone start b/c pregnancy
 
+**Date:** 2026-04-08
+
 **QUESTION:**
 
 I had a consult in March with someone who wanted to begin May 1. I just got this email and I’m wondering how to respond:
 
-
 “So… we set things up to begin my coaching on 5/1. Well, I just discovered I’m pregnant with my first babe!!
-
 
 I’m so excited and also will want to postpone any investments to cover out of pocket maternity care.
 
-
 Expected due date is 12/12… so I’d love to circle back potentially around new year.
 
-
 I’m very appreciative of your work and will continue to plug in all the time.
-
 
 Now, this woman is about to get pretty savage about transition to remote work 💫”
 
@@ -3085,16 +2976,15 @@ You’ve got this coach!
 
 ## Energy with consultations vs. Energy with clients
 
+**Date:** 2026-02-09
+
 **QUESTION:**
 
 I’ve been at a place where I’m not having scarcity thoughts like I used to with consultations that would cause a lot of “get” energy. I also know that I’m a great coach and my clients get amazing results.
 
-
 The problem is, I will go a long time without a consultation and then when one schedules I feel like I’m not prepared. I’ll start questioning my prices and question things I’m doing, which makes me feel like a beginner again.
 
-
 I think because I don’t get a lot of consults I haven’t been able to really work through this behavior, and it throws me off every time and makes me nervous for the call. And when I’m nervous, I don’t listen or feel like my full leadership energy. Now, when people become my clients, I’m never nervous. I feel confident, capable and like a full leader.
-
 
 Can you help me with this confusion, I want to feel as confident with consults as I do with my clients.
 
@@ -3170,27 +3060,23 @@ And  bring your answers back. We can walk this through together and stabilize y
 
 ---
 
-## Another no part 2&#8230;
+## Another no part 2…
+
+**Date:** 2026-06-08
 
 **QUESTION:**
 
 You are spot on about me overlooking the good. It was a big deal to serve her so well 2 times…and to do a great job! Before I go on, I did want to ask you if I did anything wrong with the fact that she had a plan and wanted to go it alone? Did I give too much info? I did not give the how…only the what…but did I do that wrong?
 
-
 It’s also very helpful that you pointed out the skill isn’t about avoiding disappointment…but getting better at allowing it, and being careful about what I make it mean. I can see I’m not there yet.
-
 
 You are also correct that I am feeling scarcity and that it’s been a long time of consults being rare, and that it might continue. I do not want it to be that way…but my brain now has TONS of evidence about them not happening much. I see my brain asking HOW are other people getting consults? That is also why I am still in here showing up…bc consistent consults is not a skill I have yet.
 
-
 Eval…I think I handled the consult well. I think I bridged the gap, created the vision, and showed up in great energy. I do feel I am getting more clear there. And truthfully, I was also proud of myself for not offering any lower prices. I was committed to my price being very worth it before I even got on the call, and I held that belief easily, especially for where she was and where we were about to go.
-
 
 Something came up that might be something though…a difference from the discounted 2 to this one is I think I felt going into the other 2 that they were not going to be able to pay full price and I was going to take whatever it took for them to be clients. And looking back, I remember thinking “Uh oh” when the last one said she was a 2 in her finances and was explaining why. I remember purposely trying to not focus on that fear when she talked about how life was so expensive and that she doesn’t make enough $ and that it’s always been hard. If I may be 100% truthful here…I think I also realized that I feel that way too! I hate to say that…but inside I know I was feeling it. I was also thinking how I don’t WANT to feel that way anymore..and I am working to stop it. I tried to be in belief for her and I really felt I did…guessing this means no though?
 
-
 I also see I could have asked what she meant by tougher. I think I also fear being pushy or convincing b/c I don’t want to sway anyone to do something or come on too strong or be graspy. Overcoming objections is still tricky for me too!
-
 
 Jeesh my list is long!
 
@@ -3252,27 +3138,23 @@ That’s how the skill gets built. Great work on this part of the process, even 
 
 ## 0/15 sign ups // aac4
 
+**Date:** 2026-06-03
+
 **QUESTION:**
 
 I really considered the coaching! And was going all in… except in order to secure the space, I need to have the funds to book. And without the actual sales, the closer the event got, it felt like too much of a risk!
 
-
 So I set the “strike of midnight” at midnight tonight and put out a few friends and fam invites. I got one person interested— which puts me back in the loop of offering discounts when I swore never again, lol.
-
 
 I did however see my lack of commitment.
 
 It’s interesting that I didn’t secure the space first. But I just assumed once I had the first few yeses, I could rent the space.
 
-
 In hindsight, one thing that I am celebrating is that in past years, this would’ve devastated me. Now it feels more like, disappointing, but also ok that it wasn’t the time for this.
-
 
 It feels like I’ve been in a shifting relationship with my business, who I want to be as a coach— bc my own thoughts haven’t been in love with my business and my offers.
 
-
 Now, it feels like I’m back to square one; even though, I know that’s not anywhere near true! Bc I’ve gained so much experience over the years.
-
 
 But ready to start feeling excited by my business and offers again.
 
@@ -3331,16 +3213,15 @@ And from what you’ve shared, I think you’re much closer than you realize. Th
 
 ## Consult Call Judgements
 
+**Date:** 2026-03-02
+
 **QUESTION:**
 
 Hi Coaches,
 
-
 I just received a notification for a consult call booking, and on my booking page I have the question “Is there anything I should know prior to our call?” where I typically get basic info. However…. the person who booked this consult call left a verrrrryyyy long message (which is absolutely fine), and I am having a hard time not judging her based on what she says in this answer.
 
-
 In her answer, she goes into a very in-depth story about her son and daughter-in-law, claiming that this DIL has ruined the relationship she had with her son. She claims the DIL has “torn our family apart.” She also writes about how the other sons don’t do enough for her, and it’s also because of their wives, and how it’s wrong of them to focus on their own little children and not her.
-
 
 The coach in me can see what’s going on very clearly– victim mentality, her expectations, and the manual she has for her children and their wives, etc. But there is also a part of me that already dislikes her because she sounds exactly like my own mother-in-law. I keep having the thought that “someone like this will never change, no matter what.” I know our thoughts create our feelings and drive our actions, and are not truth… but this feels very true to me right now. I have a LOT of thoughts about her already, and I’m struggling to keep a clean mindset around this consult call.
 
@@ -3420,7 +3301,9 @@ Feel free to bring back your thoughts or any further coaching you may need. Than
 
 ---
 
-## Seeing problems as &#8220;too big&#8221;
+## Seeing problems as “too big”
+
+**Date:** 2026-04-21
 
 **QUESTION:**
 
@@ -3474,60 +3357,6 @@ you aren’t there right now, you will be
 This is of course just an example. You may have a different way you want to bridge the gap! What feels aligned based on what you do as a coach and how you know you can help?
 
 You can bring any of your thoughts and responses back here and we will continue to help you before this consult! You’ve got this coach, trust yourself!
-
----
-
-## Networking question
-
-**QUESTION:**
-
-Hi AAC!
-
-
-I was listening to one of Stacey’s trainings today and I’m confused on what she said about networking. She said the point of networking meeting isn’t to sell…it’s to build my belief that I am a coach. I understand this in the sense that it is a place for us to tell people we are a coach and build our belief (because she said we first become a coach in our mind and I see that helps).
-
-
-But this information brings up 2 questions…first, if I believe in my ability as a coach, but my struggle is more in marketing, is it still important for me to keep going to these? In the past year and a half I have I joined several networking groups and meetings, and I will be honest, I would have thought I would meet clients there. (I did meet 2 from those efforts most likely). But I see that I have been going in the hopes of “getting” clients, and I want to change this energy if it isn’t right. Then my brain goes to asking if it is still “worth” all the time, money and energy I put into going to these though?
-
-
-The other thing is if I am not going to networking meetings to meet potential clients, where am I finding them? As I have shared with you, I am on FB and LinkedIn and I have not gotten many clients from FB for the past 2 years, and no clients from LI yet (new in the last couple months)…I know I am there to SERVE, and I do that and I really do love it. However, I am struggling to make sense in my brain. 🙂 I’m not on FB to “get” clients, but to serve them….but ultimately I am really on FB (social media) to “get” clients right? I mean, I show up in service, but isn’t the end goal to obtain clients? I’m sure this is an easy fix but I can’t make sense of it in my brain right now. I know I want to attract and ultimately “get” new clients…but it seems like the main 2 ways to do it are not what I am supposed to be doing? Does this make sense?
-
-
-I hope you can help and that you understand what I mean lol. Thank you!!
-
-**ANSWER:**
-
-Hey Coach!
-
-This makes complete sense, and I’m really glad you brought it here because your brain is just trying to organize it all. You’re not wrong that the end result of all of this is clients. That’s the point of having a business. Where your brain is getting tangled is in how you relate to the process of getting them!
-
-There’s a big difference between showing up in “get” energy versus “give” energy. When you’re in get, you’re scanning every interaction for “is this going to turn into a client?” and it creates pressure, urgency, and often subtle disconnection. When you’re in give, you’re focused on being useful, sharing value, and letting people experience you. Ironically, that’s what actually leads to people becoming clients. So yes, you are on Facebook, LinkedIn, and even at networking events to ultimately sign clients. 
-But
- the way you do that is by consistently giving people a real experience of your work. 
-Does that help shift anything for you when you think about it that way?
-
-With networking specifically, I’d get curious about how you want to use those spaces. They can absolutely be valuable, but not because you walk in expecting to leave with clients. They’re a place to practice being someone who talks about what she does. It’s a place to also be someone who connects with others and who shares her work naturally. Do you feel like those rooms help you show up more confidently as a coach? Or do they feel draining and misaligned? It’s okay to decide they’re not your primary strategy if they don’t feel like the best use of your energy. But that decision should come from clarity, not from disappointment that they didn’t produce immediate clients.
-
-Stacey teaches that when we meet people from “give/service” energy, we want to focus on 
-nurturing the relationship over time
-… not being in a space where we expect them to become a client right away (or at all). In thinking of this, when you meet someone, how can you stay in touch with them so they are exposed to who you are over time? For example, maybe it’s making a connection and then “friending” them on socials… Maybe it’s exchanging numbers and keeping in touch with coffee.
-
-Something else I like to keep in mind is that when you meet people, you’re not just meeting 
-them
-… 
-you’re stepping into their world.
- Every person you connect with has relationships, conversations, communities, and opportunities you can’t see yet. When you approach it from that place, the interaction stops being about “does this person become my client?” and becomes “how do I genuinely connect here?” You may meet a woman or man who never buys from you, and that’s completely fine. What matters is that they understand what you do, they’ve experienced you as genuine, and they trust the way you show up. If there’s no pressure, no attachment, no sense that you’re trying to get something from them, they’re much more likely to remember you and talk about you.
-
-That’s how referrals happen in a really clean way. Over time, those kinds of connections can become incredibly powerful. Someone with a large network, or even just a few really aligned relationships, may naturally send people your way simply because they respect what you do and how you do it. They didn’t ever feel pressure or an expectation that you “only met and got to know them” for them to be your client. When you’ve built connections in a clean way, it feels easy for someone to share you with their network too.
-
-So when you think about networking or even social media, it can help to zoom out a bit. You’re not just looking for the next client in front of you. 
-You’re building a reputation, a presence, and relationships that extend far beyond a single conversation.
-
-And when you ask, “if not there, then where do I find clients?” I’d turn that back to you a bit. Where are the people you want to help already spending time? And how are you showing up there in a way that lets them actually see what you do? You mentioned you love serving on social media, which is huge. Now the question becomes, are you also letting that service lead somewhere?
- Are you inviting people into working with you, or are you stopping at value?
- Attraction happens when people can feel your work AND also know what to do next if they want more of it. That can be as simple as remembering to add a CTA to the value you share (like having them book a consult, join an email list, sign up for a free webinar, etc.)
-
-What do you think? Does this help clarify a bit?
 
 ---
 

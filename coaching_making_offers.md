@@ -1,197 +1,30 @@
 # Coaching Q&A: Making Offers
 
-## overcoming objections and beliefs
+## Meeting people and telling them I am a life coach – with flyers?
 
-**QUESTION:**
-
-The last coach was so right. My brain keeps predicting that the next 5–7 years will be failure and that I won’t make money because of the history I’ve had. Sometimes I look at the job market and social work jobs, and I genuinely don’t see anything else I want to do. I feel mentally drained from it all.
-
-
-One of my goals right now is to use Ask a Coach as much as possible while I work on consistently showing up for my business. The next thing I’m focused on is content. I’ve been slowly creating content, but I haven’t posted yet because I keep telling myself I need to become consistent first.
-
-
-I’ve made organic offers before, but I still hold myself back from posting. I keep going back and forth about whether I should wait until I have a full week (or more) of content prepared before I start posting consistently. Part of me feels like it’s strategy, because I want something ready for the days I don’t feel confident or consistent. But another part of me wonders if this is just another way my brain is trying to keep me safe by avoiding posting altogether.
-
-**ANSWER:**
-
-Hey Coach,
-
-First, I want to celebrate you for deciding that one of your goals is to consistently show up for your business and use Ask a Coach while you build that. That matters. You are already practicing something different by bringing awareness to the pattern instead of just unconsciously living inside of it.
-
-I also want to direct you to Episode 11 of the podcast: 
-Creating Content vs. Creating Clients
-, because I think it will really help you separate actual strategy from what your brain may be calling strategy in order to keep you safe.
-
-You said, “I haven’t posted yet,” and this is where I want you to slow down and really study what happens in your mind around posting. 
-This is so normal.
-
-Your brain will offer excuse after excuse to avoid the thing that feels vulnerable. I know this from experience. Now I think about it as strengthening my consistency muscle. Going first. Going often. Showing up with purpose before I feel fully ready.
-
-At the core, this is not really a content problem. It’s a relationship with discomfort problem.
-
-Your brain is trying to solve for emotional safety before action:
-
-
-“I should wait.”
-
-
-“I want something ready.”
-
-
-“I need to become consistent first.”
-
-
-“I don’t feel confident.”
-
-
-“I haven’t posted yet.” ( very sneaky one )
-
-That last one is sneaky because your brain presents it like evidence. But “I haven’t posted yet” is just a circumstance from the past. 
-Your brain is taking it and using it to predict the future too.
-
-I want you to notice the model underneath what’s happening:
-
-C — You want to create consistent content for your business.
-
-T — “I need to become consistent first.”
-
-
-F — Pressure. Doubt. Hesitation.
-
-
-A — Waiting. Preparing. Overthinking. Not posting. Looking for the “right” plan first.
-
-
-R — You stay inconsistent and create more evidence for the original thought.
-
-The reason I want you to see this is because the problem is not actually your ability to post. The problem is the sentence your brain keeps offering you before the action. 
-And this is important: 
-The action you want cannot come from the identity of someone waiting to feel ready first.
-
-So instead of asking:
-
-
-“How do I finally become confident and consistent?” 
-Try asking:
-
-
-“What would the version of me who is building consistency do today?”
-
-Even if it’s messy.
-
-
-Even if it’s uncomfortable.
-
-
-Even if the post is simple.
-
-That question matters because people often try to figure out 
-how
- to create results while still thinking like the version of themselves who avoids the discomfort required to create them.
-
-I also want you to think about your 
-why
- not in a just motivational way, but because service changes where your focus goes.
-
-Who needs to hear what you have to say?
-
-
-What are they struggling with right now that your perspective could genuinely help with?
-
-
-What happens if they never hear it because you stayed focused on yourself long enough to avoid posting?
-
-When your focus stays on you  how you look, whether you’re doing it right, whether people will judge you   your brain experiences posting as danger. But when you focus on helping, serving, adding value, and connecting, it shifts the emotional experience entirely. When we get out of our own way we get out there and really help others!
-
-I also recommend deciding ahead of time what consistency means for you right now. 
-Not ideal consistency realistic for you to create the habit and overcome your brains nonsense and resistance. 
-
-
-Two times a week?
-
-
-Three times a week?
-
-Something doable enough that you can build trust with yourself.
-
-Consistency is not built by waiting to become a naturally consistent person. It’s built through repeated evidence. Through showing yourself, over and over again, “I do what I say I’m going to do.” 
-And let it be messy in the beginning.
-
-People spend so much time trying to avoid inconsistency that they never build consistency. 
-You are becoming the version of you who shows up for the business.
-
-I also want you to notice this:
-
-
-When you don’t follow your original plan, what tends to happen instead? 
-This question matters because there is usually a replacement behavior running automatically: 
-scrolling, 
-researching, 
-rewriting, 
-planning, 
-consuming, 
-busy work,
-
-
-overthinking? Catch this and redirect it.  You will be able to help your client when they share a pattern and it will be something you have experience ovecoming.
-
-You can’t change a pattern you can’t see. 
-Once you identify the replacement behavior, gently interrupt it. Not from shame. From awareness. 
-“Ohhh… this is what my brain does when posting feels vulnerable.” 
-And then the next question becomes:
-
-
-How do I take the action in spite of the emotion? 
-Not: 
-“How do I remove the emotion first?” 
-That shift changes everything.
-
-I also want to offer you this:
-
-
-Just because your brain says, “I don’t want to do it right now,” does not mean you won’t, can’t, or shouldn’t. 
-It just means you are in the process of becoming someone new.
-
-Keep showing yourself that you can do it Coach! 
-
-
-Especially before you fully believe it. This is the work and it’s so worth it.
-
----
-
-## Meeting people and telling them I am a life coach &#8211; with flyers?
+**Date:** 2026-05-05
 
 **QUESTION:**
 
 I have been working through the 2k process for about 4 months now. I have had 0 clients but have definitely developed skills and confidence. I know my day will come!
 
-
 I’m comfortable on social and video but have not figured out in person yet.
-
 
 My biggest challenge is meeting people and telling them I am a life coach.
 
-
 I coach moms and my kids’ activities are filled with other moms. I get out of my comfort zone (natural introvert) to meet them and talk to them but I don’t seem to find the space to mention what I do and how I can help them.
-
 
 I have a ballgame coming up and I would like to share what I have to offer with others.
 
-
 I chat, ask about their day, their life but coaching doesn’t seem to come up naturally. It makes me uncomfortable to try to force it so I don’t.
-
 
 I had this idea to offer free coaching sessions for Mother’s Day. My tentative plan is to pass out flyers for this at the game to invite them to experience a coaching session. This may spark a conversation about how coaching can help them.
 
-
 I was excited for this plan but then I got in my own head and now I have doubts.
-
 
 My thought is if I don’t have the flyers or something to give them, I won’t be able to show them how I can help them.
 
-
 I feel like I am using the flyers as a crutch but at the same time, I am super excited to share what I do and this will for sure help.
-
 
 Any advice is greatly appreciated!
 
@@ -222,7 +55,9 @@ Feel free to come back with any of your thoughts or anything that surfaced from 
 
 ---
 
-## What&#8217;s working &#8211; the momentum is building
+## What’s working – the momentum is building
+
+**Date:** 2026-06-08
 
 **QUESTION:**
 
@@ -230,15 +65,11 @@ Things that are working. I’m creating momentum. People are reaching out.
 
 I have a consultation next week. I had several people this weekend talk to me after an event and say they need this work. I invited them to a consultation.
 
-
 What I’d like to do now is pick a topic, write the emails, record the podcast, and do the class each month on that topic. These are the repeatable steps for me that create and maintain momentum.
-
 
 The only snag in my thinking that I see pop up is when my brain is like,’I don’t know what to write.’ I’ve been answering that back with, ‘Let’s just write what worked last time.’ That redirects my brain.
 
-
 I’m sticking with the topic from the event since it was so powerful and women shared so many experience.
-
 
 THE MOMENTUM IS BUILT, and I’m so happy. Remember when I was thinking what I offer isn’t valuable? I have had SO many people over and over tell me how valuable the work is, and I know a big part of that is owning that and getting out there.
 
@@ -249,11 +80,9 @@ Hey Coach! You’re doing such great work! Awesome job on creating momentum and 
 So you’re noticing the thought,
 ’I don’t know what to write.’
 
-
 It seems you’ve been able to course-correct really well but here are some other tips they may help.
 
 What if you wrote down everything people are telling you and then build upon that?
-
 
 As in, use their feedback to take each of your topics deeper and target what they are loving.
 
@@ -267,13 +96,13 @@ Let us know if we can continue to help you in any way. Great work!
 
 ## Follow up Believing I can help people / social anxiety
 
+**Date:** 2026-06-02
+
 **QUESTION:**
 
 Hi coach, thank you again for your answer.
 
-
 My thoughts are :
-
 
 I will never be able to make it
 
@@ -283,29 +112,23 @@ I am very negative today
 
 lol
 
-
 My feeling today is discouraged : so much effort for only one post !
 
 But I did it and I think it’s quite good so I am glad.
 
-
 I love the idea of willing to go first, it is always moving me forward. (Why do I need you to remind it to me ?)
-
 
 I also love the idea that « I am practicing my social skills » because of course, I was afraid that my client would be disappointed by my answer (now I think he has a better reason to be disappointed because it took me so long to answer. It’s like I am disappointing him on purpose pffff)
 
 To be kind and fair to myself, I could note that it is a specially explosive client who is having violence issues and the last time I coached him it was on « not killing people » :/ so maybe I am a little scared of an explosion.
 
-
 Another thought is that you said both :
-
 
 « The goal is to move your brain into a belief state that creates a slightly better feeling so you can take action from there. The minute you feel better you are in better energy to move better. »
 
 And
 
 « The work now is learning you can feel anxiety and still move. »
-
 
 I am totally aware that two different things can be true at the same time and I see very well what you mean.
 
@@ -338,7 +161,6 @@ What would happen if you intentionally started looking for evidence that you are
 I’m asking because whatever your brain is trained to look for, it will find.
 
 Let’s make the case for it:
-
 
 You felt discouraged and still completed the post.
 
@@ -376,189 +198,29 @@ And from where I sit, you really are closer than you think. How can you keep dir
 
 ---
 
-## Part 3&#8230;
+## 06/02/2026 – question about the CTA module
 
-**QUESTION:**
-
-I see that now, that my brain is very focused on what is wrong…and I want to keep focusing on the version of me that creates instead. And I want to focus on what I do have and on building the business I have been hoping to for years.
-
-
-You are correct that part of the struggle is that I had an expectation that after this much time it should be easier, and ultimately, I shouldn’t still be failing like I am. Because ultimately I do feel like I am failing. And all of it creates discouragement, not something that will benefit me in any way.
-
-
-It is hard to see that this stage isn’t a problem…because I hate my current results and the way I feel about them so much. But I do think I could use this stage to learn some powerful lessons (and I believe they will be very helpful in my own work with future clients).
-
-
-It’s such a flip to look at what is easier…my brain has a hard time b/c it is SO focused on actually not just business…but truly a lot in life being harder right now. And again, I don’t want to focus on that.
-
-I think I have definitely grown in my belief that I do want to do this no matter how hard…it is my calling and my purpose and I love it. I might need to do other work but I don’t want to stop coaching. Quitting is not an option.
-
-I am growing in my consults skill, and my marketing too. I am also learning email. I am getting more diligent with my time…quite a ways to go there yet tho! 🙂
-
-
-As far as what I know about creating consults…that one is still a big challenge for me. It is still hard for me to believe that I create them. I know we are always told that, but I can’t really figure that one out. I think something else at play is seeing many other business professionals that are struggling too. I want to not be one of them! I want to say, this is how I used coaching and grew my business when so many around me were not. Here, let me show you too! That is what I want so badly.
-
-
-An idea I have been thinking about is doing a workshop or webinar to bring in 1 on 1 clients…and my brain immediately goes to “You always spend so much time on those and no one signs up.” See how mean my brain is!! So that makes it hard to move forward.
-
-
-I meet people in person with friends, online, in networking groups. I genuinely love talking to people so conversation is easy…letting them know I can help them/inspiring them to set up a consult is where I am missing the mark.
-
-**ANSWER:**
-
-Hi Coach,
-
-The first thing I want to invite you to question is your expectation. Why shouldn’t you be failing like you are?
-
-Take your time with that question. Not from judgment, but from a curious and compassionate place.
-
-You mention several times that you feel like you’re failing. The definition of failure I love is simply the omission of necessary action. It’s incredibly neutral. If we looked at your situation through that lens, would you still call it failure? Or would you say there are simply actions you haven’t discovered, developed, or taken enough of yet?
-
-Why do you think you shouldn’t be missing pieces of the puzzle?
-
-If you’ve never created this result before, how would you know exactly what works? We don’t know what we don’t know. Building a business is often the scientific method in real life. You try things. Some work. Some don’t. You gather data. You adjust. You try again. What if this stage isn’t evidence that you’re failing, but evidence that you’re learning?
-
-I also noticed you said the discouragement won’t benefit you in any way. I think it’s worth looking at that thought. Is the discouragement coming from where you are, or from what you’re making where you are mean?
-
-You shared something powerful: “I hate my current results and the way I feel about them.”
-
-This is where I would spend some time.
-
-My number one recommendation is to clean up how you feel about your current results as quickly as possible. Not because you have to love them. Not because you have to pretend they’re okay. But because hating where you are won’t help you create where you want to go. It slows you down.
-
-I have so much compassion for hating your current results. But can you find some acceptance for this stage? Can you find a way to make peace with being a learner here? You cannot create a positive outcome from constantly arguing with reality.
-
-I would also spend time strengthening the thoughts that are already serving you. ITC on how these are true and who you are when you think them and take action from here.
-
-“Quitting is not an option.”
-
-“I am growing in my consult skills.”
-
-“I am learning marketing.”
-
-“I am learning email.”
-
-“I am becoming more diligent with my time.”
-
-These thoughts matter because they are true. Find evidence for them. Write it down. Do an ITC on them. Let your brain see the proof. These thoughts create inspiration, gratitude, and commitment. They connect you to the version of you who is becoming the coach and business owner you want to be.
-
-And regarding consults, I don’t actually think your problem is that you don’t know how to create clients.
-
-Look at what you’ve already shared.
-
-You meet people.
-
-
-You network.
-
-
-You have conversations easily.
-
-
-You connect with people.
-
-
-You have ideas for workshops and webinars.
-
-Those are all parts of creating clients.
-
-The skill you’re developing is how to inspire someone to take the next step.
-
-That’s different than not knowing how.
-
-When your brain says, “I can’t figure out how to create consults,” it shuts down curiosity. But what if the truth is, “I’m learning how to inspire people to want the help I offer”?
-
-Notice the difference.
-
-The workshop example is a perfect illustration. Your brain immediately offers, “You always spend so much time on those and nobody signs up.”
-
-Okay. Maybe that happened before. But what if that wasn’t failure? What if it was data?
-
-Why didn’t they sign up?
-
-
-What did they need to hear that they didn’t hear?
-
-
-How could you explain the value differently?
-
-
-What did you learn about your messaging?
-
-Those questions keep you moving.
-
-The only way to learn how to say it in a way that resonates is to keep saying it. To keep meeting people. To keep making offers. To keep evaluating. To stay in massive action while remaining curious.
-
-After each conversation, instead of making it mean something about you, ask:
-
-What was I thinking?
-
-
-What was I feeling?
-
-
-Did I make a clear offer?
-
-
-What worked?
-
-
-What didn’t?
-
-
-What will I try next time?
-
-That’s how businesses are built.
-
-And I want to reflect back something you may not fully see yet. The most powerful thing in your entire post wasn’t your struggle. It was this:
-
-“Quitting is not an option.”
-
-That thought tells me you’re still in the game.
-
-Now the work is helping your brain stop using your current results as evidence against yourself and start using them as information for your next move.
-
-You absolutely can figure this out Coach!  
-I’d also encourage you to revisit this episode if you haven’t recently.
-
-Episode 17: How To Get Consults
-
-Not because it contains a magic answer, but because right now your brain needs more evidence for possibility than it does evidence for why this is hard.
-
-Keep bringing yourself back to the version of you that creates. She isn’t created after the results come. She’s created by how she thinks, feels, and shows up while she’s building them.
-
----
-
-## 06/02/2026 &#8211; question about the CTA module
+**Date:** 2026-06-03
 
 **QUESTION:**
 
 Hi coaches,
 
-
 I have a question today about the CTA module. Stacey talks about giving value first, waiting for them to “opt in,” then making a CTA.
-
 
 Most of my CTA’s are currently made in my podcast at the end of each episode, just a friendly invitation to a consult if the episode resonated and they want more curated help, or I’ll make that same offer at networking events.
 
-
 I’m wondering if I can uplevel that system somehow.
-
 
 I know that some people talk about trust funnels; you start with a space where free value lives and there may be a CTA in that space to a free training, masterclass, or very low ticket offer (maybe less than $100), if they say yes then they have “opted in” and from there you can make CTA’s for a paid offer.
 
-
 I don’t think I have a system like this at all.
-
 
 As of right now I meet people organically in networking events or having coffee chats after meeting on the internet.
 
-
 I will refer them to my podcast, or maybe my personal instagram account (which I haven’t really posted to in years), or my Linkedin (which is brand new and doesn’t have any posts), and that’s the end of the line.
 
-
 & even if people are opting in to listen to my podcast I don’t necessarily feel like I’m “catching” them or giving them a space where they can come in and have conversations with me if they want to do that.
-
 
 But I guess I don’t really know where to start. What do you suggest?
 
@@ -643,13 +305,13 @@ I’d suggest start there and be willing to figure out the rest along the way. G
 
 ## Help attracting consults
 
+**Date:** 2026-05-05
+
 **QUESTION:**
 
 I was thinking that it would be amazing to have three to five consultations a month.
 
-
 And then I decided to look at my thoughts.
-
 
 Business has been slow.
 
@@ -657,9 +319,7 @@ I just resigned 1 old client into my new offer for embodiment & Breathwork.
 
 But I haven’t had a consult in months or a new client.
 
-
 And tonight I wrote down my thoughts about consults.
-
 
 No one wants to work with me.
 
@@ -667,33 +327,23 @@ People don’t understand what I do.
 
 I’m not clear on what I do.
 
-
 And these two thoughts below brought up feelings when I was listing out my thoughts.
-
 
 T: Consults are hard to come by for me.
 
-
 f: victim, like I’m being punished and signaled out by the universe.
-
 
 action:, don’t make cta’s, waiver on my offer, change my messaging, change the name of my consult.
 
-
 Results: no consults booked
-
 
 T: i can’t get people interested in working with me anymore.
 
-
 Feeling: defeated.
-
 
 Action: is post then disappear, Post in half belief energy, worry about marketing instead of actually marketing, don’t have strong ctas, don’t email my list as much.
 
-
 Result: no one is inquiring, no one is booking calls.
-
 
 I would love help this month changing my thoughts and having consults booked.
 
@@ -723,7 +373,6 @@ But consistently.
 
 What would it look like to keep posting, keep inviting, keep making clear CTAs EVEN ON the days your brain is louder?
 
-
 Can you decide ahead of time how often you’re going to email, how often you’re going to invite people into consults, and then follow through so you actually have data to work with?
 
 I want to bring you back to something simple but important… Consults aren’t something that just “come to” you. They are created. Through your repetition, clarity, visibility, and invitations. 
@@ -737,15 +386,15 @@ We are happy to do so. Thanks Coach!
 
 ## Income producing belief (part one) Social anxiety
 
+**Date:** 2026-04-15
+
 **QUESTION:**
 
 Regarding social anxiety, I think it helps me if label it that way, because I make it mean that I can change it. I used to think it was my personality. Now it is just a problem I am busy resolving.
 
 And you are right, accepting the anxiety as normal is the way to change it.
 
-
 I can see the other side of it, since I already made offers and had clients, but I did sabotage some relations and opportunities, and it would be familiar to continue that way : I am in the middle, in the river of misery.
-
 
 Learning to feel anxiety is my job right now. And it’s a solid one because I hate it and I am hyper sensitive, but I already did an amazing job at supporting my nervous system with posting on social media, I can bridge the rest of the gap.
 
@@ -795,6 +444,8 @@ You’re not just “in the middle” you’re in the practice. And the more you
 ---
 
 ## Making Offers
+
+**Date:** 2026-04-17
 
 **QUESTION:**
 
@@ -863,88 +514,25 @@ And what are you currently believing about your offer?
 
 ---
 
-## Strategic Doubt or Exhaustion?
+## Day 25 / 30 – “he took it from me”
 
-**QUESTION:**
-
-I have a goal to make $100K in 2026 by signing 20 clients into my six-month private coaching program, The Exhale, for couples who want their relationship to stay alive, embodied and deeply connected over time. So far, I have 0 clients in this offer and have made $3K total from coaching, which was last year. I am a mindset and somatic coach with 8 years of experience in the intimacy industry. I have a clear bigger vision: to hold in-person workshops for couples at luxury eco resorts and hotels across Australia and eventually globally, then invite couples from those workshops into complimentary consultations for private coaching.
-
-
-The problem is that I am exhausted. I have been going through perimenopause and have had about 6 months of poor sleep, which has deeply affected my confidence, energy and clarity. I am a single mother and I also work on commission in sales, so my nervous system feels stretched. Because I am so tired, I am questioning everything. My offer, my capacity, whether I can coach couples, whether it matters that I don’t currently have a romantic partner, whether my reels are working, whether I am making good decisions. I don’t want to keep changing my offer because I have already changed it many times. I want to commit and build something properly. I know the next practical steps are probably to contact more potential workshop collaborators, refine my consultation process, and keep speaking to my audience. But my thinking is messy and I keep slipping into confusion, doubt and shame.
-
-
-My current thoughts are: “It’s not going to happen. I don’t know how to coach couples. It’s embarrassing that I have not signed a client. My reels are not working. No one likes them. I don’t know if I can do this. My life is a mess, so how can I coach others? I don’t have a romantic partner, so how can I coach couples? I feel tired. I need a break. Maybe I am burnt out. Maybe I am not cut out for this. I don’t know what I am doing. I don’t make good decisions. I don’t move fast enough. I am not productive enough, yet I feel like I work too hard.”
-
-
-My specific question is: How do I discern the difference between genuine strategic information I should respond to, such as needing to refine my offer, consultation process or outreach strategy, and exhaustion-based doubt that I should not make business decisions from?
-
-**ANSWER:**
-
-Hi Coach!
-
-Thanks for bringing this here. Happy to coach you on this and offer some insight.
-
-First I just want to say, your first paragraph landed powerfully as the reader of it. Your goal and vision felt clear, grounded, and like you knew exactly what you were building and why. It came across very confident. Nothing about it felt confused or scattered. As I kept reading, I never questioned your vision for your business, but I noticed the shift in your energy. Your vision didn’t disappear, but your belief in your capacity to hold it felt a little wobbly (so let’s focus on that).
-
-You’re navigating real fatigue which can be a lot on a nervous system – so it makes sense that your brain is trying to solve for safety by questioning everything. When you read your thoughts back, 
-do they feel like clean, useful direction or do they feel like overwhelm trying to find certainty?
- There’s a difference between strategic refinement and exhaustion based self-doubt. 
-Strategic thoughts tend to be specific and actionable.
- Doubt tends to sound like “I don’t know what I’m doing” or “maybe this isn’t going to work.”
-
-One leads to movement. The other keeps you spinning.
-
-I also want to gently bring your attention to how your brain is using your current relationship status against you. You have 8 years in the intimacy space. That doesn’t disappear because you’re single right now.
- What do you actually believe makes someone effective at coaching couples? Is it their current relationship status, or their ability to see patterns, hold space, and guide people through dynamics they may not be able to see themselves?
- There are people who would deeply benefit from what you know. It would be a shame to keep that quiet because of a potentially temporary circumstance of being single. It doesn’t erase all of the knowledge, expertise, and value you can bring to the table for couples who are in a position to use what you can teach them.
-
-When it comes to discerning what to do next, I would anchor you back into 
-execution as your source of clarity.
- You already named the next steps: Reaching out to collaborators. Refining your consult process. Speaking to your audience.
-
-What if you decided on a timeline that feels supportive, not punishing? Maybe it’s six weeks, eight weeks, maybe twelve. During that time, 
-you commit to specific actions and let the data come from doing, not from thinking.
- 
-Then you evaluate. What worked? What didn’t? What needs to shift? That’s very different from trying to solve everything from your head while you’re exhausted. And you can bring that data back here to AAC so we can coach you and help you stay in a clean, clear headspace.
-
-At the same time, your exhaustion isn’t something to override. It’s something to work with.
-
-
-What do you need right now to feel even slightly more supported?
-
-Where can you give yourself a little more space, a little more care, without abandoning your business?
-
-This doesn’t have to be “all or nothing.” You can build something meaningful AND honor where you are. The goal isn’t perfect consistency, but honest, sustainable movement forward. 
-What do you think?
-
-Feel free to come back with your answers or any thoughts you would like further coaching on. We are happy to help.
-
----
-
-## Day 25 / 30 &#8211; “he took it from me”
+**Date:** 2026-04-22
 
 **QUESTION:**
 
 When feeling hesitancy / flustered / bracing I’m making that mean I’m a mess, I’m an embarrassment, I don’t know what I’m doing, or I’m pathetic.
 
-
 A lot of times I talk about how I need to stop feeling sorry for myself. & you’re right, it is true that I’ve had a hard couple years. I left a place that felt deeply safe and nurturing to me along with my sovereignty, I entered into a relationship that became coercively abusive and almost a year after leaving that relationship I still don’t feel like myself. It feels like he took something from me, like he sucked the spark out of me. & then I feel dramatic for thinking that at all. I think this relates to what you said about “you’re talking about confidence like it went somewhere without your permission.” I think I HAVE been believing that, that he took it from me.
-
 
 I always try to remember that the thought line is typically verified in the result line. So if I’m really resonating with the thought that he took something from me, my spark, then I will find evidence to verify that.
 
-
 & frankly a lot of the things I mentioned before, these are all things that my ex would say to me when we were together. He would tell me I wasn’t a good representation of my work, I didn’t have much to show for my efforts, that my concerns made me pathetic, all while spitting angry. Then the next day would become a completely different person who was supportive and encouraging.
-
 
 I’m not trying to dump my traumas here I’m just seeing that this voice might not be my own. I think it’s his, even though I left him almost a year ago I am still letting him exist in my brain, controlling my actions and my belief in myself.
 
-
 Before he and I got together I was the most confident I’d ever been. I would think things like, “I really like who I am, I’ve put in a lot of work, I’ve changed, I’ve become a better person, I like who I’ve become, I am more myself now than I’ve ever been before, I’ve lived a really cool and inspiring life so far, I have a lot to offer.” He would refute these things when I said them, even in front of other people.
 
-
 I think I’m making my family’s thoughts mean I’m a burden, I’m not someone to be proud of anymore. When I interact with them I’m quiet, then I feel rejected, like I don’t belong. If I believed my audience was already here, I would show up happy to engage.
-
 
 If I were showing up differently…. I’m struggling to answer that for some reason. Maybe I’ll have more when I sleep on it.
 
@@ -1011,23 +599,21 @@ And what would she choose to think, starting today? What is different about her?
 
 ## Support with Visibility Triggers on Social Media PART 2
 
+**Date:** 2026-05-14
+
 **QUESTION:**
 
 Here is my response:
 
-
 To be seen on social media it means to be vulnerable and knowing there will be people who will not agree with you and will have their own comments/remarks. As I am writing this, I am noticing that it is definitely a fear of being seen. “If I stay small, people won’t notice me and they won’t make fun of me”
 
-
 When I create videos, I find myself criticizing how I look. I’ll say let me put some makeup on. I am getting better at this though lol Also, with what I am communicating to my audience on what I do and my beliefs I tend to say “Ooh I know this will trigger people.”
-
 
 Reason why I feel triggered when seen are:
 
 1. People will judge me and say mean things to me.
 
 When people disagree or challenge me, I get tense and I try to snap out of it and say “that’s their opinion.” But I notice I am trying too hard to think that. My brain tries to protect me.
-
 
 As a child, I was bullied by other kids. So I know this has a lot to do with it.
 
@@ -1063,7 +649,9 @@ Thanks coach!
 
 ---
 
-## The Who / the how Q&amp;A
+## The Who / the how Q&A
+
+**Date:** 2026-06-12
 
 **QUESTION:**
 
@@ -1077,7 +665,6 @@ Q : What are the things you can do that put that value in front of people?
 
 A : I just made a procrastination bingo, I think it’s great I am gonna post it on socials. I am gonna offer some workshops too.
 
-
 The Who that I want to be, the fool and the poet, the one who is open, curious, compassionate, and playful doesn’t seem to get what value is.
 
 When I ask myself these questions : What value can I create? How can I communicate it? How can I get it in front of more people?
@@ -1086,9 +673,7 @@ My brain goes directly to the How and forgets about The Who. We think there is a
 
 The Who is just writing inspiring poetry without making any offer. And specially not thinking about money.
 
-
 But : I am shutting down a facebook group that was not « working » and I invited everybody from the group on my public page. I want to speak in front of more people. I’ll see if it works. One of my bingo thought is « What’s the point ? ». I noticed it and I did it anyway.  I find that this fight against my brain is exhausting. It was supposed to get easier and easier and I don’t think it is. After some years, posting is still challenging and hard. I think that coaching myself for half a day in order to write a post is not sustainable. Even if it is a bold move to close this group,( it is hard to let down 2500 people), I can hardly refrain myself to think « this should be easier ». Which is a super unproductive though, let’s face it. I know it shouldn’t, but I am still struggling to get out of « it’s not working ».
-
 
 Can you help me again please ?
 
@@ -1204,6 +789,8 @@ And keep going coach!
 
 ## My buyer confusion?
 
+**Date:** 2026-06-16
+
 **QUESTION:**
 
 I teach how to attract high end clients – that’s my offer attract your first (or next) high end client. Where I meet people is based on who I can serve. Yes, I can serve everyone but this is the rub. I’ve chosen to meet entrepreneurs wanting to attract high end clients. I like this because it’s the work I do too! However, I’m noticing that my buyer are high end, but not particularly wanting to sell to high end clients. That’s fine but if my buyers are mostly not wanting to sell to high end clients, then it impacts how I talk to them on IG. My last two buyers do not know me from IG. But other consults I’ve created all know me from IG. I write my copy to those interested in what I offer (attract high end clients). But being that most of my all time buyers are not interested in this if I should change my copy to “make money” My clients come to me because I treat them all as the high end clients that they are and with white glove service. I love this level of hospitality. But maybe my buyers only come to me for this, but don’t want to learn how I do it for themselves. They come to me because how I make them feel. But my goal is 6 clients in 12 months (I’m at 2 clients on payments – so grateful for them!) Maybe I should change my result/offer to “feel luxurious and make money!” I treat my clients like royalty!
@@ -1256,24 +843,21 @@ Bring your answers back to AAC and we can coach more deeply on what’s coming u
 
 ---
 
-## Day 17 / 30 &#8211; courageous action
+## Day 17 / 30 – courageous action
+
+**Date:** 2026-04-08
 
 **QUESTION:**
 
 What does “I’m not ready yet” actually give me in this moment?
 
-
 That thought actually gives me anxiety, it makes me feel restless but also frozen. It makes me feel like there is still something that needs to be done before I can push forward. & to solve for that my brain came up with the “wait until Monday then go all in” scenario as a solution which then causes relief. Because now I can plan all these other things my brain thinks I need to accomplish before I go all in.
-
 
 Do I want to keep choosing relief, or do I want to start choosing expansion even when it feels uncomfortable? If I were already the version of me who is “ready” what would she do today?
 
-
 I absolutely want to choose expansion, I am so tired of being in this place of “I’m almost there.” That is actually worth noting. The way I’ve respond when people ask me how things are going the last couple years has been “it’s been a really hard few years but I can feel that things are going to change soon.” & of course nothing really changes. I just keep spinning in that thought..
 
-
 So if I don’t wait, if I overcome the noise, if I am already the version of me who is “ready,” I would record and hit post. I can feel my mind wanting to barter with that as well – “we’ll just post something simple, the way we’ve always done, better something than nothing.” I feel similar thoughts around making connections with new people or reconnecting with people from my past. I can make a list of people but the thought is “when we connect I won’t talk about what I do, I’ll just enjoy human connection. Better something than nothing.” But I want to challenge myself on those thoughts too because I know the resistance is coming from the idea of trying something different and potentially feeling awkward or icky.
-
 
 & to do something different I would need to believe that I can handle whatever comes after I take that action, whether that’s getting more attention / sales or realizing I need to tweak my efforts and try something different in the future.
 
@@ -1329,134 +913,49 @@ Do you want to keep choosing relief, or do you want to start building evidence t
 
 ---
 
-## moving into selling courses 5
-
-**QUESTION:**
-
-What do you believe about yourself in hard moments that allows you to keep showing up? I think the thing I keep coming back to is my brain is valuable even when I’m having a hard time. I think I’ve been getting stuck in the “I don’t feel good right now, how can I help someone?” But I can help, I just forgot. The fertility grief felt so separate from what I do, that it felt easier to hold onto that valuable brain – but now it’s true too.
-
-
-This made me cry – You don’t need to push yourself into being some superhuman version of you to make this work. – I do think I’m believing that. And of course that’s making it hard to actually make this work. lol. It just feels hard to let go of it.
-
-
-The hardest part of motherhood for me has been learning how to take care of myself at a deeper level so I totally resonate with -The work is learning how to support yourself inside of that, not override it.
-
-
-So maybe the real question isn’t “how do I do more,” but: Why do I want this? And what fuels me when I remember that?
-
-I want it because I know what I know can help people. Even if I’m still learning too (I think that’s the part I can forget – I can feel like I’m in kindergarten so I can’t help – when that’s actually okay – I can help the 3 year olds. I don’t have to worry about the high schoolers). And I want to be able to have an impact. I want to be able to help people. I want the things in my brain to not stop with me. It feels like a waste to just keep it inside for myself. And I want to be paid well. Honestly so I can have the things I want – and mostly, travel the world.
-
-**ANSWER:**
-
-Hi Coach,
-
-
-So great that you can see this that both can be true. You can be in the hard, and you can still direct yourself back to what you want and why it matters. That’s the power. When you keep bringing your brain back to why this matters to you and I know how to help people, you start to access yourself again.
-
-
-That thought “I don’t feel good right now, how can I help someone?” just notice what happens when you believe that. It pulls you out. It makes the feeling mean you can’t help. I’m asking you to look at that because the feeling isn’t the problem it’s what you’re making it mean.
-
-
-What if feeling off didn’t disqualify you?
-
-
-When we get out of our own way gently,  and then powerfully you can still go help people. And when you do that, when you move through the hard and show up anyway, you’re actually putting yourself in the exact position to help others when they’re in it. Not from theory but from experience. They will feel that you get it. You will believe they can do it because you did. That’s not even something you have to try to explain it’s the energy you bring.
-
-
-So how do you keep bringing yourself back to that?
-
-
-This is where directing your brain matters. You keep creating belief on purpose. A well-managed brain is what creates the results you want not a perfect emotional state.
-
-
-What are you choosing to tell yourself when it gets hard?
-
-
-Because the story you keep telling will become the loudest one in the room.
-
-
-And I love what you said about kindergarten you don’t need to be ahead of everyone. You help the people who are a few steps behind you. That’s enough. That’s more than enough.
-
-
-Also notice this “superhuman” version of you. Of course it feels hard to let go of that belief will keep raising the bar and making it harder to show up. But you don’t need to override yourself to do this work. The work is learning how to support yourself inside of it.
-
-
-We are coaches we go first. We create the energy, the desire, and the choice to show up, especially when it’s hard. Over and over again. Each time, a little stronger, a little cleaner.
-
-
-And your why is clear you want to help people, you don’t want what’s in your brain to stop with you, you want impact, and you want to create a life you love.
-
-
-Keep bringing yourself back to that.
-
-
-It’s pretty amazing to think about what you’re building and who you’re becoming in the process. That version of you is going to serve in a big way.
-
-
-Let’s go Coach!  Your clients are waiting and so are your dreams.
-
----
-
 ## Follow up 2: Help me work through my feelings of disappointment and discouragement 051826
+
+**Date:** 2026-05-20
 
 **QUESTION:**
 
 Yes, the identity piece is what really stands out for me. I am becoming the woman who no longer abandons herself. The woman who shows up (graciously) even when things are uncomfortable. The woman who knows what she wants and is creating it.
 
-
 The model of success for me looks like a fully booked private coaching practice with a waitlist. Doing good work and having a positive impact on the lives of those around me. Creating value through my podcast and making $500k per year.
-
 
 Three potential models to explore – but I’ll fill one in now for further coaching:
 
-
 C My business
-
 
 T I am the coach who creates I want
 
-
 F
-
 
 A
 
-
 R
-
 
 ——
 
-
 C My business
-
 
 T Even when things are uncomfortable I take care of myself and I don’t give up
 
-
 F
-
 
 A
 
-
 R
-
 
 —–
 
-
 C My business
-
 
 T I am the coach who no longer abandons myself
 
-
 F grounded/ supported / secure / held
 
-
 A: Take care of myself in large and small ways (body/mind/spirit). Take a breath and pause when I’m stressed or get in my head. Remember what’s important. Connect daily with my dreams and take action to create them. Bold action. Inspired action. Kind action. Make offers to well-matched clients, and say no to those who aren’t well-matched. Say no to “busy and misaligned opportunities”. Work hard and watch my energy, when I’m tired, refill my cup. Coach my clients with love and caring (and a little sparkle). Be bold in my asks and celebrate my boldness. I allow myself to want what I want without apology
-
 
 R: I parent and care for myself. I feel supported and resilient.
 
@@ -1507,15 +1006,11 @@ I’d spend time visualizing her. Not just the results she has, but the way she 
 
 How does she care for herself?
 
-
 How does she make decisions?
-
 
 What does she no longer waste energy on?
 
-
 What thoughts does she practice repeatedly?
-
 
 How does she recover when doubt shows up?
 
@@ -1524,9 +1019,7 @@ And one of the fastest ways to create a new result is to stop rehearsing the ide
 
 So if you fully believed this was possible not only possible, but inevitable  what would your actions look like?
 
-
 What would you stop doing?
-
 
 What would you finally allow yourself to do boldly in your podcast, offers, and celebrations?
 
@@ -1534,15 +1027,15 @@ I think your model already points to the answer. Great Job Coach!
 
 ---
 
-## Energy of 2k Today &#8211; separating the value I give from when the results arrive pt 3
+## Energy of 2k Today – separating the value I give from when the results arrive pt 3
+
+**Date:** 2026-04-29
 
 **QUESTION:**
 
 I recently wrote in and asked for help understanding the energy of 2k today, given that I have had a YT video that I posted in 2024 produce consultations in 2026. I am working on separating the idea of giving daily value from the idea of getting immediate results, without removing the possibility of being paid today.
 
-
 Here, I’m responding to the question from Ask a Coach:
-
 
 From here, let’s work on something else you said: “I do want to create results in the short term and I don’t want to feel like nothing I do today will create a short-term result.”
 
@@ -1554,18 +1047,13 @@ For example:
 
 I like to think of our CTAs as inviting them into our world as coaches… and remembering that people don’t often let themselves in without a clear invitation. If you’re already doing this well, we can explore more ways to create the results you’re seeking in the short term.
 
-
 My Response:
-
 
 1. Right now after delivering the main piece of value I say “this is the type of work I do with my clients” (and maybe I elaborate a bit) then I say “if you want to learn more about becoming a client your next step is to book a consultation at the link below. A consultation is a free hour long session where we get to know each other and decide whether working together is the right next step.”
 
-
 2. Yes, so on my YouTube videos I always verbally mention a related freebie and say that I’ll link it in the description, and I give the consult invitation that I wrote out above. The freebies are being downloaded and consults are being booked even if not always in the timeframe I would like.
 
-
 3. I do. I always cross-reference my other platforms (so on YT I always mention my podcast, on my podcast I frequently mention my YT channel), and I take the step above of always having a relevant freebie for each YT video. I also email my YT videos and podcast episodes out to my list whenever they come out.
-
 
 These are all practices I put in place within the last 4-6 months so I am open to the idea that results will take time, but since we are talking about the idea of creating results in the short term I will say that I AM doing these things and I’m NOT seeing quick results.
 
@@ -1577,9 +1065,6 @@ Thanks for sharing what you are doing! It is great that you are cross-referencin
 
 What I’d like to focus on from here is your final sentence:
  “I AM doing these things and I’m NOT seeing quick results.”
-
-
-
 
 1. What does your brain make it mean when you put out a CTA and you do not see “quick” results?
 
@@ -1599,37 +1084,29 @@ Take some time to answer these and then bring your answers back here so we can c
 
 ## 05/21/2026 | who will I be when I’m fully booked?
 
+**Date:** 2026-05-22
+
 **QUESTION:**
 
 Hi coaches,
 
-
 It’s me again, obsessively stalking you all in AAC lol
-
 
 I am here for the hard coaching today. The main result I have been focused on lately is becoming fully booked (signing 12 clients), and even smaller is just getting really good at generating consults. I’d say I’m making progress because this month I’ve had 3 consults even though they were 2 no’s and a no show.
 
-
 This morning I felt so inspired, I recorded 2 podcast episodes back to back (have I mentioned I have a podcast?), & I made really powerful offers in both episodes, I was in full belief and was thinking “this is exactly the type of energy that would get me to book a consult with someone.”
-
 
 Pre-recording these episodes felt productive in the moment toward my desired results, but I started second-guessing after that.
 
-
 “Was this actually a client / consult generating activity? Should I have spent that time doing something different? These episodes don’t go out today, they go out on May 25 & June 1 so do they really count as creating consults / clients today?”
-
 
 Then I started second-guessing the consults I got this month (2 people who seemed interested in my offer but also seemed more interested in selling ME their marketing services). “Did they actually book because they are interested or because they wanted to sell to me?”
 
-
 Then I started ruminating on how I could be taking action to create my own networking event and immediately thought “it’s Thursday, I’ll just wait and go all in on creating the event and finding more consult generating activities on Monday,” which made me feel relief (but I know is really holding me in inaction).
-
 
 I did a model where the result is “generating consults consistently with a fully booked practice,” and I know I will be feeling inspired, confident, and creative when that happens. I know I’ll be living in breakthrough and sharing from inspiration like I did this morning.
 
-
 I just keep getting in my head about client generating activities. Is it networking events, social media, podcasting – my brain wants to say give up on socials entirely because it really hasn’t resulted in consults in the months I was consistent with it. But I also wasn’t in the state of inspiration I keep finding myself in now. I want to start posting on Instagram but feel hesitant. Is this all just about trial and error?
-
 
 I feel myself getting in my own way. I feel periods of inspiration then I put out my own fire. I know what I feel inspired to do but then I just don’t do it.
 
@@ -1663,7 +1140,9 @@ What do you think, coach?
 
 ---
 
-## Part 4&#8230;
+## Part 4…
+
+**Date:** 2026-06-12
 
 **QUESTION:**
 
@@ -1766,6 +1245,8 @@ Love your idea to watch Stacey sell on webinars also incredible time to watch ho
 
 ## Income producing belief (part one) Models
 
+**Date:** 2026-04-15
+
 **QUESTION:**
 
 Dear coach,
@@ -1778,11 +1259,9 @@ I was just writing some believable belief on a sheet of paper and asking myself 
 
 I just realize, I am such a brainy and sensitive person, maybe I need to spend more time in the feelings and less in the thoughts. That’s a huge takeaway.  You asked why I think the value I’m listing isn’t fully clicking, and I think it is why. I am just thinking it and not feeling it enough. Not embodying and then not incorporating.
 
-
 The two models you asked me to fill gave some surprising results today. They make sense though.
 
 That’s what they gave me when I did one after the other :
-
 
 C- Figuring out how to make money as a life coach
 
@@ -1793,7 +1272,6 @@ F- Low
 A- Hiding, staying at home with my cat, fearing contact with others, specially with messages, not showing up on socials, not meeting people, doing my stuff only for myself, not showing my work, feeling comfortable, indulging in low emotion, not challenging the belief, not trying to prove it wrong, being in my own world and not risking the judgement of others
 
 R-I don’t see my value, people can’t see my value, I’m wasting my value
-
 
 C- Same
 
@@ -1808,7 +1286,6 @@ R- result is unclear because the thought « I have value » is not mine today�
 I make it hard to believe in my value ?
 
 I devalue my value ?
-
 
 Here again, I seems that not wanting to believe that I have value is protecting from interacting with others. Protecting me from the feeling of anxiety.
 
@@ -1877,6 +1354,8 @@ So if anxiety comes up (and it will), how do you want to plan for it?
 
 ## This is what I want coaching on.
 
+**Date:** 2026-05-04
+
 **QUESTION:**
 
 Love your last coaching on part 2. That was great.
@@ -1885,29 +1364,21 @@ This is where I am: I’m at the crossroads of – I’m creating the momentum, 
 
 Essentially, if I am in belief, addressing life at the higher level of thinking, at what point should I evaluate differently or make shift?
 
-
 Here’s my reasoning: Nothing is going to stop me from creating new beliefs, choosing my responses, evaluating from a High value cycle, being the leader and the coach.
-
 
 The actions that follow that formula under that mindset include: posting insights, making offers, emailing my list, providing trainings for free as value ahead of time, meeting people, and introducing self.
 
-
 I believe the scales will tip, I’ve created momentum, and at the same time want to ensure I’m putting my efforts and actions that are most productive.
-
 
 When I think that I feel empowerment and clear. I put value out and write my ideas and put in action.
 
-
 At this level of mindset, I did believe I’d create 3-clients a month. Without entitlement, I’m curious when the consults will appear.
-
 
 In the meantime, I’m going for the same outcome this month with what I learned and lived so far:
 
 3-5 consults, 3 signed clients at $2000 for the package. Excellent classes presented with planning, rehearsal, in service to the entire audience, using those clips to share.
 
-
 I’d like to believe I can create 5 clients a month, up to 15 a week.
-
 
 Just now a thought came up, so we can address this to (I’ll also coach myself): What if I’m selfish to want that much, so I should only go for one client or lower my price.) Got it. I’ll get to work. I’d also love your coaching.
 
@@ -1939,21 +1410,13 @@ practice your craft more, and create more impact.
 From there, you get to decide on purpose what you make it mean. You can make wanting more clients mean you’re building something meaningful, that you’re expanding your capacity to support others, and/or that you’re allowing your work to reach the people who need it. That’s a very different internal experience than quietly holding yourself back because a part of you thinks there’s a limit to how much you’re allowed to want. The fact that you caught that thought so quickly tells me your awareness is strong – and kudos to you for that! This is just about going one layer deeper and deciding intentionally what kind of woman you are as you grow,
  instead of letting this unintentional thought set the ceiling for you.
 
-
-
-
-
-
-
-
-
-
-
 What do you think?
 
 ---
 
 ## Belief Triangle
+
+**Date:** 2026-04-15
 
 **QUESTION:**
 
@@ -2023,29 +1486,25 @@ Bring back what you notice here Coach as you sit with these.
 
 ## I feel like quitting- II
 
+**Date:** 2026-04-29
+
 **QUESTION:**
 
 First of all, thank you. That was very helpful.
 
-
 What are your top three theories for why you’re not selling right now? I don’t fully believe that people will pay that price for my program. I’m focusing on whether or not they will see the value. I’m being really hard on myself.
-
 
 What happened for you when you made that decision? Why did you make the increase? I increased it because I was looking at how much it cost to get a client with ads, running the program, and other things i added to the program and made that decision.
 
 What did you start thinking about your membership, your clients, and your ability to sell it after the increase? Why? I started to think things like is this still a no-brainer? If I kept the old program and charged this amount, would I think that people would think this is the best deal ever? And i found myself answering i don’t know. And i felt like i had to add more things to justify the price. I went into selling thinking I had to convince people now. Whereas before I thought it was the best deal out there.
 
-
 So I want to explore this with you:
 
 What are you making all of these “no’s” mean about you? That they don’t want this, it’s not good, it’s too expensive, they don’t see the value, it’s not unique enough, I’m not doing enough, I don’t understand why they don’t want this, what am i doing wrong
 
-
 Why don’t you want to quit?Because I really believe this is what I’m called to do and people really need this help!
 
-
 If you were already consistently selling this program at 5K What would be different about how you think, feel, and show up? I would be more confident in sharing how my program can really transform their lives and be more curious about their objections like how can you not want this amazing thing tell me more. I wouldn’t have that feeling of needing to justify or convince anyone. I would feel like the prize. Like this is my very special private club, and there’s a long line and everyone is just so hyped to get in
-
 
 What are your current thoughts about selling at 3K? This is a no-brainer; This is so good, this is a steal, this is the best deal, it’s your loss if you don’t join
 
@@ -2128,100 +1587,23 @@ You become her to sell at 5K.You got this Coach!
 
 ---
 
-## How times are changing
+## Day 22 / 30 – entrepreneur identity vs. coaching identity
 
-**QUESTION:**
-
-The last time I came to AAC, I was reflecting on how I only come here when I’m at the same spot – desperate despair. Well, today is different! I have had 3 consults in the last 11 days – I CAN NOT tell you when the last time I had 3 consults, let alone in 11 days (probably never for the latter!). The first 2 said yes on the call, the 3rd one – oh gosh – the call was amazing, but he was interviewing one other coach, so I respected his decision to have that call (but I am manifesting hearing from him today/tomorrow with a YES!).
-
-
-What a difference 3 calls and 2 yes’ makes to my belief. I am jubilant in seeing my bank account, I enjoy spending money for things, I am showing up relaxed online (helping people) – today has felt amazing.
-
-
-I am starting to believe that this is my new normal. I would love coaching from you in staying in this feeling if 3rd consult says no, if I have no consults for the next week, if if if – my brain is already focusing on the lack. What can I do to continue focusing on the energy of this past 11 days? Thank you
-
-**ANSWER:**
-
-Hi Coach,
-
-First, so much to celebrate here!
-
-Thank you for sharing your wins. I also want to acknowledge something important: you’re not only coming to Ask a Coach when you’re in despair. You’re here sharing success, recognizing your growth, and allowing yourself to see evidence of what’s working. That matters.
-
-What strikes me most is that in just 11 days, nothing about who you are fundamentally changed. You didn’t suddenly become more capable, more valuable, or a better coach. What changed was your brain’s interpretation of the evidence in front of you.
-
-You mentioned that three consults and two yeses have created a huge shift in your belief. That’s wonderful to notice. But I would get curious about this question:
-
-What are you making those yeses mean?
-
-I’m asking because the meaning you attach to those consults is creating the feeling you’re experiencing right now. The consults themselves don’t create confidence, certainty, or abundance. Your thoughts about them do.
-
-And if that’s true, then the opposite is also true.
-
-If the third consult says no, what will you make that mean?
-
-If no consults come in next week, what will you make that mean?
-
-Notice how quickly your brain wants to move from abundance back to scarcity. Not because scarcity is true, but because your brain is practiced at looking for evidence of what’s missing.
-
-The work isn’t making yourself stay in this feeling forever. The work is noticing when your brain starts directing you toward lack and consciously redirecting yourself.
-
-Simple? Yes.
-
-Easy? Not always unfortunately.
-
-But it gets easier with practice.
-
-I also wouldn’t spend too much energy fearing that you’ll lose this feeling. Why? Because you’ve already shown yourself that you can create it. If you drift out of it, you can come back. The goal isn’t to never leave confidence; it’s to trust yourself enough to return to it.
-
-Another question I’d explore: Answer as specifically as possible, create the success identity road map for yourself to see who you were being that created the how you showed up.
-
-Who were you being on those consult calls?
-
-How were you thinking about yourself, what were you not thinking about?
-
-How were you thinking about the people you were helping?
-
-What energy were you bringing into those conversations?
-
-Sometimes we focus so much on the result that we miss the process that created it. If you can identify the thoughts, beliefs, and way of showing up that helped you serve those clients so powerfully, you can intentionally cultivate that regardless of whether the next consult says yes or no.
-
-To me, the most powerful part is that you said you’re showing up more relaxed online and focused on helping people. That’s where I’d place my attention.
-
-How can you stay connected to helping people rather than measuring your worth by the next consult, the next yes, or the next number in your bank account?
-
-Think of it like driving a car. Your brain will naturally drift toward old familiar roads scarcity, doubt, lack. Your job isn’t to panic when you notice it. Your job is simply to put your hands back on the wheel and redirect your thinking in the new direction. Eventually the new route will become new normal.
-
-You’re already proving you know how to do that.
-
-Keep celebrating. Keep noticing what’s working. Keep practicing the thoughts and beliefs that helped you show up as your highest self. 
-Everything you’re doing both in mindset and in action is creating momentum.
-
-And remember, one consult, one yes, or one no never defines what’s possible for you. Great work Coach!
-
----
-
-## Day 22 / 30 &#8211; entrepreneur identity vs. coaching identity
+**Date:** 2026-04-17
 
 **QUESTION:**
 
 What is Stacey’s ECM Identity Series? I am not familiar with it.
 
-
 I see what you’re saying about my coaching identity vs. my entrepreneur identity. I think where I feel the biggest disconnect between them is in my coaching relationships it requires a large deal of listening, observing, reflecting, asking good questions, etc. In marketing and content it feels like creating something out of thin air, there is no person to listen to or to observe. I feel like I’m PERFORMING rather than serving.
-
 
 So I WANT to show up in the same way, it’s just that my brain is convinced I have to perform. But if my thoughts are the problem then I want to believe that it’s easy to show up in the same way, that it’s possible to show up in the same way, that it’s possible for me to show up as myself and in service.
 
-
 Actually I just had a bit of an epiphany. I draw inspiration for content based on what I’M currently struggling with, what I’M currently learning. So if I’m showing up in service to anyone it’s me, not my potential clients.
-
 
 Like I’m using my content as a way to solve my own problems without having completely solved them yet. I’m usually sharing my own breakthroughs, my own moments of realization, even if I’m not outwardly using that language – that’s still where the inspiration is drawn from. But it’s always in the energy of “I haven’t fully figured this out yet.”
 
-
 Does that make sense? I leave my own setbacks and struggles at the door with my coaching clients, I am clean, I’m never worrying about myself on those calls. But in marketing and content I am the one who is still trying to figure something out. I’m not a coach worth investing in, I don’t “have the answers,” I’m someone in their process.
-
 
 & I’m attaching meaning to it, I let insecurity creep in, I’m not convinced anyone should listen to what I’m saying or buy what I’m selling. It’s so funny that those insecurities don’t come up in my client calls at all. Like of course I can serve them, but then why am I so detached from that in my marketing?
 
@@ -2305,24 +1687,21 @@ You’re a lot closer to this than you think.
 
 ---
 
-## Day 18 / 30 &#8211; what if it doesn’t work?
+## Day 18 / 30 – what if it doesn’t work?
+
+**Date:** 2026-04-09
 
 **QUESTION:**
 
 I like how you frame it here, that “readiness” is no longer necessary if you can feel anxiety and move anyway. I can see how that’s true. One of the things that gets kicked up in response to that is the question, “what if it isn’t working even though I’m putting myself out there and I can’t figure out why?”
 
-
 Obviously if it’s working, I’ll know it. But how will I know what to do if it’s not? Like I’m putting myself out there, I’m talking about what I do, I’m posting, I’m making offers, etc. but still nothing changes? That feels a lot like a 10th step fear rather than a next step fear. & I can also recognize that, if I am believing I can handle whatever comes next then I am also believing I can handle that circumstance.
-
 
 During the most courageous time of my life I used to affirm constantly, “when the fear passes will there be joy?” That was what I used to say when I was afraid to take the next scary step & it helped me take a lot of courageous action. That’s what this conversation is reminding me of.
 
-
 I think I would see anxiety as part of the process rather than a sign to take pause. & becase of that I would continue moving forward, even if it was uncomfortable. & when I am avoiding showing up and posting through anxiety – I think I’m avoiding success. Because I don’t want to mishandle it like I did before.
 
-
 I do want to note, yesterday I recorded and posted a Tiktok because of our conversation. I felt really clunky doing it, which is interesting because I haven’t felt clunky recording videos in months now. But I did it anyway and posted it. & I made an offer at the end of the video as well. I know there is a lot of room for improvement still but I’m glad that I did it anyway, and I plan to make another today and to continue doing that as well.
-
 
 I don’t know if I mentioned this in previous messages but I also made free coaching offers to 3 past clients so I could practice a new technique I plan to use in my new long term packages. I start the first of those sessions today and I’m looking forward to it. I am taking action even though I am uncomfortable. The next uncomfortable thing I can feel myself avoiding is meeting new people.
 
@@ -2354,8 +1733,6 @@ showing up where you can
 
 So then the next question becomes,
  “How do I want to meet people more actively? Do I want to? In what ways could I do that?”
-
-
 
 And try not to overthink it. It may be sitting at a coffee shop working on your laptop, attending free meet ups or events locally, conferences, finding hobbies that cost little to nothing and allow you to connect, saying yes to opportunities to get out of the house just in case random conversations happen, a friend inviting you to meet another friend, etc.,
 
@@ -2396,16 +1773,15 @@ Keep going coach, you’re doing amazing!
 
 ## Plans for maternity leave
 
+**Date:** 2026-04-21
+
 **QUESTION:**
 
 Hi there, thanks for all your good coaching in the past! Something else I’m hoping to get some support on…
 
-
 As I’ve shared, I’m pregnant, due in July, and taking off about 3 months from the business. I’ve got a plan for my current clients and how I’ll handle my time away with them, and something else I’m starting to consider is handling new clients who sign between now and the start of my leave (I’ve got a goal of 7 clients before July, I’m ITC’ing this all month!).
 
-
 The plan: my coaching is a year long, helping moms write novels, and based on past experience, I believe my clients need at least 2 months of working with me before they get into the groove of writing. For consults in May/June, my plan is to delay their start until October (maternity leave July/Aug/Sept), because we wouldn’t have enough time to set them up for success with coaching/writing their novel without us meeting.
-
 
 Why would they be willing to wait?
 
@@ -2415,9 +1791,7 @@ Why would they be willing to wait?
 
 – I would totally wait to start working 1:1 with Stacey, so it’s possible my potential clients view me in the same way and would be willing to wait
 
-
 One area I’m a little stuck is whether I want to give them anything while I’m away on leave – not necessarily worksheets, but a few things to essentially tide them over. On the one hand, I don’t necessarily need to give them anything – some people would be fine waiting until October – but also, I want to help the clients who have signed up and are eager to make progress on their novel. I want to get them started, I want to help them believe in their novel, and I want to build excitement for us to work together. (There’s a little bit of fear that someone would lose belief/excitement over the summer and change their mind by October)
-
 
 Some thoughts of what I could give them:
 
@@ -2426,7 +1800,6 @@ Some thoughts of what I could give them:
 – story assessment questions, which gets them thinking more critically about their novel, which is a powerful skill for writers
 
 – scheduled emails for voice notes from me to maintain connection
-
 
 I’m wondering if this is too much to expect of me (since I’m 7 months pregnant and it’s a lot of prep) or if I’m coming from desperate energy – or if this would be a pleasant surprise and worth doing. Would love another perspective!
 
@@ -2455,228 +1828,6 @@ You could ask,
 If one or many of your ideas feels aligned with that question, it may be worth exploring and creating whatever comes from that answer!
 
 Feel free to come back if you would like more coaching or need anything else, we would be happy to help!
-
----
-
-## I feel like quitting- IV
-
-**QUESTION:**
-
-So I’m curious why does your brain think price matters more than value or transformation?
-
-I think because that is what my brain thinks they value. That they are not willing to pay for the transformation. They just want a low price. They want a transformation but want it where it doesn’t cost them. I think there is also a bit of unworthiness underneath as well. Like I’m not worthy to be charging the price I’m charging
-
-How would you show up if you truly believed your clients were already in the room, ready and wanting to hire you? I would move out of convincing and more qualifying-like are you a good fit for the program, let’s get started now
-
-But I want to understand do you feel unclear on your value, or is it that you haven’t practiced articulating it enough yet? I think it’s a bit of both. I started to get more clear on the value of my program and the problem it solves and it’s helped.
-
-When you said your answer to “Why is this 5K?” mostly makes sense to you that’s honest, and it’s key. So what would you need to think and feel for it to feel compelling to them? That I’m 100% confident this works even if you’ve tried “everything”. Confident. Certain of the transformation I know they can achieve. Certain about my own skills and not doubting what i can do. Confident that my program works. Being able to guide them through their any challenge that comes up
-
-Lastly, I want you to look at everything you wrote and ask yourself:
-
-What is the actual problem I’m solving right now? Is it price? Or is it clarity, belief, and communication? It’s the clarity and belief that I am worthy to charge whatever price i want and know that i can deliver on it and more and transform lives. And communicating that to my dream clients I can help them solve their problem. Also not looking for outside validation to create certainty.
-
-So what does “getting clear” actually look like for you this week? More specificity? Practicing out loud? Writing it in multiple ways until it clicks? I’ve been writing things down just to get my thoughts out and so i can see them on paper. Also answering the questions about the specific problem I solve, helping themm understand why its happening, what’s possible on the other side and practicing saying it out loud. I’m also practicing those new beliefs because I still recognize the old ones popping up but I don’t want that anymore. I want to breakthrough and create something new, new levels, and enroll a client!
-
-**ANSWER:**
-
-Hi Coach,
-
-You did a really great job answering these questions because this is actually where the work starts to become challenging. This is the part where you’re asking your brain to do the heavy lifting.
-
-You’re asking it to access deeper clarity, stronger belief, and new ways to articulate value around something that is inherently intangible. Coaching is different because you’re not selling a physical object someone can hold in their hand. You’re helping someone bridge the gap between where they are and where they want to be  and being able to describe that clearly is part of the value.
-
-What stood out to me is that you’re already noticing the shift. You can see that this isn’t really a “price problem.” It’s never a price problem it’s belief problem in the value. It’s a clarity, belief, and confident communication problem.
-
-And that matters because when your brain believes people only care about price, you start showing up from convincing energy. But when you believe in the value and transformation, you naturally move into sharing the value not the cost. How is it true they want the result more than they want to keep 5k?  If they believe in the value and they understand the value why would it be worth investing 5k? What is the benefit if a 5k investment?  Notice how your brain wants to say I don’t know, maybe, like mine it doesn’t want to think hard and dig deep for the answers that are not on the surface. Brains want to take the easy more efficient way of thinking so you might have to direct it to answer.
-
-I also want you to notice something important:
-
-
-The more time you spend thinking deeply about your client’s problem, understanding why they’re stuck, learning how to explain it clearly, and helping them see what’s possible on the other side the more valuable your offer becomes.
-
-Not you as a human.
-
-
-Your worth is already whole and complete. 
-This work does not add to or take away from your worthiness. 
-But your ability to communicate transformation clearly? That absolutely grows with practice.
-
-That’s why I loved seeing your plan for this week. Writing things down. Practicing out loud. Exploring different ways to explain the problem and solution. That is the work. 
-You are training your brain to think more specifically and communicate more cleanly.
-
-And honestly, part of becoming excellent at this is being willing to explain it 100 different ways until it clicks more and more. Every conversation gives feedback. Every time you speak it out loud, your clarity sharpens.
-
-This is also why in-person conversations can be so valuable. They leave room for imperfection while helping you practice real-time communication. You get to see where people lean in, where they get confused, what resonates, and what creates connection.
-
-You mentioned wanting certainty that your program works “even if they’ve tried everything,” and I think this is important too:
-
-
-Part of building certainty is being willing to practice before you feel fully ready. Before you have all the proof. Before your brain gives you permission. 
-Because that’s actually how confidence gets built. 
-Not by waiting to feel certain first.
-
-
-But by continuing to speak, coach, refine, think, and share anyway.
-
-You’re already doing the right work here. Keep practicing the beliefs you want to create. Keep strengthening your ability to articulate the problem and transformation. Keep getting in the room and having conversations. Great work Coach!
-
----
-
-## Adding a high-ticket offer when I still need to grow my basic offer
-
-**QUESTION:**
-
-I have combined my 20+ years of teaching experience and my life coach certification into a small-group online tutoring business. My offer is: I help motivated but struggling 9th and 10th-grade students raise their language arts grades and gain confidence so that they can succeed in core classes, prepare for future SATs, and be on track for college.
-
-
-At this point, I have two students in my group and am running paid ads alongside organic, and I’m learning from Stacey (who I have been following for years). I know that there is great value here, and alongside just teaching school skills, the MINDSET and coaching are everything! The group coaching is $1200 for 12 weeks (2, 45-minute sessions per week), and the transformation is: creating a student who is independently successful in language arts AND has the actual skills ready to implement.
-
-
-Additionally, I would like to add a high-ticket offer: this package plus 1:1 weekly sessions that focus more strictly on coaching, and less on tutoring, for $3700 for 12 weeks. Unfortunately, I have been having the hardest time bringing in new clients and generating leads, so my brain is stuck on adding this offer.
-
-
-I am in a large educator/ tutor business mentoring group, and one solution I have is to offer to do free coaching to some of the other tutors in the group and just “coach my face” off to at least get back in the practce… but ya know, fear…
-
-**ANSWER:**
-
-Hey coach,
-
-First, I want to start by grounding you in what’s already working. You have two students in your group. That matters. That tells me this isn’t theoretical you’ve already created something real, something valuable, something people are saying yes to. And with 20+ years of experience plus coaching, this isn’t you 
-figuring out if you can help, 
- it’s you learning how to consistently get in front of the people you can help.
-
-Now, I want to go right to the thought you shared, because this is really the center of it:
-
-“I’ve been having the hardest time bringing in new clients… so my brain is stuck on adding this offer.”
-
-Before we even touch the high-ticket idea, we need to understand that sentence. Why do you think you’ve been having the hardest time bringing in new clients? What does that mean ? Also what are you making that mean now?
-
-I’m asking this because if we don’t clearly define the problem, your brain will keep trying to solve it in ways that don’t actually address it, potentially like creating new offers instead of strengthening demand for the one you already have.
-
-What are your top three specific theories?
-
-Not general be as specific as you can.  With the actual process you have been using.
-
-For example:
-
-Is it visibility?
-
-Is it messaging?
-
-Is it belief when you’re selling?
-
-Is it consistency in outreach?
-
-What else?
-
-The more honest and precise you are here, the more solvable this becomes. Because adding a high-ticket offer doesn’t solve a lead generation problem. It just gives your brain something new to focus on.
-
-So I also want to ask:
-
-What do you believe about your current group offer right now? If this was selling out beyond what you expected, if there was demand right now would you be adding this new offer now?  How would sold out demand impact your new offer?
-
-And I’m asking this because how you think about 
-this
- offer will directly impact how you show up to sell it.
-
-Do you believe it’s an easy yes for the right student?
-
-Do you believe parents see the value immediately?
-
-Or are there thoughts like “this is a harder sell” or “people might hesitate at the price”?
-
-Now connect that to this:
-
-How do you think adding a 1:1 offer would change your actions?
-
-Would you market differently?
-
-Show up more confidently?
-
-Reach out more?
-
-And if so, why would that only be available to you with a new offer?
-
-This is important, because how we do one thing is often how we do another.
-
-If your belief about your ability to generate leads feels shaky right now, that likely follows you into 
-any
- offer.
-
-Sometimes a new offer gives a temporary boost—new energy, new excitement but the moment it gets hard, your brain will likely return to: “This is hard for me.”
-
-So instead of solving for 
-offers
-, we want to look at how you’re showing up in the process of creating clients.
-
-Let’s make that really tangible.
-
-How do you feel when you meet new people who could be a fit?
-
-What are the exact thoughts creating that feeling?
-
-How do you feel when you tell someone what you do?
-
-Again, what are the thoughts underneath that?
-
-And how do you feel when you actually make an offer or invite someone in?
-
-I’m asking these not just to ask but because those moments are where clients are created.
-
-If there’s hesitation, doubt, or holding back there, it won’t matter how good the offer is.
-
-Now, I also want to touch the part where you said:
-
-“I could coach my face off… but, you know, fear.”
-
-Let’s slow that down.
-
-“You know, fear” what does that mean to you?
-
-Because experiencing fear doesn’t actually mean anything has gone wrong.
-
-It doesn’t mean you shouldn’t do it.
-
-It doesn’t mean you’re not ready.
-
-It usually means you’re doing something that matters.
-
-So I want to understand:
-
-What are you making fear mean?
-
-Are you using it as a reason to pause?
-
-Or can it be a signal that you’re expanding?
-
-If you weren’t afraid, what would you do right now?
-
-And even more important:
-
-What specifically are you afraid of?
-
-Get really honest here what’s the worst-case scenario your brain is offering you, and why does that matter?
-
-Because on the other side of that fear isn’t just “more practice.”
-
-It’s evidence for yourself that you can show up, help people, and create results.
-
-And that’s what builds belief not thinking about it, but doing it.
-
-So when you consider offering free coaching inside your group, I don’t see that as “just practice.”
-
-I see that as you putting yourself in the exact environment where your future clients already are, and showing them what’s possible.
-
-And I want to leave you with this, because this is the shift:
-
-Don’t depend on clients finding you and deciding on their own. Don’t wait for that it will seem practical even logical to your brain when you believe you are not in charge of creating the clients by helping them decide on their own. IF you believe you are 100 percent capable of creating teh demand what is different?
-
-Take responsibility for going out, finding the people you can help, letting them know clearly how you help, and then making them an offer.
-
-You already have something valuable Coach!
-
-Now it’s about becoming the person who is willing to consistently put that in front of people fear and all.
 
 ---
 
