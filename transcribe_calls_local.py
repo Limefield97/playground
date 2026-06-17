@@ -2,13 +2,13 @@
 Run this on your PC.
 Requirements:
     pip install requests onnx-asr
-    ffmpeg must be installed and on PATH (used to convert MP3 -> WAV)
+    ffmpeg must be installed and on PATH (used to convert MP3 -> WAV chunks)
       Windows: winget install ffmpeg
 
 This script:
 1. Downloads the 25 most recent Stacey-only live coaching MP3s
-2. Converts each to 16kHz mono WAV (required by Parakeet)
-3. Transcribes with your local Parakeet TDT v3 model
+2. Splits each into 10-minute WAV chunks (avoids OOM with Parakeet)
+3. Transcribes each chunk with your local Parakeet TDT v3 model
 4. Saves transcripts as .md files ready to upload to Claude Projects
 """
 
@@ -16,7 +16,6 @@ import requests
 import os
 import re
 import subprocess
-import sys
 import time
 from pathlib import Path
 
@@ -34,6 +33,7 @@ MODEL_DIR      = Path(r"C:\Users\jkrilov\AppData\Roaming\com.pais.handy\models\p
 DOWNLOAD_DIR   = Path("coaching_audio")
 TRANSCRIPT_DIR = Path("coaching_call_transcripts")
 NUM_CALLS      = 25
+CHUNK_MINUTES  = 10  # split audio into 10-min chunks to stay within RAM
 
 DOWNLOAD_DIR.mkdir(exist_ok=True)
 TRANSCRIPT_DIR.mkdir(exist_ok=True)
@@ -70,27 +70,46 @@ def download_mp3(ep, idx):
     return filepath
 
 
-def convert_to_wav(mp3_path):
-    """Convert MP3 to 16kHz mono WAV using ffmpeg (required by Parakeet)."""
-    wav_path = mp3_path.with_suffix(".wav")
-    if wav_path.exists():
-        return wav_path
-    print(f"  Converting to WAV...")
+def make_wav_chunks(mp3_path):
+    """Split MP3 into 10-min 16kHz mono WAV chunks."""
+    chunk_dir = DOWNLOAD_DIR / (mp3_path.stem + "_chunks")
+    chunk_dir.mkdir(exist_ok=True)
+    existing = sorted(chunk_dir.glob("chunk_*.wav"))
+    if existing:
+        print(f"  Using {len(existing)} existing WAV chunks")
+        return existing
+    print(f"  Splitting into {CHUNK_MINUTES}-min WAV chunks...")
+    chunk_pattern = str(chunk_dir / "chunk_%03d.wav")
     subprocess.run(
-        ["ffmpeg", "-y", "-i", str(mp3_path), "-ar", "16000", "-ac", "1", str(wav_path)],
+        ["ffmpeg", "-y", "-i", str(mp3_path),
+         "-ar", "16000", "-ac", "1",
+         "-f", "segment", "-segment_time", str(CHUNK_MINUTES * 60),
+         chunk_pattern],
         check=True, capture_output=True
     )
-    return wav_path
+    chunks = sorted(chunk_dir.glob("chunk_*.wav"))
+    print(f"  Created {len(chunks)} chunks")
+    return chunks
 
 
-def transcribe(wav_path, model):
-    print(f"  Transcribing with Parakeet...")
-    t0 = time.time()
-    result = model.recognize(str(wav_path), language="en")
-    elapsed = time.time() - t0
-    text = getattr(result, "text", None) or (result if isinstance(result, str) else str(result))
-    print(f"    Done in {elapsed:.0f}s")
-    return text.strip()
+def transcribe(mp3_path, model):
+    chunks = make_wav_chunks(mp3_path)
+    parts = []
+    for i, chunk in enumerate(chunks, 1):
+        print(f"  Chunk {i}/{len(chunks)}...", end=" ", flush=True)
+        t0 = time.time()
+        result = model.recognize(str(chunk), language="en")
+        text = getattr(result, "text", None) or (result if isinstance(result, str) else str(result))
+        parts.append(text.strip())
+        print(f"{time.time()-t0:.0f}s")
+        chunk.unlink()
+    # remove chunk dir
+    chunk_dir = DOWNLOAD_DIR / (mp3_path.stem + "_chunks")
+    try:
+        chunk_dir.rmdir()
+    except Exception:
+        pass
+    return " ".join(parts)
 
 
 def save_transcript(ep, transcript, idx):
@@ -121,11 +140,9 @@ def main():
     for i, ep in enumerate(episodes, 1):
         print(f"[{i}/{len(episodes)}] {ep['title'][:70]}")
         try:
-            mp3_path = download_mp3(ep, i)
-            wav_path = convert_to_wav(mp3_path)
-            transcript = transcribe(wav_path, model)
+            mp3_path   = download_mp3(ep, i)
+            transcript = transcribe(mp3_path, model)
             save_transcript(ep, transcript, i)
-            wav_path.unlink()  # delete WAV after transcribing (MP3 kept for resume)
         except Exception as e:
             print(f"  ERROR: {e}")
         print()
