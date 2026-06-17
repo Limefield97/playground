@@ -1,18 +1,15 @@
 """
-Run this on your PC.
-Requirements:
-    pip install requests onnx-asr
-    ffmpeg must be installed and on PATH (used to convert MP3 -> WAV chunks)
-      Windows: winget install ffmpeg
+Run this from C:\Users\jkrilov\Downloads\coaching_audio
+(the folder where the MP3s already are)
 
-This script:
-1. Downloads the 25 most recent Stacey-only live coaching MP3s
-2. Splits each into 10-minute WAV chunks (avoids OOM with Parakeet)
-3. Transcribes each chunk with your local Parakeet TDT v3 model
-4. Saves transcripts as .md files ready to upload to Claude Projects
+Requirements already installed:
+    onnx-asr, requests
+    ffmpeg on PATH
+
+This script transcribes all MP3s already in the current folder
+using your local Parakeet TDT v3 model.
 """
 
-import requests
 import os
 import re
 import subprocess
@@ -21,62 +18,18 @@ from pathlib import Path
 
 import onnx_asr
 
-AUTH    = ("krilov@gmail.com", "86ZpqEPQX_*Tn")
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-FEED    = "https://2kfor2k.staceyboehman.com/feed/2k-members/"
-GUESTS  = re.compile(
-    r"\bwith\s+(Janessa Dean|Olivia Vizachero|Melissa Parsons|Courtney Gray"
-    r"|Maggie Reyes|Clare Ochoa|Jille Dunsmore|Piper|Amy Latta)\b", re.I
-)
-
 MODEL_DIR      = Path(r"C:\Users\jkrilov\AppData\Roaming\com.pais.handy\models\parakeet-tdt-0.6b-v3-int8")
-DOWNLOAD_DIR   = Path("coaching_audio")
+CHUNK_MINUTES  = 10
 TRANSCRIPT_DIR = Path("coaching_call_transcripts")
-NUM_CALLS      = 25
-CHUNK_MINUTES  = 10  # split audio into 10-min chunks to stay within RAM
-
-DOWNLOAD_DIR.mkdir(exist_ok=True)
 TRANSCRIPT_DIR.mkdir(exist_ok=True)
 
 
-def get_stacey_episodes():
-    import xml.etree.ElementTree as ET
-    print("Fetching RSS feed...")
-    resp = requests.get(FEED, auth=AUTH, headers=HEADERS, timeout=20)
-    root = ET.fromstring(resp.text)
-    episodes = []
-    for item in root.findall(".//item"):
-        title = item.findtext("title", "").strip()
-        enc   = item.find("enclosure")
-        mp3   = enc.get("url") if enc is not None else ""
-        date  = item.findtext("pubDate", "")[:16]
-        if not GUESTS.search(title) and mp3:
-            episodes.append({"title": title, "date": date, "url": mp3})
-    return episodes[:NUM_CALLS]
-
-
-def download_mp3(ep, idx):
-    safe_name = re.sub(r'[^\w\-]', '_', ep["title"])[:60]
-    filepath  = DOWNLOAD_DIR / f"{idx:02d}_{safe_name}.mp3"
-    if filepath.exists():
-        print(f"  Already downloaded: {filepath.name}")
-        return filepath
-    print(f"  Downloading: {ep['title'][:60]}...")
-    resp = requests.get(ep["url"], auth=AUTH, headers=HEADERS, stream=True, timeout=120)
-    with open(filepath, "wb") as f:
-        for chunk in resp.iter_content(chunk_size=1024 * 1024):
-            f.write(chunk)
-    print(f"    Done ({filepath.stat().st_size / 1024 / 1024:.1f} MB)")
-    return filepath
-
-
 def make_wav_chunks(mp3_path):
-    """Split MP3 into 10-min 16kHz mono WAV chunks."""
-    chunk_dir = DOWNLOAD_DIR / (mp3_path.stem + "_chunks")
+    chunk_dir = mp3_path.parent / (mp3_path.stem + "_chunks")
     chunk_dir.mkdir(exist_ok=True)
     existing = sorted(chunk_dir.glob("chunk_*.wav"))
     if existing:
-        print(f"  Using {len(existing)} existing WAV chunks")
+        print(f"  Using {len(existing)} existing chunks")
         return existing
     print(f"  Splitting into {CHUNK_MINUTES}-min WAV chunks...")
     chunk_pattern = str(chunk_dir / "chunk_%03d.wav")
@@ -103,8 +56,7 @@ def transcribe(mp3_path, model):
         parts.append(text.strip())
         print(f"{time.time()-t0:.0f}s")
         chunk.unlink()
-    # remove chunk dir
-    chunk_dir = DOWNLOAD_DIR / (mp3_path.stem + "_chunks")
+    chunk_dir = mp3_path.parent / (mp3_path.stem + "_chunks")
     try:
         chunk_dir.rmdir()
     except Exception:
@@ -112,24 +64,27 @@ def transcribe(mp3_path, model):
     return " ".join(parts)
 
 
-def save_transcript(ep, transcript, idx):
-    safe_name = re.sub(r'[^\w\-]', '_', ep["title"])[:60]
-    filepath  = TRANSCRIPT_DIR / f"live_call_{idx:02d}_{safe_name}.md"
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(f"# {ep['title']}\n\n")
-        f.write(f"**Date:** {ep['date']}\n\n")
-        f.write("---\n\n")
+def save_transcript(mp3_path, transcript):
+    out = TRANSCRIPT_DIR / (mp3_path.stem + ".md")
+    # Use filename as title, clean it up
+    title = mp3_path.stem.replace("_", " ").strip()
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(f"# {title}\n\n---\n\n")
         f.write(transcript)
         f.write("\n")
-    print(f"  Saved: {filepath.name} ({filepath.stat().st_size // 1024}KB)")
-    return filepath
+    print(f"  Saved: {out.name} ({out.stat().st_size // 1024}KB)")
 
 
 def main():
-    episodes = get_stacey_episodes()
-    print(f"Found {len(episodes)} Stacey-only calls to process\n")
+    mp3s = sorted(Path(".").glob("*.mp3"))
+    if not mp3s:
+        print("No MP3 files found in current folder.")
+        print(f"Run this script from the folder containing the MP3s.")
+        return
 
-    print(f"Loading Parakeet model from {MODEL_DIR}...")
+    print(f"Found {len(mp3s)} MP3 files to transcribe\n")
+
+    print(f"Loading Parakeet model...")
     model = onnx_asr.load_model(
         "nemo-parakeet-tdt-0.6b-v3",
         path=str(MODEL_DIR),
@@ -137,18 +92,20 @@ def main():
     )
     print("Model loaded.\n")
 
-    for i, ep in enumerate(episodes, 1):
-        print(f"[{i}/{len(episodes)}] {ep['title'][:70]}")
+    for i, mp3 in enumerate(mp3s, 1):
+        out = TRANSCRIPT_DIR / (mp3.stem + ".md")
+        if out.exists():
+            print(f"[{i}/{len(mp3s)}] SKIP (already transcribed): {mp3.name}")
+            continue
+        print(f"[{i}/{len(mp3s)}] {mp3.name}")
         try:
-            mp3_path   = download_mp3(ep, i)
-            transcript = transcribe(mp3_path, model)
-            save_transcript(ep, transcript, i)
+            transcript = transcribe(mp3, model)
+            save_transcript(mp3, transcript)
         except Exception as e:
             print(f"  ERROR: {e}")
         print()
 
-    print(f"Done! Transcripts saved to ./{TRANSCRIPT_DIR}/")
-    print("Upload those .md files to your Claude Project.")
+    print(f"Done! Transcripts in: {TRANSCRIPT_DIR.resolve()}")
 
 
 if __name__ == "__main__":
