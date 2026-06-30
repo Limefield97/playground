@@ -42,6 +42,24 @@ All files fetched 2026-06-30.
 | `ern-swr-part-09.md` | .../2017/02/08/.../part-9-guyton-klinger/ | Part 9: Dynamic Withdrawal Rates (Guyton-Klinger) |
 | `ern-swr-part-10.md` | .../2017/02/15/.../part-10-guyton-klinger | Part 10: Debunking Guyton-Klinger Some More |
 
+## JL Collins — Simple Path to Wealth (Stock Series)
+
+The book itself is commercially sold and not freely downloadable; these are the free blog posts on jlcollinsnh.com that the book was built from, covering the same core philosophy.
+
+| File | Source URL | Description |
+|---|---|---|
+| `jlcollins-stock-series-index.md` | https://jlcollinsnh.com/stock-series/ | Index/landing page for the full 36+ part Stock Series |
+| `jlcollins-02-market-always-goes-up.md` | .../2012/04/19/stocks-part-ii-the-market-always-goes-up/ | Part II: The Market Always Goes Up (long-term equity thesis) |
+| `jlcollins-05-keeping-it-simple.md` | .../2012/05/09/.../part-v-keeping-it-simple-considerations-and-tools/ | Part V: Keeping It Simple — Considerations and Tools |
+| `jlcollins-13-withdrawal-rates.md` | .../2012/12/07/.../part-xiii-withdrawal-rates-how-much-can-i-spend-anyway/ | Part XIII: Withdrawal Rates — How Much Can I Spend Anyway? (4% rule) |
+| `jlcollins-15-target-retirement-funds.md` | .../2012/12/18/.../part-xv-target-retirement-funds-the-simplest-path-to-wealth-of-all/ | Part XV: Target Retirement Funds, the Simplest Path to Wealth of All |
+| `jlcollins-17-cant-buy-vtsax.md` | .../2013/05/02/.../part-xvii-what-if-you-cant-buy-vtsax-or-even-vanguard/ | Part XVII: What if You Can't Buy VTSAX or Even Vanguard? |
+| `jlcollins-23-asset-allocation.md` | .../2014/06/10/.../part-xxiii-selecting-your-asset-allocation/ | Part XXIII: Selecting Your Asset Allocation |
+| `jlcollins-26-pulling-the-4-percent.md` | .../2014/08/25/.../part-xxvi-pulling-the-4/ | Part XXVI: Pulling the 4% (mechanics of withdrawing in retirement) |
+| `jlcollins-28-debt-unacceptable-burden.md` | .../2015/03/26/.../part-xxviii-debt-the-unacceptable-burden/ | Part XXVIII: Debt — The Unacceptable Burden |
+
+For the remaining ~28 parts (international funds, bonds, HSAs, RMDs, estate planning, etc.), see `jlcollins-stock-series-index.md` for the full list of titles/URLs.
+
 ## Real Estate
 
 | File | Source URL | Description |
