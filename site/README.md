@@ -1,4 +1,4 @@
-# joshkrilov.com — v1.0
+# joshkrilov.com — v2.0 (editorial redesign)
 
 Single-file static site. No build step, no dependencies. Deploy the `site/` folder anywhere.
 

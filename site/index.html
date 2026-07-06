@@ -3,532 +3,441 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Josh Krilov — AI Training for Teams That Are Drowning</title>
-<meta name="description" content="Practitioner-led AI training for lean, overworked teams. I train teams to use AI so they can stop working like it's an emergency.">
-<meta property="og:title" content="Josh Krilov — AI Training for Real Jobs">
-<meta property="og:description" content="I train teams to use AI so they can stop working like it's an emergency.">
+
+<!-- ============ SEO ============ -->
+<title>AI Training for Gulf South Teams | Josh Krilov · New Orleans</title>
+<meta name="description" content="Hands-on AI training for executives and lean teams in Louisiana and the Gulf South. Built by the guy who runs a 23-parish food bank's marketing with a team of two. Free sessions for associations, paid working sprints for organizations.">
+<link rel="canonical" href="https://joshkrilov.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="AI Training for Gulf South Teams | Josh Krilov">
+<meta property="og:description" content="I train teams to use AI so they can stop working like it's an emergency. New Orleans based. No theory, no webinar funnel.">
+<meta property="og:url" content="https://joshkrilov.com/">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Josh Krilov — AI Training",
+  "url": "https://joshkrilov.com/",
+  "description": "Hands-on AI training for executives and lean teams across South Louisiana and the Gulf South. Free workshops for associations and conferences; paid AI Working Sprints for organizations.",
+  "areaServed": ["New Orleans", "Louisiana", "Gulf South", "Baton Rouge", "Lafayette"],
+  "priceRange": "$3,000 - $4,500",
+  "founder": {
+    "@type": "Person",
+    "name": "Josh Krilov",
+    "jobTitle": "AI Trainer",
+    "knowsAbout": ["AI workflow training", "Claude", "nonprofit communications", "marketing automation"],
+    "address": { "@type": "PostalAddress", "addressLocality": "New Orleans", "addressRegion": "LA" }
+  }
+}
+</script>
+
 <style>
 /* ============================================================
-   THEME — light/dark via system preference
+   Editorial layout. Serif body, sans UI, no cards, no shadows.
    ============================================================ */
 :root {
-  --bg: #faf7f2;
-  --bg-alt: #f0ebe2;
-  --ink: #1c1917;
-  --ink-soft: #57534e;
-  --accent: #c2410c;        /* burnt orange — warm, Louisiana, not startup-blue */
-  --accent-ink: #ffffff;
-  --card: #ffffff;
-  --line: #e2dcd2;
-  --good: #15803d;
-  --shadow: 0 2px 16px rgba(28,25,23,.08);
+  --paper: #f6f2ea;
+  --ink: #211d18;
+  --soft: #6b6257;
+  --accent: #9c3b1a;
+  --rule: #d9d0c1;
+  --field: #fffdf8;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #16130f;
-    --bg-alt: #201c16;
-    --ink: #f5f0e8;
-    --ink-soft: #b8b0a4;
-    --accent: #fb923c;
-    --accent-ink: #1c1206;
-    --card: #241f19;
-    --line: #3a332a;
-    --good: #4ade80;
-    --shadow: 0 2px 16px rgba(0,0,0,.4);
+    --paper: #171310;
+    --ink: #ece5da;
+    --soft: #a1968a;
+    --accent: #e08d5f;
+    --rule: #352e26;
+    --field: #211c17;
   }
 }
-
-/* ============================================================
-   BASE
-   ============================================================ */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
-  background: var(--bg);
+  background: var(--paper);
   color: var(--ink);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.6;
-  font-size: 17px;
-  -webkit-font-smoothing: antialiased;
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  font-size: 1.1rem;
+  line-height: 1.75;
 }
-h1, h2, h3, .display {
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.15;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-.kicker {
-  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
-  font-size: .78rem;
+.page { max-width: 42rem; margin: 0 auto; padding: 0 1.4rem; }
+p { margin-bottom: 1.3rem; }
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+strong { font-weight: 700; }
+.soft { color: var(--soft); }
+
+/* section numbering */
+.sec { padding: 3.5rem 0 1rem; }
+.sec-label {
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-size: .72rem;
+  letter-spacing: .22em;
   text-transform: uppercase;
-  letter-spacing: .14em;
   color: var(--accent);
   display: block;
-  margin-bottom: .75rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.1rem;
+  margin-bottom: 1.6rem;
 }
-section { padding: 4.5rem 1.25rem; }
-.wrap { max-width: 880px; margin: 0 auto; }
-a { color: var(--accent); }
-.muted { color: var(--ink-soft); }
+h1 {
+  font-size: clamp(1.9rem, 5.5vw, 2.9rem);
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin-bottom: 1.4rem;
+}
+h2 { font-size: 1.45rem; line-height: 1.3; margin-bottom: 1.2rem; }
+h3 { font-size: 1.12rem; margin-bottom: .4rem; }
 
-/* ============================================================
-   BUTTONS
-   ============================================================ */
+/* masthead */
+header.masthead {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 1.6rem 0 .4rem;
+}
+.masthead .name {
+  font-weight: 700; font-size: 1.05rem; letter-spacing: .02em;
+  color: var(--ink); text-decoration: none;
+}
+.masthead .book-link {
+  font-family: -apple-system, system-ui, sans-serif;
+  font-size: .85rem;
+}
+
+/* buttons — square, restrained */
 .btn {
   display: inline-block;
-  padding: .85rem 1.6rem;
-  border-radius: 6px;
-  font-weight: 700;
-  font-size: 1rem;
+  font-family: -apple-system, system-ui, sans-serif;
+  font-size: .88rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  padding: .75rem 1.5rem;
+  border: 1px solid var(--ink);
+  color: var(--ink);
+  background: transparent;
   text-decoration: none;
-  border: 2px solid var(--accent);
   cursor: pointer;
-  transition: transform .12s ease, box-shadow .12s ease;
-  font-family: inherit;
+  transition: background .15s, color .15s;
 }
-.btn:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
-.btn-solid { background: var(--accent); color: var(--accent-ink); }
-.btn-ghost { background: transparent; color: var(--accent); }
+.btn:hover { background: var(--ink); color: var(--paper); }
+.btn-primary { background: var(--ink); color: var(--paper); }
+.btn-primary:hover { background: var(--accent); border-color: var(--accent); }
 
-/* ============================================================
-   NAV
-   ============================================================ */
-nav {
-  position: sticky; top: 0; z-index: 50;
-  background: color-mix(in srgb, var(--bg) 88%, transparent);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--line);
-  padding: .8rem 1.25rem;
+/* receipts list */
+ul.receipts { list-style: none; margin-bottom: 1.3rem; }
+ul.receipts li {
+  padding: .85rem 0;
+  border-bottom: 1px solid var(--rule);
 }
-.nav-inner { max-width: 880px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
-.nav-name { font-family: Georgia, serif; font-weight: 700; font-size: 1.05rem; text-decoration: none; color: var(--ink); }
-.nav-links { display: flex; gap: 1.1rem; align-items: center; }
-.nav-links a { text-decoration: none; color: var(--ink-soft); font-size: .92rem; }
-.nav-links a:hover { color: var(--accent); }
-.nav-links .btn { padding: .45rem .95rem; font-size: .88rem; }
-@media (max-width: 640px) { .nav-links a:not(.btn) { display: none; } }
+ul.receipts li:first-child { border-top: 1px solid var(--rule); }
+ul.receipts .what { display: block; }
+ul.receipts .how { display: block; font-size: .92rem; color: var(--soft); }
 
-/* ============================================================
-   HERO
-   ============================================================ */
-.hero { padding: 5.5rem 1.25rem 4rem; }
-.hero h1 { font-size: clamp(2.1rem, 6vw, 3.4rem); max-width: 780px; }
-.hero h1 em { color: var(--accent); font-style: italic; }
-.hero .sub { font-size: clamp(1.05rem, 2.5vw, 1.25rem); color: var(--ink-soft); max-width: 640px; margin: 1.4rem 0 2.2rem; }
-.hero-ctas { display: flex; gap: .9rem; flex-wrap: wrap; }
+/* ============ scorecard ============ */
+.card-row {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.card-row:first-of-type { border-top: 1px solid var(--rule); }
+.card-row .area { font-weight: 700; }
+.card-row .desc { font-size: .9rem; color: var(--soft); margin-bottom: .7rem; }
+.seg { display: flex; flex-wrap: wrap; gap: .5rem; }
+.seg button {
+  font-family: -apple-system, system-ui, sans-serif;
+  font-size: .82rem;
+  padding: .5rem .9rem;
+  border: 1px solid var(--rule);
+  background: var(--field);
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color .12s, background .12s;
+}
+.seg button:hover { border-color: var(--accent); }
+.seg button.on { border-color: var(--accent); background: var(--accent); color: var(--paper); }
+#score-btn { margin-top: 1.6rem; }
+#score-btn:disabled { opacity: .4; cursor: not-allowed; }
+#score-hint { font-size: .85rem; color: var(--soft); font-family: -apple-system, system-ui, sans-serif; margin-left: .8rem; }
 
-/* proof strip */
-.proof {
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
-  background: var(--bg-alt);
-  padding: 1.6rem 1.25rem;
+/* results */
+#results { display: none; margin-top: 2.2rem; }
+#results .headline { font-size: 1.35rem; font-weight: 700; margin-bottom: .4rem; }
+#results .hours { color: var(--soft); font-style: italic; margin-bottom: 1.6rem; }
+.verdict { padding: .9rem 0; border-top: 1px solid var(--rule); }
+.verdict .tag {
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-size: .68rem; letter-spacing: .16em; text-transform: uppercase;
 }
-.proof-inner {
-  max-width: 880px; margin: 0 auto;
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 1.2rem; text-align: center;
-}
-.proof-item strong { display: block; font-family: Georgia, serif; font-size: 1.3rem; color: var(--accent); }
-.proof-item span { font-size: .82rem; color: var(--ink-soft); }
+.verdict .tag.hi { color: var(--accent); }
+.verdict .tag.md { color: var(--soft); }
+.verdict .tag.lo { color: var(--soft); opacity: .7; }
+.verdict p { margin: .2rem 0 0; font-size: .97rem; }
+#results .ctas { margin-top: 1.8rem; display: flex; gap: .8rem; flex-wrap: wrap; }
 
-/* ============================================================
-   RECEIPTS
-   ============================================================ */
-.receipts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin-top: 2rem; }
-.receipt {
-  background: var(--card); border: 1px solid var(--line);
-  border-radius: 10px; padding: 1.3rem;
+/* email capture */
+.capture-box {
+  border: 1px solid var(--rule);
+  padding: 1.6rem;
+  margin: .5rem 0 1.5rem;
 }
-.receipt h3 { font-size: 1.05rem; margin-bottom: .4rem; }
-.receipt p { font-size: .92rem; color: var(--ink-soft); }
+.capture-box form { display: flex; gap: .6rem; flex-wrap: wrap; margin-top: .4rem; }
+.capture-box input[type=email] {
+  flex: 1 1 220px;
+  font-family: -apple-system, system-ui, sans-serif;
+  font-size: .95rem;
+  padding: .7rem .9rem;
+  border: 1px solid var(--rule);
+  background: var(--field);
+  color: var(--ink);
+}
+.capture-box input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+#capture-msg { display: none; font-size: .9rem; color: var(--accent); margin-top: .8rem; font-family: -apple-system, system-ui, sans-serif; }
 
-/* ============================================================
-   QUIZ
-   ============================================================ */
-.quiz-section { background: var(--bg-alt); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.quiz-card {
-  background: var(--card); border: 1px solid var(--line);
-  border-radius: 14px; padding: 2rem 1.5rem; margin-top: 2rem;
-  box-shadow: var(--shadow);
+/* offer paths */
+.path { margin-bottom: 2.2rem; }
+.path .price {
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-size: .78rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--accent); display: block; margin-bottom: .5rem;
 }
-.quiz-progress { display: flex; gap: 6px; margin-bottom: 1.5rem; }
-.quiz-progress i { flex: 1; height: 5px; border-radius: 3px; background: var(--line); transition: background .3s; }
-.quiz-progress i.done { background: var(--accent); }
-.quiz-q { font-family: Georgia, serif; font-size: 1.25rem; font-weight: 700; margin-bottom: 1.2rem; min-height: 3em; }
-.quiz-opts { display: grid; gap: .7rem; }
-.quiz-opt {
-  text-align: left; padding: .95rem 1.1rem;
-  background: var(--bg); border: 2px solid var(--line); border-radius: 8px;
-  color: var(--ink); font-size: .98rem; font-family: inherit; cursor: pointer;
-  transition: border-color .12s, transform .12s;
-}
-.quiz-opt:hover { border-color: var(--accent); transform: translateX(4px); }
-.quiz-result { text-align: center; }
-.score-ring {
-  width: 130px; height: 130px; margin: 0 auto 1.2rem;
-  border-radius: 50%; display: flex; align-items: center; justify-content: center;
-  font-family: Georgia, serif; font-size: 2.2rem; font-weight: 700;
-  background: conic-gradient(var(--accent) calc(var(--pct) * 1%), var(--line) 0);
-}
-.score-ring b { background: var(--card); width: 104px; height: 104px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
-.quiz-result h3 { font-size: 1.5rem; margin-bottom: .6rem; }
-.quiz-result p { color: var(--ink-soft); max-width: 480px; margin: 0 auto 1.5rem; }
-.quiz-restart { background: none; border: none; color: var(--ink-soft); text-decoration: underline; cursor: pointer; margin-top: 1.2rem; font-size: .85rem; font-family: inherit; }
 
-/* ============================================================
-   OFFERS
-   ============================================================ */
-.offers-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.2rem; margin-top: 2rem; }
-.offer {
-  background: var(--card); border: 1px solid var(--line);
-  border-radius: 12px; padding: 1.8rem 1.5rem;
-  display: flex; flex-direction: column;
+/* booking + footer */
+.book-frame { border: 1px solid var(--rule); min-height: 600px; margin: 1rem 0 2rem; }
+footer {
+  border-top: 1px solid var(--rule);
+  margin-top: 3rem;
+  padding: 1.8rem 0 3rem;
+  font-size: .88rem;
+  color: var(--soft);
+  font-family: -apple-system, system-ui, sans-serif;
 }
-.offer.featured { border: 2px solid var(--accent); position: relative; }
-.offer.featured::before {
-  content: "The main event";
-  position: absolute; top: -12px; left: 1.2rem;
-  background: var(--accent); color: var(--accent-ink);
-  font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em;
-  padding: .2rem .7rem; border-radius: 99px;
-}
-.offer .price { font-family: Georgia, serif; font-size: 1.6rem; font-weight: 700; margin: .3rem 0 .8rem; }
-.offer .price small { font-size: .85rem; font-weight: 400; color: var(--ink-soft); font-family: inherit; }
-.offer ul { list-style: none; margin: 0 0 1.5rem; flex: 1; }
-.offer li { padding: .3rem 0 .3rem 1.4rem; position: relative; font-size: .93rem; color: var(--ink-soft); }
-.offer li::before { content: "→"; position: absolute; left: 0; color: var(--accent); }
-.offer .btn { text-align: center; }
-.qualifier { font-size: .82rem; color: var(--ink-soft); font-style: italic; margin-top: .8rem; }
-
-/* ============================================================
-   EMAIL CAPTURE
-   ============================================================ */
-.capture { background: var(--ink); color: var(--bg); border-radius: 14px; padding: 2.5rem 1.5rem; margin-top: 3.5rem; text-align: center; }
-@media (prefers-color-scheme: dark) { .capture { background: var(--bg-alt); color: var(--ink); border: 1px solid var(--line); } }
-.capture h3 { font-size: 1.5rem; margin-bottom: .5rem; }
-.capture p { opacity: .8; max-width: 460px; margin: 0 auto 1.4rem; font-size: .95rem; }
-.capture form { display: flex; gap: .6rem; max-width: 440px; margin: 0 auto; flex-wrap: wrap; justify-content: center; }
-.capture input {
-  flex: 1 1 220px; padding: .85rem 1rem; border-radius: 6px;
-  border: 1px solid var(--line); font-size: 1rem; font-family: inherit;
-  background: var(--card); color: var(--ink);
-}
-.capture .msg { margin-top: .9rem; font-size: .9rem; color: var(--good); display: none; }
-
-/* ============================================================
-   ABOUT / BOOK / FOOTER
-   ============================================================ */
-.about-flex { display: flex; gap: 2.2rem; align-items: flex-start; flex-wrap: wrap; margin-top: 1.6rem; }
-.about-text { flex: 1 1 400px; }
-.about-text p { margin-bottom: 1rem; }
-.book-box {
-  margin-top: 2rem; background: var(--card); border: 1px solid var(--line);
-  border-radius: 12px; min-height: 420px; overflow: hidden;
-  display: flex; align-items: center; justify-content: center;
-}
-footer { border-top: 1px solid var(--line); padding: 2.5rem 1.25rem; text-align: center; font-size: .85rem; color: var(--ink-soft); }
-footer a { color: var(--ink-soft); }
+footer a { color: var(--soft); }
+.sig { font-style: italic; margin-top: 1.5rem; }
 </style>
 </head>
 <body>
+<div class="page">
 
-<nav>
-  <div class="nav-inner">
-    <a class="nav-name" href="#top">Josh Krilov</a>
-    <div class="nav-links">
-      <a href="#quiz">Readiness Check</a>
-      <a href="#training">Training</a>
-      <a href="#about">About</a>
-      <a class="btn btn-solid" href="#book">Book a call</a>
-    </div>
-  </div>
-</nav>
-
-<!-- ================= HERO ================= -->
-<header class="hero" id="top">
-  <div class="wrap">
-    <span class="kicker">AI training for real jobs — not AI theory</span>
-    <h1>I train teams to use AI so they can stop working like it's <em>an emergency.</em></h1>
-    <p class="sub">I'm one half of a two-person marketing team serving a 23-parish food bank. AI is why we're still standing. I'll teach your team the same systems — built on your actual workload, not a slide deck.</p>
-    <div class="hero-ctas">
-      <a class="btn btn-solid" href="#quiz">Score your team's AI readiness →</a>
-      <a class="btn btn-ghost" href="#training">See the training</a>
-    </div>
-  </div>
+<header class="masthead">
+  <a class="name" href="#top">Josh Krilov</a>
+  <a class="book-link" href="#book">Book 20 minutes →</a>
 </header>
 
-<!-- ================= PROOF STRIP ================= -->
-<div class="proof">
-  <div class="proof-inner">
-    <div class="proof-item"><strong>2-person team</strong><span>doing a 10-person workload, daily, with AI</span></div>
-    <div class="proof-item"><strong>3</strong><span>Anthropic certifications</span></div>
-    <div class="proof-item"><strong>5 years</strong><span>writing TV for Disney</span></div>
-    <div class="proof-item"><strong>20 years</strong><span>improv &amp; live facilitation</span></div>
-  </div>
-</div>
+<!-- ============ OPEN ============ -->
+<section class="sec" id="top" style="padding-top:4rem;">
+  <h1>I train teams to use AI so they can stop working like it's an emergency.</h1>
+  <p class="soft" style="font-size:1.05rem;">Hands-on AI training for executives and lean teams across South Louisiana and the Gulf South. No theory. No webinar funnel. Your real work, in your real tools, in an afternoon.</p>
+  <p style="margin-top:1.8rem;">
+    <a class="btn btn-primary" href="#scorecard">Find your first AI win ↓</a>
+  </p>
+</section>
 
-<!-- ================= RECEIPTS ================= -->
-<section>
-  <div class="wrap">
-    <span class="kicker">The receipts</span>
-    <h2>I don't teach AI. I survive on it.</h2>
-    <p class="muted" style="margin-top:.8rem; max-width:620px;">Everything I train is something I run in production at my day job — a lean nonprofit comms shop where "we'll get to it next quarter" isn't an option.</p>
-    <div class="receipts-grid">
-      <div class="receipt"><h3>10+ workflows in production</h3><p>Custom AI workflows for talking points, social content, graphics, email drafting, editing, and daily briefs — built for a team of two covering an entire region.</p></div>
-      <div class="receipt"><h3>Automated media monitoring</h3><p>Built with Claude Code and Playwright: automated monitoring and media reports that used to eat hours a week, now running on their own.</p></div>
-      <div class="receipt"><h3>AI staff we couldn't hire</h3><p>Built AI systems that replicate the functions of a marketing director, an editor, and a brand manager — roles our headcount will never cover.</p></div>
-      <div class="receipt"><h3>Org-wide AI strategy</h3><p>Authored a department-by-department AI opportunity assessment across a 150+ person organization, and contribute to a CEO-sponsored implementation initiative.</p></div>
-    </div>
+<!-- ============ STORY ============ -->
+<section class="sec">
+  <span class="sec-label">01 · The story</span>
+  <p>I'm half of a two-person marketing team at a food bank that serves 23 parishes in South Louisiana. Press releases, social media, event marketing, media monitoring. All of it lands on the two of us.</p>
+  <p>Two years ago I got tired of working like the building was on fire, and I started building AI workflows to get my time back. They worked. Well enough that I ended up writing an AI opportunity assessment for every department in our 150-person organization, and our CEO put me on the initiative bringing AI into the whole operation.</p>
+  <p>Meanwhile, every leader I talked to said some version of the same sentence: <em>"I know AI could help us. I just don't know where to start."</em></p>
+  <p>So now I show them. That's the business.</p>
+</section>
 
-    <div style="margin-top:3rem;">
-      <h3 style="font-size:1.2rem; margin-bottom:.8rem;">Who this is for</h3>
-      <ul style="list-style:none;">
-        <li style="padding:.3rem 0 .3rem 1.4rem; position:relative; color:var(--ink-soft);"><span style="position:absolute; left:0; color:var(--accent);">→</span> Teams buried in more work than people.</li>
-        <li style="padding:.3rem 0 .3rem 1.4rem; position:relative; color:var(--ink-soft);"><span style="position:absolute; left:0; color:var(--accent);">→</span> Organizations that keep hearing about AI but haven't figured out where to start.</li>
-        <li style="padding:.3rem 0 .3rem 1.4rem; position:relative; color:var(--ink-soft);"><span style="position:absolute; left:0; color:var(--accent);">→</span> Leaders who want to see AI work on real tasks before they commit to anything.</li>
-        <li style="padding:.3rem 0 .3rem 1.4rem; position:relative; color:var(--ink-soft);"><span style="position:absolute; left:0; color:var(--accent);">→</span> Anyone whose job description keeps growing faster than their headcount.</li>
-      </ul>
+<!-- ============ RECEIPTS ============ -->
+<section class="sec">
+  <span class="sec-label">02 · What I've actually built</span>
+  <ul class="receipts">
+    <li><span class="what">Ten-plus AI workflows running in production at my day job</span><span class="how">Talking points, social content, graphics, email drafts, editing, daily leadership briefs</span></li>
+    <li><span class="what">Automated media monitoring, built with Claude Code and Playwright</span><span class="how">It does a job we would otherwise have had to hire for</span></li>
+    <li><span class="what">AI systems standing in for three roles we can't afford</span><span class="how">Marketing director, editor, brand manager</span></li>
+    <li><span class="what">A department-by-department AI assessment for a 150-person org</span><span class="how">Now part of a CEO-sponsored implementation initiative</span></li>
+    <li><span class="what">Three Anthropic certifications</span><span class="how">The company that makes Claude</span></li>
+  </ul>
+  <p>None of this is theory. If it's on this list, it ran at my day job first, under real deadlines, with no backup.</p>
+  <p>One more thing worth knowing: before any of this I spent five years writing TV for Disney and twenty years doing improv. I've spent my whole career keeping rooms awake. Your training will not feel like compliance training.</p>
+</section>
+
+<!-- ============ SCORECARD ============ -->
+<section class="sec" id="scorecard">
+  <span class="sec-label">03 · Where would AI pay off first for you?</span>
+  <h2>The sixty-second scorecard.</h2>
+  <p class="soft">This is the short version of the assessment I wrote for our own organization. Six areas, one honest answer each. Nobody's watching, and no email is required to see your results.</p>
+
+  <div id="card-rows"></div>
+
+  <button class="btn btn-primary" id="score-btn" disabled onclick="scoreIt()">Score my org</button>
+  <span id="score-hint">Answer all six to score.</span>
+
+  <div id="results" aria-live="polite">
+    <div class="headline" id="res-headline"></div>
+    <div class="hours" id="res-hours"></div>
+    <div id="res-verdicts"></div>
+    <div class="ctas">
+      <a class="btn btn-primary" href="#full-scorecard">Get the full scorecard</a>
+      <a class="btn" href="#book">Book 20 minutes</a>
     </div>
   </div>
 </section>
 
-<!-- ================= QUIZ ================= -->
-<section class="quiz-section" id="quiz">
-  <div class="wrap">
-    <span class="kicker">Interactive — 60 seconds</span>
-    <h2>How ready is your team, actually?</h2>
-    <p class="muted" style="margin-top:.8rem;">Six honest questions. No email required. You'll get a score and a straight answer about what to do next.</p>
+<!-- ============ WORKING WITH ME ============ -->
+<section class="sec" id="work">
+  <span class="sec-label">04 · Working with me</span>
 
-    <div class="quiz-card">
-      <div id="quiz-body">
-        <div class="quiz-progress" id="quiz-progress"></div>
-        <div class="quiz-q" id="quiz-q"></div>
-        <div class="quiz-opts" id="quiz-opts"></div>
-      </div>
-      <div id="quiz-result" class="quiz-result" style="display:none;">
-        <div class="score-ring" id="score-ring"><b id="score-num">0</b></div>
-        <h3 id="result-title"></h3>
-        <p id="result-text"></p>
-        <a class="btn btn-solid" id="result-cta" href="#book"></a>
-        <br>
-        <button class="quiz-restart" onclick="startQuiz()">Retake the quiz</button>
-      </div>
-    </div>
+  <div class="path">
+    <span class="price">Free · 60 minutes</span>
+    <h3>If you run an association, chamber, or conference</h3>
+    <p>I'll come do sixty minutes for your members, free. Live builds on their real tasks, not slides about the future of work. You bring the room and a date; I bring everything else.</p>
+    <p class="soft" style="font-size:.95rem;">The one rule: I only do free sessions for rooms that hold more than one organization. If it's your team, that's a training, and trainings are paid.</p>
+    <p><a class="btn" href="#book">Put me on your calendar</a></p>
+  </div>
+
+  <div class="path">
+    <span class="price">$4,500 flat · $3,000 for nonprofits</span>
+    <h3>If you run an organization: the AI Working Sprint</h3>
+    <p>A half-day, hands-on training built around your team's actual tasks. Everyone leaves with working AI workflows for their own job, your org gets a playbook written for how you operate, and I stay on for thirty days of follow-up so it sticks instead of evaporating.</p>
+    <p class="soft" style="font-size:.95rem;">Not sure it's worth it? Take the scorecard above, then bring me your two ugliest workflows and we'll find out in twenty minutes.</p>
+    <p><a class="btn btn-primary" href="#book">Book a call</a></p>
   </div>
 </section>
 
-<!-- ================= OFFERS ================= -->
-<section id="training">
-  <div class="wrap">
-    <span class="kicker">How we work together</span>
-    <h2>Pick your on-ramp.</h2>
-    <div class="offers-grid">
-
-      <div class="offer">
-        <h3>Free Workshop</h3>
-        <div class="price">$0 <small>/ 60 min, live or virtual</small></div>
-        <ul>
-          <li>For your association, conference, or professional network</li>
-          <li>Live demo: I build a working AI workflow on a real task from the room, in front of everyone</li>
-          <li>Your audience walks out using AI in their actual job — starting the same week</li>
-          <li>I bring everything. You bring a room and a date.</li>
-        </ul>
-        <a class="btn btn-ghost" href="#book">Apply for a workshop</a>
-        <p class="qualifier">For groups of 10+ with an organizer who can put a date on the calendar. Bring a real task your people are drowning in — that's the whole application.</p>
-      </div>
-
-      <div class="offer featured">
-        <h3>Team Training</h3>
-        <div class="price">from $1,500 <small>/ 90-min session &middot; $2,500 half-day &middot; nonprofit rate available</small></div>
-        <ul>
-          <li>On-site or virtual, customized to your function — marketing, comms, ops, development, whatever your people actually do</li>
-          <li>Every person leaves with working AI workflows for their real tasks</li>
-          <li>Prompt library and playbook customized to your org</li>
-          <li>30-day follow-up call so it sticks instead of fading</li>
-        </ul>
-        <a class="btn btn-solid" href="#book">Book a discovery call</a>
-      </div>
-
-      <div class="offer">
-        <h3>The AI Shortcuts Cheat Sheet</h3>
-        <div class="price">Free <small>/ instant download</small></div>
-        <ul>
-          <li>10 prompts that save your team 5+ hours a week</li>
-          <li>Role-specific and copy-paste ready</li>
-          <li>No jargon, no theory — written for busy people with real deadlines</li>
-        </ul>
-        <a class="btn btn-ghost" href="#cheatsheet">Get the cheat sheet</a>
-      </div>
-    </div>
-
-    <!-- ============ EMAIL CAPTURE ============ -->
-    <div class="capture" id="cheatsheet">
-      <h3>The AI Shortcuts Cheat Sheet</h3>
-      <p>10 prompts that save your team 5+ hours a week. Role-specific. Copy-paste ready. No jargon — and no drip campaign or webinar funnel after it.</p>
-      <!--
-        SWAP THIS FORM ACTION with your real provider:
-        • ConvertKit: action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions"
-        • Mailchimp:  action="https://YOUR_DC.list-manage.com/subscribe/post?u=YOUR_U&id=YOUR_ID"
-          (Mailchimp also needs name="EMAIL" in caps on the input)
-        Until swapped, JS below runs in demo mode and shows a success message locally.
-      -->
-      <form id="capture-form" action="PLACEHOLDER_FORM_ACTION" method="post">
-        <input type="email" name="email_address" placeholder="you@yourorg.org" required aria-label="Email address">
-        <button class="btn btn-solid" type="submit">Send it</button>
-      </form>
-      <div class="msg" id="capture-msg">✓ Check your inbox — it's on the way.</div>
-    </div>
-  </div>
-</section>
-
-<!-- ================= ABOUT ================= -->
-<section id="about">
-  <div class="wrap">
-    <span class="kicker">About</span>
-    <h2>Why me and not a consultant with a deck?</h2>
-    <div class="about-flex">
-      <div class="about-text">
-        <p>I spent 5 years writing TV for Disney and 20 years doing improv and live facilitation. Then I landed on a two-person marketing team at a food bank serving 23 parishes in South Louisiana — a workload that should require ten people.</p>
-        <p>AI is how we survive it. Over two years I've built the systems that write our talking points, monitor our media, produce our social content, and brief our leadership every morning. That work grew into a department-by-department AI assessment across our 150+ person org and a seat on a CEO-sponsored AI initiative.</p>
-        <p>The thing I kept hearing from other teams was the same thing I'd felt: <em>"I know AI could help, but I don't know where to start."</em> So I started showing them. That's what this is.</p>
-        <p>When I train your team, you're not getting theory. You're getting the systems of someone who has to be right, on deadline, with no backup. And thanks to two decades on stage — the training is actually fun. People stay awake. On purpose.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ================= BOOKING ================= -->
-<section id="book" style="padding-top:2rem;">
-  <div class="wrap">
-    <span class="kicker">Book</span>
-    <h2>Grab 20 minutes. Bring your messiest workflow.</h2>
-    <p class="muted" style="margin-top:.8rem;">Workshop applications and training scoping calls both start here.</p>
+<!-- ============ LEAD MAGNET ============ -->
+<section class="sec" id="full-scorecard">
+  <span class="sec-label">05 · The full scorecard</span>
+  <p>The version above is six questions. The full worksheet is the one I use in paid engagements: department-level questions, scoring, and a first-ninety-days column so you know what order to do things in.</p>
+  <div class="capture-box">
+    <strong>I'll email it to you.</strong>
+    <p class="soft" style="font-size:.9rem; margin:.3rem 0 0;">That's all I'll email you, unless you ask for more.</p>
     <!--
-      SWAP: replace data-url with your real Calendly link, e.g.
-      https://calendly.com/joshkrilov/intro-call
+      SWAP THIS FORM ACTION with your real provider:
+      • ConvertKit: action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions"
+      • Mailchimp:  action="https://YOUR_DC.list-manage.com/subscribe/post?u=YOUR_U&id=YOUR_ID"
+        (Mailchimp needs the input renamed to EMAIL)
+      Until swapped, the form runs in demo mode and confirms locally.
     -->
-    <div class="book-box">
-      <div class="calendly-inline-widget" data-url="https://calendly.com/YOUR-CALENDLY-USERNAME/intro-call" style="width:100%;height:640px;"></div>
-    </div>
-    <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <form id="capture-form" action="PLACEHOLDER_FORM_ACTION" method="post">
+      <input type="email" name="email_address" placeholder="you@yourorg.org" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Send it</button>
+    </form>
+    <div id="capture-msg">On its way. Check your inbox.</div>
   </div>
+</section>
+
+<!-- ============ BOOK ============ -->
+<section class="sec" id="book">
+  <span class="sec-label">06 · Book</span>
+  <h2>Twenty minutes. Bring your ugliest workflow.</h2>
+  <p class="soft">No deck, no discovery-call theater. We'll look at one real task from your org and I'll tell you honestly whether AI helps, and how much.</p>
+  <!-- SWAP: replace data-url with your Calendly link, e.g. https://calendly.com/joshkrilov/intro -->
+  <div class="book-frame">
+    <div class="calendly-inline-widget" data-url="https://calendly.com/YOUR-CALENDLY-USERNAME/intro-call" style="width:100%;height:600px;"></div>
+  </div>
+  <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 </section>
 
 <footer>
-  <p><strong>Josh Krilov</strong> · AI training for teams that are drowning · New Orleans, LA &amp; everywhere with wifi</p>
-  <p style="margin-top:.5rem;"><a href="mailto:krilov@gmail.com">krilov@gmail.com</a> · <a href="https://www.linkedin.com/">LinkedIn</a></p>
+  <p><strong>Josh Krilov</strong> · AI training for Gulf South teams · New Orleans, LA</p>
+  <p><a href="mailto:krilov@gmail.com">krilov@gmail.com</a> · <a href="https://www.linkedin.com/">LinkedIn</a></p>
+  <p class="sig">Still working like it's an emergency? It doesn't have to be. — J.</p>
 </footer>
+
+</div>
 
 <script>
 /* ============================================================
-   AI READINESS QUIZ
-   6 questions, 0–2 points each, max 12.
-   Routes: 0–4 free workshop · 5–8 cheat sheet + workshop · 9–12 paid training
+   THE SIXTY-SECOND SCORECARD
+   Six areas, 0–2 opportunity points each. Higher = more untapped.
    ============================================================ */
-const QUESTIONS = [
-  { q: "When a big deadline hits, how does your team currently use AI?",
-    opts: [
-      ["We don't. We just work later.", 0],
-      ["A couple of people paste things into ChatGPT and hope.", 1],
-      ["We have go-to prompts or workflows we actually reuse.", 2]]},
-  { q: "Does anyone on your team have a repeatable AI workflow — something they run weekly without reinventing it?",
-    opts: [
-      ["No — every use is from scratch.", 0],
-      ["One or two people have their own private tricks.", 1],
-      ["Yes, and more than one person uses it.", 2]]},
-  { q: "How does leadership feel about AI?",
-    opts: [
-      ["Suspicious, banned, or 'we'll look at it next year.'", 0],
-      ["Curious but nobody owns it.", 1],
-      ["Actively wants the team using it.", 2]]},
-  { q: "What happens to your team's writing tasks — emails, posts, reports?",
-    opts: [
-      ["Everything is written by hand, every time.", 0],
-      ["AI drafts sometimes, but the output needs heavy rescue.", 1],
-      ["AI drafts routinely; humans edit and ship.", 2]]},
-  { q: "If your busiest person took two weeks off, what breaks?",
-    opts: [
-      ["Everything. Their process lives in their head.", 0],
-      ["Some things — a few processes are documented.", 1],
-      ["Not much — our workflows are written down or automated.", 2]]},
-  { q: "Be honest: why hasn't AI stuck at your org yet?",
-    opts: [
-      ["Nobody's had time to even start.", 0],
-      ["We started, got mediocre results, and drifted back.", 1],
-      ["It IS sticking — we want to go faster.", 2]]}
+const AREAS = [
+  { key: "comms", area: "Communications and marketing",
+    desc: "Press, social media, newsletters, graphics",
+    hi: "This is where I started. Press drafts, social calendars, and talking points are the fastest wins in any building. My two-person team runs on this." },
+  { key: "reporting", area: "Leadership briefs and reporting",
+    desc: "Board packets, weekly updates, KPI summaries",
+    hi: "Board packets and leadership updates are the most automatable documents in your org, because they follow the same shape every single time." },
+  { key: "fundsales", area: "Fundraising or sales",
+    desc: "Appeals, proposals, donor or client research",
+    hi: "Appeal letters and proposals reuse the same bones over and over. That's exactly the writing AI drafts well and a human finishes fast." },
+  { key: "ops", area: "Operations and admin",
+    desc: "Meeting notes, documentation, scheduling",
+    hi: "Meeting notes and documentation are the silent time-eater. This is usually the easiest place to prove AI works without touching anything public-facing." },
+  { key: "people", area: "People and HR",
+    desc: "Job posts, onboarding docs, internal comms",
+    hi: "Job posts and onboarding docs get rewritten from scratch at most orgs. They shouldn't be." },
+  { key: "research", area: "Monitoring and research",
+    desc: "Media coverage, grants, competitors, news",
+    hi: "I automated our media monitoring with Claude Code and it replaced a job we'd otherwise hire for. Monitoring is the most underrated AI use case going." }
 ];
-
-const TIERS = [
-  { max: 4, title: "Fire Drill Mode", pct: 30,
-    text: "Your team is doing everything the hard way — which means you have the most to gain, fastest. Don't buy anything yet. Start with the free workshop: I'll build a working AI workflow on one of your real tasks, live, so your team sees the payoff before spending a dollar.",
-    cta: "Apply for the free workshop →" },
-  { max: 8, title: "Getting Traction", pct: 62,
-    text: "You've got sparks — a few people experimenting, some wins. The risk now is drift: without shared workflows, it stays a party trick for two people. Grab the cheat sheet to standardize the quick wins, and bring your team to a free workshop to get everyone on the same page.",
-    cta: "Get the cheat sheet + workshop →" },
-  { max: 12, title: "Ready to Systematize", pct: 92,
-    text: "Your team is past the toe-dip. What you need now is the thing almost nobody does: turning individual wins into team-wide systems with a playbook. That's exactly what the paid training builds. Book a scoping call — bring your two ugliest workflows.",
-    cta: "Book a training scoping call →" }
+const OPTS = [
+  ["All by hand", 2],
+  ["A few people experiment", 1],
+  ["AI runs part of it", 0]
 ];
+const MID_VERDICT = "You've got sparks here. The gap between somebody experimenting and this-is-how-we-do-it is where most orgs stall, and it's exactly what a training closes.";
+const LOW_VERDICT = "Already moving. Skip ahead.";
+/* rough recoverable hours/week by opportunity level */
+const HOURS = { 2: [4, 6], 1: [2, 3], 0: [0, 0] };
 
-let qi = 0, score = 0;
+const answers = {};
 
-function startQuiz() {
-  qi = 0; score = 0;
-  document.getElementById("quiz-result").style.display = "none";
-  document.getElementById("quiz-body").style.display = "block";
-  const prog = document.getElementById("quiz-progress");
-  prog.innerHTML = QUESTIONS.map(() => "<i></i>").join("");
-  renderQ();
+function renderRows() {
+  const wrap = document.getElementById("card-rows");
+  wrap.innerHTML = AREAS.map(a => `
+    <div class="card-row" data-key="${a.key}">
+      <span class="area">${a.area}</span>
+      <div class="desc">${a.desc}</div>
+      <div class="seg">
+        ${OPTS.map(([label, pts]) => `<button type="button" data-pts="${pts}" onclick="pick('${a.key}', ${pts}, this)">${label}</button>`).join("")}
+      </div>
+    </div>`).join("");
 }
 
-function renderQ() {
-  const { q, opts } = QUESTIONS[qi];
-  document.getElementById("quiz-q").textContent = (qi + 1) + ". " + q;
-  const box = document.getElementById("quiz-opts");
-  box.innerHTML = "";
-  opts.forEach(([label, pts]) => {
-    const b = document.createElement("button");
-    b.className = "quiz-opt";
-    b.textContent = label;
-    b.onclick = () => answer(pts);
-    box.appendChild(b);
-  });
-  [...document.querySelectorAll("#quiz-progress i")].forEach((el, i) => el.classList.toggle("done", i < qi));
+function pick(key, pts, btn) {
+  answers[key] = pts;
+  [...btn.parentElement.children].forEach(b => b.classList.remove("on"));
+  btn.classList.add("on");
+  const done = Object.keys(answers).length === AREAS.length;
+  document.getElementById("score-btn").disabled = !done;
+  document.getElementById("score-hint").textContent = done ? "" : `${AREAS.length - Object.keys(answers).length} to go.`;
 }
 
-function answer(pts) {
-  score += pts;
-  qi++;
-  qi < QUESTIONS.length ? renderQ() : showResult();
+function scoreIt() {
+  const total = Object.values(answers).reduce((s, v) => s + v, 0);
+  const lo = AREAS.reduce((s, a) => s + HOURS[answers[a.key]][0], 0);
+  const hi = AREAS.reduce((s, a) => s + HOURS[answers[a.key]][1], 0);
+
+  const headline =
+    total >= 9 ? "There's a lot on the table." :
+    total >= 5 ? "You've started. It hasn't stuck." :
+                 "You're ahead of almost everybody.";
+
+  document.getElementById("res-headline").textContent = headline;
+  document.getElementById("res-hours").textContent =
+    hi > 0
+      ? `Rough math: your team is leaving about ${lo} to ${hi} hours a week on the table. That's napkin math, but I make these napkins professionally.`
+      : "Honestly? Keep doing what you're doing. Book a call if you want to compare notes.";
+
+  const ranked = [...AREAS].sort((x, y) => answers[y.key] - answers[x.key]);
+  document.getElementById("res-verdicts").innerHTML = ranked.map(a => {
+    const pts = answers[a.key];
+    const tag = pts === 2 ? '<span class="tag hi">High opportunity</span>'
+              : pts === 1 ? '<span class="tag md">Stalled</span>'
+                          : '<span class="tag lo">Covered</span>';
+    const text = pts === 2 ? a.hi : pts === 1 ? MID_VERDICT : LOW_VERDICT;
+    return `<div class="verdict">${tag}<strong style="display:block">${a.area}</strong><p>${text}</p></div>`;
+  }).join("");
+
+  document.getElementById("results").style.display = "block";
+  document.getElementById("results").scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
-function showResult() {
-  document.getElementById("quiz-body").style.display = "none";
-  document.getElementById("quiz-result").style.display = "block";
-  const tier = TIERS.find(t => score <= t.max);
-  const ring = document.getElementById("score-ring");
-  ring.style.setProperty("--pct", Math.round((score / 12) * 100));
-  document.getElementById("score-num").textContent = score + "/12";
-  document.getElementById("result-title").textContent = tier.title;
-  document.getElementById("result-text").textContent = tier.text;
-  const cta = document.getElementById("result-cta");
-  cta.textContent = tier.cta;
-  cta.href = tier === TIERS[1] ? "#cheatsheet" : "#book";
-}
+renderRows();
 
-startQuiz();
-
-/* ============================================================
-   EMAIL CAPTURE — demo mode until form action is swapped
-   ============================================================ */
+/* email capture: demo mode until the form action is swapped */
 document.getElementById("capture-form").addEventListener("submit", function (e) {
   if (this.action.includes("PLACEHOLDER_FORM_ACTION")) {
-    e.preventDefault(); // demo mode: no provider wired yet
+    e.preventDefault();
     document.getElementById("capture-msg").style.display = "block";
     this.querySelector("input").value = "";
   }
-  // Once you swap in a real ConvertKit/Mailchimp action, the form posts normally.
 });
 </script>
 </body>
