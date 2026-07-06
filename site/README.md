@@ -19,8 +19,16 @@ Single-file static site. One dependency (Google Fonts: Fraunces). Deploys anywhe
   - Not sure: email capture for the full AI Opportunity Scorecard.
 - Submissions land in Netlify Forms → email notification → Josh replies with a plan/proposal on his own schedule. No live calls.
 
+## Scorecard delivery
+
+The full AI Opportunity Scorecard is in `scorecard.html`. When someone chooses "Not sure yet" and submits their email, Josh should reply with this link (or a PDF version):
+
+- **For email delivery:** Save `scorecard.html` as a PDF (Ctrl+P / Cmd+P in browser, "Save as PDF"), then attach to the reply. Or use a free HTML-to-PDF tool (e.g., pdfcrowd.com, convertio.co) to automate.
+- **For link delivery:** Upload `scorecard.html` somewhere publicly accessible and email a direct link (e.g., `joshkrilov.com/scorecard/`).
+
+The scorecard is department-by-department (marketing, ops, programs, fundraising, leadership) with scoring guidance, first-90-days roadmaps, and interpretation rules. It's sized to print on A4/letter.
+
 ## Placeholders to swap
 
 - Add `data-live` to the intake `<form>` after wiring Netlify/Formspree (until then it runs in demo mode)
 - Footer LinkedIn URL
-- The full AI Opportunity Scorecard PDF needs to be created to fulfill the "Not sure" path
