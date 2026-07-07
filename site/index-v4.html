@@ -19,9 +19,9 @@
   "@type": "ProfessionalService",
   "name": "Josh Krilov — AI Training",
   "url": "https://joshkrilov.com/",
-  "description": "Hands-on AI help for nonprofits and lean teams across South Louisiana and the Gulf South. Free workshops for associations and conferences; paid First Workflow builds for individual organizations.",
+  "description": "Hands-on AI training for nonprofits and lean teams across South Louisiana and the Gulf South. Free workshops for associations and conferences; paid AI Working Sprints for organizations.",
   "areaServed": ["New Orleans", "Louisiana", "Gulf South", "Baton Rouge", "Lafayette"],
-  "priceRange": "$0 - $500",
+  "priceRange": "$3,000 - $4,500",
   "founder": {
     "@type": "Person",
     "name": "Josh Krilov",
@@ -34,7 +34,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
 
 <style>
 /* ============================================================
@@ -61,7 +61,7 @@ html { scroll-behavior: smooth; }
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
@@ -293,12 +293,12 @@ footer a { color: var(--muted); }
 <!-- ============ HERO ============ -->
 <section class="hero" id="top">
   <div class="wrap">
-    <span class="kicker">Practical AI for nonprofits &amp; lean teams · New Orleans</span>
-    <h1>Bring me the task that eats your week. <span class="hl">I'll send back the AI workflow that does it.</span></h1>
-    <p class="sub">Hands-on AI help for Gulf South nonprofits and lean teams, from the director of AI strategy and communications at one of the region's largest nonprofits. No sales calls, no jargon — your real work, results the same week.</p>
+    <span class="kicker">AI training for nonprofits &amp; lean teams · New Orleans</span>
+    <h1>Your team is three hires short. AI can cover the gap — <span class="hl">I'll show them how in half a day.</span></h1>
+    <p class="sub">Hands-on training for Gulf South nonprofits and lean teams, from the director of AI strategy and communications at one of the region's largest nonprofits. Your real work, your real tools, results the same week — so everyone can stop working like it's an emergency.</p>
     <div class="hero-ctas">
-      <a class="btn btn-primary" href="#intake">Send me your task →</a>
-      <a class="btn btn-ghost" href="#work">See the two ways in</a>
+      <a class="btn btn-primary" href="#intake">Get your AI plan →</a>
+      <a class="btn btn-ghost" href="#scorecard">Take the 60-second scorecard</a>
     </div>
     <div class="trust">
       <span><b>Director</b> of AI strategy, 150-person nonprofit</span>
@@ -338,6 +338,30 @@ footer a { color: var(--muted); }
   </div>
 </section>
 
+<!-- ============ SCORECARD ============ -->
+<section class="quiz" id="scorecard">
+  <div class="wrap">
+    <span class="kicker">Interactive · 60 seconds · no email required</span>
+    <h2>Where would AI pay off first for you?</h2>
+    <p class="muted" style="max-width:600px;">This is the short version of the assessment I wrote for our own organization. Six areas, one honest answer each.</p>
+
+    <div class="sc-card">
+      <div id="card-rows"></div>
+      <button class="btn btn-primary" id="score-btn" disabled onclick="scoreIt()">Score my org</button>
+      <span id="score-hint">Answer all six to score.</span>
+
+      <div id="results" aria-live="polite">
+        <div id="res-headline"></div>
+        <div id="res-hours"></div>
+        <div id="res-verdicts"></div>
+        <div style="margin-top:1.6rem; display:flex; gap:.8rem; flex-wrap:wrap;">
+          <a class="btn btn-primary" href="#intake">Get your AI plan →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ============ OFFERS ============ -->
 <section id="work">
   <div class="wrap">
@@ -355,23 +379,24 @@ footer a { color: var(--muted); }
           <li>You bring the room and a date, I bring everything else</li>
         </ul>
         <a class="btn btn-ghost" href="#intake" onclick="preselect('workshop')">Request a workshop</a>
-        <p class="fine">The one rule: free sessions are for rooms with more than one organization in them. If it's just your team, start with the First Workflow instead.</p>
+        <p class="fine">The one rule: free sessions are for rooms with more than one organization in them. If it's your team, that's a training.</p>
       </div>
 
       <div class="offer hot">
-        <span class="tag">Start here</span>
-        <h3>The First Workflow</h3>
-        <div class="price">$500</div>
-        <div class="price-note">one task · credited toward any future team training</div>
+        <span class="tag">Most popular</span>
+        <h3>The AI Working Sprint</h3>
+        <div class="price">$4,500</div>
+        <div class="price-note">flat · $3,000 for nonprofits</div>
         <ul>
-          <li>Send me the recurring task that eats the most of your week</li>
-          <li>I build the AI workflow that does it — a step-by-step recipe your team can reuse</li>
-          <li>Plus a short screen recording of it running, start to finish</li>
-          <li>Delivered by email within a week, using tools you already have</li>
+          <li>Half-day hands-on training built on your team's actual tasks</li>
+          <li>Everyone leaves with working AI workflows for their own job</li>
+          <li>A playbook written for how your org operates</li>
+          <li>30 days of follow-up so it sticks instead of evaporating</li>
+          <li>A 60-day tune-up — one more workflow review a month later</li>
         </ul>
-        <p class="gline">The guarantee, in plain English: if it doesn't work on your real task, you don't pay.</p>
-        <a class="btn btn-primary" href="#intake" onclick="preselect('workflow')">Send me your task</a>
-        <p class="fine">I build these on my own time, one at a time, so I take a handful each month. First come, first workflowed.</p>
+        <p class="gline">The guarantee, in plain English: if your team doesn't leave with working workflows by the end of the day, don't pay me.</p>
+        <a class="btn btn-primary" href="#intake" onclick="preselect('training')">Start your plan</a>
+        <p class="fine">I have a day job I love, so I take two Sprints a month. For context: the roles AI covers at that job would cost six figures a year in salaries. The Sprint is one flat fee.</p>
       </div>
     </div>
   </div>
@@ -385,12 +410,12 @@ footer a { color: var(--muted); }
 
     <div class="qa">
       <h3>"Our data is sensitive."</h3>
-      <p>Good — it should be. The first thing we set, in any workshop or workflow, is ground rules: what never goes into an AI tool (donor records, client information, anything with a name on it) and what safely can. Most of the wins live in work that was never sensitive anyway — drafts, formats, research, summaries.</p>
+      <p>Good — it should be. The first thing we set on Sprint day is ground rules: what never goes into an AI tool (donor records, client information, anything with a name on it) and what safely can. Most of the wins live in work that was never sensitive anyway — drafts, formats, research, summaries.</p>
     </div>
 
     <div class="qa">
       <h3>"We tried ChatGPT and it didn't stick."</h3>
-      <p>A lunch-and-learn isn't a workflow. Watching someone demo AI and having it run on your own tasks are different sports. The First Workflow ends with it running on your actual task — that's the whole design, and it's why you don't pay if it doesn't.</p>
+      <p>A lunch-and-learn isn't a workflow. Watching someone demo AI and having it run on your own tasks are different sports. The Sprint ends with it running on your work — that's the whole design, and it's why the guarantee exists.</p>
     </div>
 
     <div class="qa">
@@ -405,7 +430,7 @@ footer a { color: var(--muted); }
 
     <div class="qa">
       <h3>"We don't have the budget."</h3>
-      <p>The free workshop exists for exactly this — get your association or network to book one. And the First Workflow is $500 on purpose: small enough for a professional-development line item, credited toward bigger training later. If I don't think you'll get your money's worth, my reply will say so.</p>
+      <p>The free workshop exists for exactly this — get your association or network to book one. If you do have professional-development or capacity-building funds, the Sprint fits inside them, and the nonprofit rate is $3,000. And if I don't think you'll get your money's worth, your plan will say so.</p>
     </div>
   </div>
 </section>
@@ -414,8 +439,8 @@ footer a { color: var(--muted); }
 <section class="intake" id="intake">
   <div class="wrap narrow">
     <span class="kicker">No sales call required</span>
-    <h2>Tell me what you need. Get a real reply in 48 hours.</h2>
-    <p class="lead">Answer a few questions and I'll reply by email — what I'd do first, what it costs, and whether it's honestly worth it. No discovery call, no pitch deck, no "let's hop on a quick call."</p>
+    <h2>Tell me what you need. Get a plan in 48 hours.</h2>
+    <p class="lead">Answer a few questions and I'll send you a custom plan by email — what I'd tackle first, what it costs, and how to book it. No discovery call, no pitch deck, no "let's hop on a quick call."</p>
 
     <div class="intake-card">
       <!--
@@ -434,30 +459,34 @@ footer a { color: var(--muted); }
         <div id="step-pick">
           <h3 style="margin-bottom:1rem;">What brings you here?</h3>
           <div class="path-pick">
-            <button type="button" onclick="choosePath('workflow')"><span class="t">Send me a task</span><span class="d">The First Workflow — one task turned into a working AI workflow, $500</span></button>
-            <button type="button" onclick="choosePath('workshop')"><span class="t">Book a free workshop</span><span class="d">For nonprofit associations, chambers, conferences, and networks</span></button>
-            <button type="button" onclick="choosePath('other')"><span class="t">Something else</span><span class="d">Bigger project, not sure where AI fits, or just want the scorecard</span></button>
+            <button type="button" onclick="choosePath('training')"><span class="t">Train my team</span><span class="d">The AI Working Sprint — half-day training, playbook, 30-day follow-up</span></button>
+            <button type="button" onclick="choosePath('workshop')"><span class="t">Book a free workshop</span><span class="d">For associations, chambers, conferences, and networks</span></button>
+            <button type="button" onclick="choosePath('unsure')"><span class="t">Not sure yet</span><span class="d">Get the full AI Opportunity Scorecard and go from there</span></button>
           </div>
         </div>
 
-        <!-- FIRST WORKFLOW PATH -->
-        <div class="fieldset" id="fs-workflow">
-          <h3>The First Workflow — tell me about the task.</h3>
+        <!-- TRAINING PATH -->
+        <div class="fieldset" id="fs-training">
+          <h3>The Working Sprint — let's scope it.</h3>
           <label for="t-org">Organization</label>
           <input type="text" id="t-org" name="org" placeholder="Acme Foundation">
           <label for="t-type">Org type</label>
           <select id="t-type" name="org_type">
             <option>Nonprofit</option><option>Business</option><option>Government / public</option><option>Other</option>
           </select>
-          <label for="t-pain">The task that eats your week</label>
-          <textarea id="t-pain" name="task" placeholder="e.g. Every Friday I turn program updates into a board memo. Half a day, gone, and most of it is reformatting…"></textarea>
+          <label for="t-size">Team size for the training</label>
+          <select id="t-size" name="team_size">
+            <option>2–5</option><option>6–12</option><option>13–25</option><option>25+</option>
+          </select>
+          <label for="t-pain">What's eating the most time right now?</label>
+          <textarea id="t-pain" name="pain" placeholder="e.g. Our grant reports take two weeks each and it's all copy-paste from old ones…"></textarea>
           <label for="t-email">Your email</label>
           <input type="email" id="t-email" name="email" required placeholder="you@yourorg.org">
           <div class="check">
             <input type="checkbox" id="t-budget" name="budget_ok" value="yes">
-            <label for="t-budget" style="margin:0; font-weight:400;">I understand the First Workflow is $500, credited toward any future team training — and that I don't pay if it doesn't work on my task.</label>
+            <label for="t-budget" style="margin:0; font-weight:400;">I understand the Sprint is $4,500 ($3,000 for nonprofits) and that works for us if the plan makes sense.</label>
           </div>
-          <button class="btn btn-primary" type="submit">Send my task →</button>
+          <button class="btn btn-primary" type="submit">Send me my plan →</button>
           <button class="back-link" type="button" onclick="choosePath(null)">← back</button>
         </div>
 
@@ -482,15 +511,13 @@ footer a { color: var(--muted); }
           <button class="back-link" type="button" onclick="choosePath(null)">← back</button>
         </div>
 
-        <!-- SOMETHING ELSE PATH -->
-        <div class="fieldset" id="fs-other">
-          <h3>Tell me what's on your mind.</h3>
-          <p class="muted" style="font-size:.93rem;">Bigger project? Whole-team training down the road? No idea where AI fits? Write it plainly. I'll reply with honest thoughts — plus the full AI Opportunity Scorecard I use in paid work, so you can see where the hours are hiding. That's all I'll email you unless you ask for more.</p>
-          <label for="u-what">What's going on</label>
-          <textarea id="u-what" name="context" placeholder="e.g. We're a 40-person org drowning in reporting, and leadership keeps asking about AI…"></textarea>
+        <!-- UNSURE PATH -->
+        <div class="fieldset" id="fs-unsure">
+          <h3>Start with the full scorecard.</h3>
+          <p class="muted" style="font-size:.93rem;">The on-page version is six questions. The full worksheet is the one I use in paid engagements — department-level questions, scoring, and a first-90-days column. I'll email it over, and that's all I'll email you unless you ask for more.</p>
           <label for="u-email">Your email</label>
           <input type="email" id="u-email" name="email" required placeholder="you@yourorg.org">
-          <button class="btn btn-primary" type="submit">Send it →</button>
+          <button class="btn btn-primary" type="submit">Send me the scorecard →</button>
           <button class="back-link" type="button" onclick="choosePath(null)">← back</button>
         </div>
       </form>
@@ -512,12 +539,72 @@ footer a { color: var(--muted); }
 
 <script>
 /* ============================================================
+   SCORECARD — six areas, 0–2 opportunity points each
+   ============================================================ */
+const AREAS = [
+  { key: "comms", area: "Communications & marketing", desc: "Press, social, newsletters, graphics",
+    hi: "This is where I started. Press drafts, social calendars, and talking points are the fastest wins in any building." },
+  { key: "reporting", area: "Leadership briefs & reporting", desc: "Board packets, updates, KPI summaries",
+    hi: "Board packets and leadership updates are the most automatable documents in your org — they follow the same shape every time." },
+  { key: "fundsales", area: "Fundraising or sales", desc: "Appeals, proposals, donor or client research",
+    hi: "Appeals and proposals reuse the same bones over and over. That's exactly the writing AI drafts well and a human finishes fast." },
+  { key: "ops", area: "Operations & admin", desc: "Meeting notes, documentation, scheduling",
+    hi: "Meeting notes and documentation are the silent time-eater, and the easiest place to prove AI works without touching anything public-facing." },
+  { key: "people", area: "People & HR", desc: "Job posts, onboarding docs, internal comms",
+    hi: "Job posts and onboarding docs get rewritten from scratch at most orgs. They shouldn't be." },
+  { key: "research", area: "Monitoring & research", desc: "Media, grants, competitors, news",
+    hi: "I automated our media monitoring with Claude Code — it replaced a job we'd otherwise hire for. The most underrated AI use case going." }
+];
+const OPTS = [["All by hand", 2], ["A few people experiment", 1], ["AI runs part of it", 0]];
+const MID = "You've got sparks here. The gap between somebody-experiments and this-is-how-we-do-it is where most orgs stall — and it's exactly what a training closes.";
+const LOW = "Already moving. Skip ahead.";
+const HOURS = { 2: [4, 6], 1: [2, 3], 0: [0, 0] };
+const answers = {};
+
+document.getElementById("card-rows").innerHTML = AREAS.map(a => `
+  <div class="sc-row">
+    <span class="area">${a.area}</span>
+    <div class="desc">${a.desc}</div>
+    <div class="seg">${OPTS.map(([l, p]) => `<button type="button" onclick="pick('${a.key}', ${p}, this)">${l}</button>`).join("")}</div>
+  </div>`).join("");
+
+function pick(key, pts, btn) {
+  answers[key] = pts;
+  [...btn.parentElement.children].forEach(b => b.classList.remove("on"));
+  btn.classList.add("on");
+  const left = AREAS.length - Object.keys(answers).length;
+  document.getElementById("score-btn").disabled = left > 0;
+  document.getElementById("score-hint").textContent = left > 0 ? `${left} to go.` : "";
+}
+
+function scoreIt() {
+  const total = Object.values(answers).reduce((s, v) => s + v, 0);
+  const lo = AREAS.reduce((s, a) => s + HOURS[answers[a.key]][0], 0);
+  const hi = AREAS.reduce((s, a) => s + HOURS[answers[a.key]][1], 0);
+  document.getElementById("res-headline").textContent =
+    total >= 9 ? "There's a lot on the table." :
+    total >= 5 ? "You've started. It hasn't stuck." :
+                 "You're ahead of almost everybody.";
+  document.getElementById("res-hours").textContent = hi > 0
+    ? `Rough math: your team is leaving about ${lo} to ${hi} hours a week on the table. Napkin math, but I make these napkins professionally.`
+    : "Honestly? Keep doing what you're doing. Grab the full scorecard below if you want to compare notes.";
+  const ranked = [...AREAS].sort((x, y) => answers[y.key] - answers[x.key]);
+  document.getElementById("res-verdicts").innerHTML = ranked.map(a => {
+    const p = answers[a.key];
+    const chip = p === 2 ? '<span class="chip hi">High</span>' : p === 1 ? '<span class="chip md">Stalled</span>' : '<span class="chip lo">Covered</span>';
+    return `<div class="verdict">${chip}<div><strong>${a.area}</strong><p>${p === 2 ? a.hi : p === 1 ? MID : LOW}</p></div></div>`;
+  }).join("");
+  document.getElementById("results").style.display = "block";
+  document.getElementById("results").scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+/* ============================================================
    INTAKE — path picker + demo-mode submit
    ============================================================ */
 const DONE_MSG = {
-  workflow: "You'll hear from me within two business days — a sharp question or two if I need them, then your working workflow within a week of starting.",
+  training: "You'll have a custom plan — what I'd tackle first, timeline, and booking link — within two business days.",
   workshop: "I'll reply within two business days to lock a date. Tell your members to bring their ugliest workflows.",
-  other: "You'll get a real reply within two business days, plus the full AI Opportunity Scorecard."
+  unsure: "The full AI Opportunity Scorecard is on its way. When you've filled it out, you'll know exactly which door to pick."
 };
 
 function choosePath(path) {
@@ -527,9 +614,9 @@ function choosePath(path) {
   if (path) document.getElementById("fs-" + path).classList.add("active");
   /* required-field juggling: only the active path's email is required */
   ["t-email", "w-email", "u-email"].forEach(id => document.getElementById(id).required = false);
-  if (path === "workflow") document.getElementById("t-email").required = true;
+  if (path === "training") document.getElementById("t-email").required = true;
   if (path === "workshop") document.getElementById("w-email").required = true;
-  if (path === "other") document.getElementById("u-email").required = true;
+  if (path === "unsure") document.getElementById("u-email").required = true;
 }
 
 function preselect(path) { setTimeout(() => choosePath(path), 300); }
@@ -539,7 +626,7 @@ document.getElementById("intake-form").addEventListener("submit", function (e) {
   /* Demo mode: until deployed with a form backend, confirm locally. */
   if (!this.hasAttribute("data-live")) {
     e.preventDefault();
-    const path = document.getElementById("path-field").value || "workflow";
+    const path = document.getElementById("path-field").value || "training";
     this.style.display = "none";
     document.getElementById("done-msg").textContent = DONE_MSG[path];
     document.getElementById("intake-done").style.display = "block";

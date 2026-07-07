@@ -1,4 +1,4 @@
-# joshkrilov.com — v4.0 (lean offer, generic employer, guarantee + FAQ). Previous version preserved as index-v3.html.
+# joshkrilov.com — v5.0 (two doors: free workshop + First Workflow $500; Sprint pulled for private pilots; quiz removed; Public Sans body font). Previous versions preserved as index-v3.html and index-v4.html.
 
 Single-file static site. One dependency (Google Fonts: Fraunces). Deploys anywhere.
 
