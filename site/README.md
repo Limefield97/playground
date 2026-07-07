@@ -32,3 +32,9 @@ The scorecard is department-by-department (marketing, ops, programs, fundraising
 
 - Add `data-live` to the intake `<form>` after wiring Netlify/Formspree (until then it runs in demo mode)
 - Footer LinkedIn URL
+
+## Video hero (optional)
+
+Drop a file at `site/videos/hero.mp4` and the hero automatically plays it behind the headline under a warm cream veil (text stays readable, brand stays bright). No file = current static design. Skipped automatically on phones and for reduced-motion users.
+
+Best footage: New Orleans establishing shots + you facilitating a real room, phone-shot is fine. Compress to under ~8MB (handbrake.fr, 1280px wide).

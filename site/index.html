@@ -174,6 +174,24 @@ header.top {
   @keyframes hlDraw { from { background-size: 0% 42%; } to { background-size: 100% 42%; } }
 }
 
+/* video hero — dormant until videos/hero.mp4 exists (JS adds .has-video) */
+.hero { position: relative; overflow: hidden; }
+.hero .wrap { position: relative; z-index: 2; }
+.hero-video, .hero-veil { display: none; }
+.hero.has-video .hero-video {
+  display: block;
+  position: absolute; inset: 0; z-index: 0;
+  width: 100%; height: 100%; object-fit: cover;
+}
+.hero.has-video .hero-veil {
+  display: block;
+  position: absolute; inset: 0; z-index: 1;
+  background: linear-gradient(100deg,
+    rgba(255,253,246,.96) 0%,
+    rgba(255,253,246,.88) 48%,
+    rgba(255,253,246,.62) 100%);
+}
+
 /* scroll reveal */
 .reveal { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
 .reveal.in { opacity: 1; transform: none; }
@@ -331,7 +349,13 @@ footer a { color: var(--muted); }
 </header>
 
 <!-- ============ HERO ============ -->
+<!-- Video hero: drop a file at videos/hero.mp4 and it activates automatically.
+     Best content: NOLA establishing shots + you facilitating a real room.
+     Keep it under ~8MB (compress at handbrake.fr, 1280px wide is plenty).
+     No file = this section renders exactly as it does today. -->
 <section class="hero" id="top">
+  <video class="hero-video" autoplay muted loop playsinline aria-hidden="true" tabindex="-1"></video>
+  <div class="hero-veil" aria-hidden="true"></div>
   <div class="wrap">
     <span class="kicker">Practical AI for nonprofits &amp; lean teams · New Orleans</span>
     <h1>Stop doing work <span class="hl">AI can do.</span></h1>
@@ -572,6 +596,22 @@ if (tick && !noMotion) {
       tick.classList.remove("out");
     }, 300);
   }, 2400);
+}
+
+/* video hero: activate only if videos/hero.mp4 exists, motion is allowed,
+   and the screen is big enough to be worth the bytes */
+if (!noMotion && window.innerWidth > 720) {
+  const hv = document.querySelector(".hero-video");
+  const hero = document.querySelector(".hero");
+  if (hv && hero) {
+    const src = document.createElement("source");
+    src.src = "videos/hero.mp4";
+    src.type = "video/mp4";
+    hv.appendChild(src);
+    hv.addEventListener("canplay", () => hero.classList.add("has-video"), { once: true });
+    src.addEventListener("error", () => hv.remove());
+    hv.load();
+  }
 }
 
 const revealEls = document.querySelectorAll(".rcard, .offer, .qa");
