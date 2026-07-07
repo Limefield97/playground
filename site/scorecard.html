@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Opportunity Scorecard | Josh Krilov</title>
+<meta name="description" content="A department-by-department assessment to identify where AI can free up your team's time and reduce burnout.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg: #fffdf6;
+  --surface: #ffffff;
+  --ink: #14213d;
+  --muted: #5a6478;
+  --blue: #2e5bff;
+  --gold: #ffc53d;
+  --tint: #eef3ff;
+  --line: #e8e3d5;
+  --green: #0e9f6e;
+  --red: #d63030;
+  --radius: 12px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+h1, h2, h3 { font-family: "Fraunces", Georgia, serif; line-height: 1.1; letter-spacing: -0.015em; }
+h1 { font-size: 2.5rem; margin: 2rem 0 1rem; }
+h2 { font-size: 1.8rem; margin: 2.5rem 0 1rem; }
+h3 { font-size: 1.25rem; margin: 1.8rem 0 0.8rem; }
+p { margin-bottom: 1rem; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+.header {
+  background: var(--tint);
+  border-bottom: 2px solid var(--line);
+  padding: 3rem 1.5rem;
+  margin-bottom: 3rem;
+}
+.header h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2.8rem;
+}
+.header p {
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+.intro {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 2rem;
+  margin-bottom: 2.5rem;
+}
+.intro h2 {
+  margin-top: 0;
+}
+
+.department {
+  background: var(--surface);
+  border-left: 4px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 2rem;
+  margin-bottom: 2.5rem;
+  page-break-inside: avoid;
+}
+.department h3 {
+  color: var(--blue);
+  margin-top: 0;
+}
+
+.question-group {
+  margin: 1.8rem 0;
+  padding: 1.5rem;
+  background: var(--bg);
+  border-radius: 8px;
+}
+.question-group p {
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.scoring-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+.scoring-table th, .scoring-table td {
+  border: 1px solid var(--line);
+  padding: 0.75rem;
+  text-align: left;
+}
+.scoring-table th {
+  background: var(--tint);
+  font-weight: 600;
+  color: var(--blue);
+}
+.scoring-table tr:nth-child(even) { background: var(--bg); }
+
+.score-0 { color: var(--red); font-weight: 600; }
+.score-1 { color: var(--muted); }
+.score-2 { color: var(--green); font-weight: 600; }
+
+.first-90 {
+  background: var(--gold-soft);
+  border-left: 3px solid var(--gold);
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+.first-90 strong { color: var(--ink); }
+
+.calculation {
+  background: var(--tint);
+  border: 1px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  margin: 2.5rem 0;
+}
+.calculation h3 {
+  color: var(--blue);
+  margin-top: 0;
+}
+.calculation ul {
+  margin-left: 1.5rem;
+  list-style: none;
+}
+.calculation li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.5;
+}
+.calculation li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--blue);
+  font-weight: bold;
+}
+
+.interpret {
+  background: var(--surface);
+  border: 2px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 2rem;
+  margin: 2.5rem 0;
+}
+.interpret h2 {
+  color: var(--blue);
+  margin-top: 0;
+}
+.interpret-item {
+  margin: 1.5rem 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+.interpret-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.interpret-item h4 {
+  color: var(--ink);
+  font-size: 1.1rem;
+  margin: 0 0 0.6rem;
+}
+
+.footer-text {
+  background: var(--bg);
+  border-top: 2px solid var(--line);
+  padding: 2rem 1.5rem;
+  margin-top: 3rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.print-cta {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: var(--tint);
+  border-radius: var(--radius);
+}
+.print-cta p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+@media print {
+  body { background: white; }
+  .section { page-break-inside: avoid; }
+  .print-cta { display: none; }
+  a { color: var(--ink); text-decoration: none; }
+}
+</style>
+
+</head>
+<body>
+
+<div class="header">
+  <h1>AI Opportunity Scorecard</h1>
+  <p>A department-by-department assessment to find where AI can help your team work smarter.</p>
+</div>
+
+<div class="wrap">
+
+<div class="intro">
+  <h2>How to use this scorecard</h2>
+  <p>This worksheet helps you assess where AI can reduce busywork, speed up decisions, and free up your people to focus on what only they can do.</p>
+  <p>For each department or function in your organization, you'll rate current pain on three dimensions: <strong>time spent on repetitive work</strong>, <strong>inconsistency across team members</strong>, and <strong>bottlenecks that slow decision-making</strong>.</p>
+  <p>Then you'll score your readiness to implement AI: <strong>data quality</strong>, <strong>process clarity</strong>, and <strong>team comfort with new tools</strong>.</p>
+  <p>The result is a priority map: which departments should tackle AI first, and what success in the first 90 days looks like.</p>
+</div>
+
+<!-- ========== MARKETING/COMMUNICATIONS ========== -->
+<div class="department">
+  <h3>📧 Marketing & Communications</h3>
+
+  <div class="question-group">
+    <p><strong>1. Time spent on repetitive messaging</strong></p>
+    <p>How much time does your team spend on emails, social posts, newsletters, or branded copy that follows a similar pattern each time?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Every piece is custom; we have no templates or repeatable patterns.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have some templates, but execution is inconsistent or time-intensive.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>We follow patterns but would save hours if we could skip the drafting step.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>2. Tone inconsistency across channels or writers</strong></p>
+    <p>Do donors, members, or partners ever get conflicting messages, or do pieces need heavy revision to match your voice?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>No consistent voice; every writer rewrites everything.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have guidelines, but people interpret them differently.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>We have a clear voice, but it takes time to teach new writers.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>3. Reporting or analytics that delay decisions</strong></p>
+    <p>How often do campaigns launch late, or decisions get delayed, waiting for reporting?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>We pull reports manually; it takes days to see what's working.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have some dashboards, but insights still take time to extract.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>We track data, but analysis is slow or requires technical help.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="first-90">
+    <strong>First 90 days:</strong> Build a branded content kit that AI can use to draft emails, social captions, and talking points. Train one person to manage the AI tool and become the brand voice enforcer. Track which workflows save the most time. <em>Expected output: 4–6 hours per week recovered.</em>
+  </div>
+</div>
+
+<!-- ========== OPERATIONS/ADMIN ========== -->
+<div class="department">
+  <h3>⚙️ Operations & Administration</h3>
+
+  <div class="question-group">
+    <p><strong>1. Data entry or form processing</strong></p>
+    <p>How much time does someone spend typing information from one system into another, processing forms, or organizing unstructured data?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Data flows automatically; no manual entry.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>Some workflows are automated, but many still require manual input.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Someone spends hours each week on data entry or processing.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>2. Scheduling, coordinating, or follow-up friction</strong></p>
+    <p>Do staff spend time manually scheduling meetings, chasing responses, or coordinating between people?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Everything is automated or handled by a scheduling system.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We use some tools, but follow-up still falls on one person.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Scheduling and follow-up are manual; people spend time on logistics.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>3. Document management or knowledge loss</strong></p>
+    <p>When someone leaves, do you lose processes? Do people spend time looking for the right version of a document or procedure?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Everything is documented, searchable, and up to date.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have some documentation, but it's not always current or easy to find.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Procedures live in people's heads; new hires are slow to ramp.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="first-90">
+    <strong>First 90 days:</strong> Map your most time-consuming manual processes. Use AI to document them, then automate the top 2–3. Set up a shared knowledge base that AI can help keep updated. Train the ops team on the new system. <em>Expected output: 6–10 hours per week recovered.</em>
+  </div>
+</div>
+
+<!-- ========== PROGRAM/SERVICE DELIVERY ========== -->
+<div class="department">
+  <h3>🎯 Programs & Service Delivery</h3>
+
+  <div class="question-group">
+    <p><strong>1. Repetitive client communication or onboarding</strong></p>
+    <p>Do you send similar welcome emails, intake questionnaires, or check-ins to every client or participant?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Every client interaction is custom; no templates.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have templates, but someone personalizes each one.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>We follow a process, but it's manual and slow to scale.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>2. Variation in how staff deliver your core service</strong></p>
+    <p>Do different team members deliver the same service differently? Do some do it better than others?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Everyone follows the same playbook; consistency is strong.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have guidelines, but execution varies; training is ongoing.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Quality depends on who you get; we struggle to scale consistently.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>3. Outcome reporting or impact tracking</strong></p>
+    <p>How hard is it to show donors, funders, or leadership that your programs work?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>We have real-time dashboards; impact is always visible.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We collect data, but reporting is manual and periodic.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>We don't have good data; proving impact is hard.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="first-90">
+    <strong>First 90 days:</strong> Standardize your core service delivery in a documented playbook. Use AI to handle intake and follow-up communications. Set up a simple outcomes tracker. <em>Expected output: 4–8 hours per week recovered; better scalability.</em>
+  </div>
+</div>
+
+<!-- ========== DEVELOPMENT/FUNDRAISING ========== -->
+<div class="department">
+  <h3>💰 Development & Fundraising</h3>
+
+  <div class="question-group">
+    <p><strong>1. Grant research, writing, or tracking</strong></p>
+    <p>How much time does grant work consume? Do you research opportunities manually? Is writing slow?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Grant pipeline is full; process is fast and efficient.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We use some tools, but research and writing are still manual.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Grant work is a bottleneck; someone is always behind.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>2. Prospect research or donor communication inconsistency</strong></p>
+    <p>Do donors get personalized, timely outreach? Or do some prospects slip through because of capacity?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Every prospect gets tailored outreach; nothing falls through.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have a process, but some prospects don't get attention.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Outreach is sporadic; capacity limits what we can reach.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>3. Reporting to donors or tracking giving trends</strong></p>
+    <p>Can you quickly show a donor what they funded or trends in your fundraising?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Reporting is instant; donor data is always accessible.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We can generate reports, but it takes time or manual work.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Reporting is a project; we don't track trends well.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="first-90">
+    <strong>First 90 days:</strong> Build a grant opportunity tracker. Use AI to draft prospect research summaries. Set up donor communication templates. Train someone to manage the system. <em>Expected output: 5–8 hours per week recovered; more consistent outreach.</em>
+  </div>
+</div>
+
+<!-- ========== LEADERSHIP/PLANNING ========== -->
+<div class="department">
+  <h3>📊 Leadership & Strategic Planning</h3>
+
+  <div class="question-group">
+    <p><strong>1. Meeting prep or agenda management</strong></p>
+    <p>How much time goes into prepping for board, staff, or leadership meetings?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Meetings are well-organized; prep is minimal.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We have agendas, but prep takes time; notes are ad hoc.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Meeting prep is time-consuming; follow-up is scattered.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>2. Summarizing data or creating reports for decision-making</strong></p>
+    <p>When leadership needs to decide, how fast can you pull together the numbers or trends?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Reports are automated; decision-making is data-driven and fast.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We can pull reports, but it requires manual work and time.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Decisions often get made without good data because reporting is slow.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="question-group">
+    <p><strong>3. Internal communication or keeping the whole org aligned</strong></p>
+    <p>Do people know what's happening across the organization? Does information flow consistently?</p>
+    <table class="scoring-table">
+      <tr>
+        <th>Score</th><th>Your situation</th>
+      </tr>
+      <tr>
+        <td class="score-0"><strong>0 pts</strong></td><td>Regular all-hands, clear channels, nothing falls through.</td>
+      </tr>
+      <tr>
+        <td class="score-1"><strong>1 pt</strong></td><td>We communicate, but some people get out of the loop.</td>
+      </tr>
+      <tr>
+        <td class="score-2"><strong>2 pts</strong></td><td>Communication is ad hoc; silos are a constant problem.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="first-90">
+    <strong>First 90 days:</strong> Set up automated meeting prep and note-taking. Build a weekly leadership dashboard. Create an org-wide update template for consistent communication. <em>Expected output: 3–5 hours per week recovered; faster decision-making.</em>
+  </div>
+</div>
+
+<!-- ========== READINESS ASSESSMENT ========== -->
+<div class="calculation">
+  <h3>Assessing Your Readiness to Implement AI</h3>
+  <p>Once you've scored your pain points, assess your readiness in three areas:</p>
+  <ul>
+    <li><strong>Data quality:</strong> Can the AI tool access the data it needs? Is it clean and consistent?</li>
+    <li><strong>Process clarity:</strong> Do you have documented processes to teach the AI how to help?</li>
+    <li><strong>Team readiness:</strong> Is your team open to new tools? Do they have bandwidth to learn?</li>
+  </ul>
+  <p>For each dimension, score:</p>
+  <table class="scoring-table" style="margin-top: 1rem;">
+    <tr>
+      <th>Readiness Dimension</th><th>Score 0</th><th>Score 1</th><th>Score 2</th>
+    </tr>
+    <tr>
+      <td><strong>Data Quality</strong></td>
+      <td class="score-0">Scattered, incomplete</td>
+      <td class="score-1">Mostly good, some gaps</td>
+      <td class="score-2">Clean and accessible</td>
+    </tr>
+    <tr>
+      <td><strong>Process Clarity</strong></td>
+      <td class="score-0">Processes aren't written</td>
+      <td class="score-1">Some documentation exists</td>
+      <td class="score-2">Clear, up-to-date playbooks</td>
+    </tr>
+    <tr>
+      <td><strong>Team Readiness</strong></td>
+      <td class="score-0">Skeptical or overloaded</td>
+      <td class="score-1">Willing but cautious</td>
+      <td class="score-2">Curious and ready to learn</td>
+    </tr>
+  </table>
+</div>
+
+<!-- ========== INTERPRETATION ========== -->
+<div class="interpret">
+  <h2>Interpreting Your Score</h2>
+
+  <div class="interpret-item">
+    <h4>Department Score: 13–18 points</h4>
+    <p>This is your highest-impact starting point. There's significant pain, and the team is ready. Implement AI here first — you'll see the fastest ROI and build momentum for other departments.</p>
+  </div>
+
+  <div class="interpret-item">
+    <h4>Department Score: 7–12 points</h4>
+    <p>Real opportunity, but either the pain is moderate or readiness needs work. Tackle this second. Use success from your first department to build team confidence.</p>
+  </div>
+
+  <div class="interpret-item">
+    <h4>Department Score: Below 7 points</h4>
+    <p>Low priority right now. Either the problem isn't urgent, or the team isn't ready. Revisit after you've built momentum elsewhere.</p>
+  </div>
+
+  <div class="interpret-item">
+    <h4>Readiness Score: 5–6 points</h4>
+    <p>You're ready to go. Your data is solid, processes are clear, and the team is willing. Move fast.</p>
+  </div>
+
+  <div class="interpret-item">
+    <h4>Readiness Score: 3–4 points</h4>
+    <p>You can implement, but expect friction. Spend 2–3 weeks documenting processes and getting team buy-in first.</p>
+  </div>
+
+  <div class="interpret-item">
+    <h4>Readiness Score: Below 3 points</h4>
+    <p>Pause implementation. Use the next month to clean up data, document processes, and talk to your team about why this matters. AI is only as good as the information you give it.</p>
+  </div>
+</div>
+
+<!-- ========== SUMMARY ========== -->
+<div class="intro" style="margin-top: 3rem;">
+  <h2>Next Steps: From Scorecard to Action</h2>
+  <p>When you've scored each department and assessed readiness, you'll have clarity on:</p>
+  <ul style="margin-left: 1.5rem; line-height: 1.8;">
+    <li><strong>Where to start:</strong> The department with the highest pain + readiness combination.</li>
+    <li><strong>What success looks like:</strong> The first-90-days outcomes in that department.</li>
+    <li><strong>What you need before starting:</strong> Data cleanup, process documentation, or team conversations.</li>
+  </ul>
+  <p style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line);">
+    <strong>Ready to build an AI action plan?</strong> <a href="https://joshkrilov.com/">Go back to the site</a> and tell Josh what you discovered. He'll help you turn this scorecard into a 90-day playbook tailored to your team.
+  </p>
+</div>
+
+<div class="footer-text">
+  <p><strong>Josh Krilov — AI Training for Gulf South Teams</strong></p>
+  <p>This scorecard is built for organizations 20–200 people, including nonprofits, associations, and mission-driven small teams. It's the same tool Josh uses in paid training engagements.</p>
+</div>
+
+</div>
+
+</body>
+</html>
