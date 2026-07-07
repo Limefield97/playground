@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A letter from Josh Krilov · New Orleans</title>
+<meta name="description" content="I'm the director of AI strategy at one of the Gulf South's largest nonprofits, a former Disney TV writer, and a 20-year improviser. This is a letter, not a funnel.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%23f3ead8'/><text x='32' y='44' font-family='Georgia,serif' font-weight='700' font-size='30' text-anchor='middle' fill='%23b3261e'>JK</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,700;1,6..72,400&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #f7f1e3;
+  --paper-deep: #efe6d2;
+  --ink: #211d16;
+  --soft: #6d6353;
+  --red: #b3261e;
+  --hi: #f5d76e;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--paper);
+  background-image: radial-gradient(1400px 700px at 50% -8%, #fbf7ec, transparent 70%);
+  color: var(--ink);
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 20px;
+  line-height: 1.72;
+}
+.sheet { max-width: 720px; margin: 0 auto; padding: 4.5rem 1.5rem 6rem; position: relative; }
+p { margin-bottom: 1.35rem; }
+em { font-style: italic; }
+
+.postmark {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-size: .82rem; letter-spacing: .16em; text-transform: uppercase; color: var(--soft);
+  border-bottom: 1px solid #d9cdb4; padding-bottom: 1.1rem; margin-bottom: 3.5rem;
+}
+.postmark b { color: var(--ink); letter-spacing: .16em; }
+
+h1 {
+  font-weight: 500; font-size: clamp(1.9rem, 5vw, 2.9rem);
+  line-height: 1.2; letter-spacing: -0.01em; margin-bottom: 2.6rem;
+  text-wrap: balance;
+}
+.hi {
+  background: linear-gradient(100deg, transparent 0%, var(--hi) 4%, var(--hi) 96%, transparent 100%);
+  background-size: 100% 48%;
+  background-position: 0 74%;
+  background-repeat: no-repeat;
+  padding: 0 .1em;
+}
+
+/* crossed-out corporate speak, corrected in red */
+.strike { text-decoration: line-through; text-decoration-color: var(--red); text-decoration-thickness: 2px; color: var(--soft); }
+.fix { font-family: "Caveat", cursive; color: var(--red); font-size: 1.15em; white-space: nowrap; padding-left: .25rem; }
+
+/* margin notes */
+.note-wrap { position: relative; }
+.margin-note {
+  font-family: "Caveat", cursive; color: var(--red);
+  font-size: 1.28rem; line-height: 1.25;
+  transform: rotate(-2deg);
+}
+@media (min-width: 1120px) {
+  .margin-note { position: absolute; right: -235px; width: 200px; }
+}
+@media (max-width: 1119px) {
+  .margin-note { display: block; margin: -0.4rem 0 1.35rem; }
+}
+
+.rule { border: 0; border-top: 1px solid #d9cdb4; margin: 3rem auto; width: 38%; }
+
+.salutation { margin-bottom: 2rem; }
+.sig-block { margin-top: 3rem; }
+.sig { font-family: "Caveat", cursive; font-size: 2.3rem; color: var(--ink); transform: rotate(-1.5deg); display: inline-block; }
+.sig-title { font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); margin-top: .4rem; }
+
+.ps { background: var(--paper-deep); border-radius: 4px; padding: 1.6rem 1.8rem; margin-top: 3.2rem; box-shadow: 2px 3px 0 #d9cdb4; }
+.ps p:last-child { margin-bottom: 0; }
+.ps .lead-in { font-weight: 700; }
+
+a { color: var(--red); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { text-decoration-thickness: 2px; }
+
+.two-ways { margin: 2.2rem 0; padding-left: 1.4rem; border-left: 3px solid var(--hi); }
+.two-ways p { margin-bottom: 1rem; }
+
+.reply {
+  display: inline-block; margin-top: .5rem;
+  font-size: 1.05rem; font-weight: 700;
+  background: var(--ink); color: var(--paper);
+  padding: .85rem 1.6rem; border-radius: 3px;
+  text-decoration: none; letter-spacing: .02em;
+  box-shadow: 3px 4px 0 #d9cdb4;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.reply:hover { transform: translate(-1px,-2px); box-shadow: 5px 6px 0 #d9cdb4; }
+
+footer { text-align: center; font-size: .85rem; color: var(--soft); padding: 0 1.5rem 3.5rem; }
+::selection { background: var(--hi); color: var(--ink); }
+@media (prefers-reduced-motion: no-preference) {
+  .sheet > * { opacity: 0; transform: translateY(10px); animation: settle .8s ease-out both; }
+  .sheet > *:nth-child(1) { animation-delay: .05s; }
+  .sheet > *:nth-child(2) { animation-delay: .15s; }
+  .sheet > *:nth-child(3) { animation-delay: .25s; }
+  .sheet > *:nth-child(n+4) { animation-delay: .35s; }
+  @keyframes settle { to { opacity: 1; transform: none; } }
+}
+</style>
+</head>
+<body>
+
+<div class="sheet">
+
+  <div class="postmark">
+    <span><b>Josh Krilov</b> · New Orleans, LA</span>
+    <span>First-class mail</span>
+  </div>
+
+  <h1>This is a letter, not a funnel. There is no popup. Nothing here wants your email.<span class="hi"> It's just me, telling you what I do.</span></h1>
+
+  <p class="salutation">Dear person doing three jobs,</p>
+
+  <div class="note-wrap">
+    <p>I spent twenty years doing improv and five of them writing television for Disney, which is to say: I have spent my whole life learning to hold a room. Then I took a job that looks nothing like that on paper — half of a two-person marketing team at one of the Gulf South's largest nonprofits, 150 people, all of South Louisiana. Press releases, social media, event marketing, media monitoring. All of it, on two desks.</p>
+    <span class="margin-note">the other desk is a very nice woman who deserves a raise</span>
+  </div>
+
+  <p>Two years ago I got tired of <span class="strike">operating in a high-velocity, resource-constrained paradigm</span> <span class="fix">working like the building was on fire</span> and started teaching AI to do the parts of my job that didn't need me. It went well. Embarrassingly well. Well enough that I wrote an AI plan for every department in the organization, and the CEO made me director of AI strategy and communications.</p>
+
+  <div class="note-wrap">
+    <p>So now, on my own time, I do the same thing for other people: I take the task that eats your week — the grant report, the board memo, the newsletter nobody has time to write — and I <span class="hi">teach AI to do it, on your actual work, with your actual tools.</span> Not theory. Not a webinar. The thing itself, running, by the time I'm done.</p>
+    <span class="margin-note">3× Anthropic certified, if credentials are your love language</span>
+  </div>
+
+  <hr class="rule">
+
+  <p>There are two ways to get me:</p>
+
+  <div class="two-ways">
+    <p><strong>If you run an association, chamber, or network:</strong> I'll do a workshop for your members, free, and it will not feel like compliance training. You bring the room, I bring everything else. One rule — free rooms need people from more than one organization in them.</p>
+    <p><strong>If it's just you and your team:</strong> send me one recurring task. For $500 I'll send back the AI workflow that does it — a recipe your team can reuse, plus a video of it running. If it doesn't work on your real task, you don't pay. The $500 counts toward any training we do later.</p>
+  </div>
+
+  <div class="note-wrap">
+    <p>No discovery call. No pitch deck. No <span class="strike">let's find fifteen minutes to explore synergies</span> <span class="fix">nope</span>. You write to me, and I write back within two business days — including, if it's the truth, "honestly, AI won't help with this."</p>
+    <span class="margin-note">this has actually happened. the guy thanked me!</span>
+  </div>
+
+  <p style="margin-top:2.5rem;">Warmly, from a city that understands both hard work and a good time,</p>
+
+  <div class="sig-block">
+    <span class="sig">Josh Krilov</span>
+    <div class="sig-title">Director of AI strategy &amp; communications, by day · AI trainer, by very early morning</div>
+  </div>
+
+  <div class="ps">
+    <p><span class="lead-in">P.S.</span> — The task eating your week, the one you thought of while reading this? That's the one to send. <a class="reply" href="mailto:krilov@gmail.com?subject=The task that eats my week">Write back → krilov@gmail.com</a></p>
+  </div>
+
+</div>
+
+<footer>Hand-typed in New Orleans. No pitch decks were harmed. · <a href="https://www.linkedin.com/">LinkedIn</a></footer>
+
+</body>
+</html>

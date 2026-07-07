@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Krilov — AI Advisory</title>
+<meta name="description" content="Quiet, serious AI capability for institutions. Assessment, installation, and standing counsel. Engagements begin with a written brief.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' fill='%23101014'/><text x='32' y='45' font-family='Georgia,serif' font-weight='400' font-size='34' text-anchor='middle' fill='%23ece7dc'>K</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Public+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --void: #101014;
+  --void-2: #16161b;
+  --cream: #ece7dc;
+  --cream-dim: #9d988c;
+  --hairline: rgba(236,231,220,.14);
+  --brass: #c2a878;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--void);
+  color: var(--cream);
+  font-family: "Public Sans", -apple-system, sans-serif;
+  font-size: 16.5px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+.serif { font-family: "Cormorant Garamond", Georgia, serif; }
+::selection { background: var(--brass); color: var(--void); }
+a { color: var(--cream); text-decoration: none; }
+
+.frame { max-width: 1060px; margin: 0 auto; padding: 0 1.6rem; }
+
+/* nav */
+nav {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 2.2rem 0 0;
+  font-size: .74rem; letter-spacing: .34em; text-transform: uppercase; color: var(--cream-dim);
+}
+nav .mark { color: var(--cream); letter-spacing: .34em; }
+
+/* hero */
+.hero { padding: 22vh 0 16vh; }
+.hero h1 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500;
+  font-size: clamp(2.6rem, 7.2vw, 5.6rem);
+  line-height: 1.08;
+  letter-spacing: .005em;
+  max-width: 17ch;
+  text-wrap: balance;
+}
+.hero h1 em { font-style: italic; color: var(--brass); }
+.hero .stand {
+  margin-top: 3.2rem; max-width: 520px;
+  color: var(--cream-dim); font-size: 1.02rem;
+}
+
+.rule { border: 0; border-top: 1px solid var(--hairline); }
+
+/* sections */
+section { padding: 7.5rem 0; }
+.label {
+  font-size: .72rem; letter-spacing: .34em; text-transform: uppercase;
+  color: var(--brass); margin-bottom: 3.2rem;
+}
+.thesis {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500; font-size: clamp(1.6rem, 3.4vw, 2.5rem);
+  line-height: 1.35; max-width: 30ch; text-wrap: balance;
+}
+
+/* engagements */
+.eng { display: grid; grid-template-columns: 110px 1fr; gap: 1.5rem 3rem; padding: 3rem 0; border-top: 1px solid var(--hairline); }
+.eng:last-of-type { border-bottom: 1px solid var(--hairline); }
+.eng .no { font-family: "Cormorant Garamond", serif; font-size: 2.1rem; color: var(--brass); font-weight: 500; line-height: 1; }
+.eng h3 { font-family: "Cormorant Garamond", serif; font-weight: 600; font-size: 1.7rem; margin-bottom: .8rem; }
+.eng p { color: var(--cream-dim); max-width: 58ch; }
+.eng p:last-child { margin-bottom: 0; }
+.eng p + p { margin-top: .9rem; }
+@media (max-width: 640px) { .eng { grid-template-columns: 1fr; gap: .6rem; } }
+
+/* grounding */
+.ground p { color: var(--cream-dim); max-width: 62ch; margin-bottom: 1.2rem; }
+.ground strong { color: var(--cream); font-weight: 500; }
+
+/* fees + contact */
+.fees p { font-family: "Cormorant Garamond", serif; font-size: clamp(1.4rem, 2.6vw, 1.9rem); line-height: 1.45; max-width: 34ch; }
+.contact { padding-bottom: 9rem; }
+.contact .brief {
+  margin-top: 2.6rem; display: inline-block;
+  font-size: .95rem; letter-spacing: .06em;
+  border: 1px solid var(--hairline);
+  padding: 1.1rem 2.2rem;
+  transition: border-color .3s ease, color .3s ease;
+}
+.contact .brief:hover { border-color: var(--brass); color: var(--brass); }
+.contact .avail { margin-top: 1.6rem; font-size: .8rem; letter-spacing: .18em; text-transform: uppercase; color: var(--cream-dim); }
+
+footer {
+  border-top: 1px solid var(--hairline);
+  padding: 2.4rem 0 3rem;
+  display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;
+  font-size: .74rem; letter-spacing: .22em; text-transform: uppercase; color: var(--cream-dim);
+}
+
+/* reveal */
+.rv { opacity: 0; transform: translateY(22px); transition: opacity .9s ease, transform .9s ease; }
+.rv.in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) { .rv { opacity: 1; transform: none; transition: none; } }
+</style>
+</head>
+<body>
+
+<div class="frame">
+
+  <nav>
+    <span class="mark">KRILOV</span>
+    <span>New Orleans</span>
+  </nav>
+
+  <header class="hero">
+    <h1 class="rv">The institutions that win the next decade will run on AI. <em>Quietly, correctly, and soon.</em></h1>
+    <p class="stand rv">Krilov is an AI advisory practice for institutions that cannot afford to get this wrong — and cannot afford to wait until it is obvious.</p>
+  </header>
+
+  <hr class="rule">
+
+  <section>
+    <div class="label rv">The position</div>
+    <p class="thesis rv">Most organizations will spend this decade buying tools. A few will build capability — the workflows, judgment, and habits that compound. We work only on the second thing.</p>
+  </section>
+
+  <hr class="rule">
+
+  <section>
+    <div class="label rv">Engagements</div>
+
+    <div class="eng rv">
+      <div class="no">I</div>
+      <div>
+        <h3>The Assessment</h3>
+        <p>Four weeks inside your operation. Every department, every recurring obligation, every hour spent on work that no longer requires a person. Delivered as a board-ready map of where AI pays first, what it displaces, and what it must never touch.</p>
+      </div>
+    </div>
+
+    <div class="eng rv">
+      <div class="no">II</div>
+      <div>
+        <h3>The Installation</h3>
+        <p>The assessment, made real. Working systems placed into your operation — drafting, reporting, monitoring, intelligence — with your people trained on their own work until the new way is the normal way.</p>
+      </div>
+    </div>
+
+    <div class="eng rv">
+      <div class="no">III</div>
+      <div>
+        <h3>Counsel</h3>
+        <p>Standing advisory to leadership. A private line to someone who runs AI inside a real institution every day — for the decisions, the vendors, the board questions, and the things you would rather ask quietly.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="ground">
+    <div class="label rv">Grounding</div>
+    <p class="rv"><strong>This practice is not theoretical.</strong> Its principal is the director of AI strategy and communications at one of the Gulf South's largest nonprofit institutions — 150 people — where the systems described above run today, in production, under real constraints and real scrutiny.</p>
+    <p class="rv">Before that: five years writing for Disney, twenty years commanding live rooms, and three Anthropic certifications. The work is serious. The delivery, mercifully, is not boring.</p>
+  </section>
+
+  <hr class="rule">
+
+  <section class="fees">
+    <div class="label rv">Fees</div>
+    <p class="rv">Fees are quoted after the brief, in writing, and honored without revision. They are significant. They are also smaller than the cost of a wasted year.</p>
+  </section>
+
+  <hr class="rule">
+
+  <section class="contact">
+    <div class="label rv">Beginning</div>
+    <p class="thesis rv" style="font-size:clamp(1.3rem,2.4vw,1.8rem); max-width:40ch;">Every engagement begins the same way: a written brief describing your institution, your constraint, and the year you intend to have. If the fit is real, you will hear back within two business days.</p>
+    <a class="brief rv" href="mailto:krilov@gmail.com?subject=Brief — [Institution name]">Submit a brief</a>
+    <div class="avail rv">Two engagements per quarter · Next opening Q4</div>
+  </section>
+
+  <footer>
+    <span>Krilov · AI Advisory</span>
+    <span>New Orleans, Louisiana</span>
+  </footer>
+
+</div>
+
+<script>
+const els = document.querySelectorAll(".rv");
+if ("IntersectionObserver" in window && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
+  }), { threshold: 0.12 });
+  els.forEach(el => io.observe(el));
+} else {
+  els.forEach(el => el.classList.add("in"));
+}
+</script>
+
+</body>
+</html>
