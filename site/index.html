@@ -10,7 +10,7 @@
 <link rel="canonical" href="https://joshkrilov.com/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="AI Training for Gulf South Nonprofits &amp; Lean Teams | Josh Krilov">
-<meta property="og:description" content="I train teams to use AI so they can stop working like it's an emergency. New Orleans based. No theory, no sales calls.">
+<meta property="og:description" content="Stop doing work AI can do. Hands-on AI training and workflows for Gulf South nonprofits and lean teams. New Orleans based. No theory, no sales calls.">
 <meta property="og:url" content="https://joshkrilov.com/">
 <meta name="robots" content="index, follow">
 <script type="application/ld+json">
@@ -138,8 +138,48 @@ header.top {
 .top .btn { padding: .55rem 1.2rem; font-size: .9rem; }
 
 /* ============ hero ============ */
-.hero { padding-top: 5.5rem; padding-bottom: 4rem; text-align: left; }
-.hero .sub { font-size: clamp(1.05rem, 2.4vw, 1.25rem); color: var(--muted); max-width: 620px; margin: 1.5rem 0 2.2rem; }
+.hero {
+  padding-top: 5.5rem; padding-bottom: 4rem; text-align: left;
+  background:
+    radial-gradient(1100px 480px at 88% -12%, var(--gold-soft), transparent 62%),
+    radial-gradient(900px 420px at -10% 110%, var(--tint), transparent 55%);
+}
+.hero .sub { font-size: clamp(1.05rem, 2.4vw, 1.25rem); color: var(--muted); max-width: 620px; margin: 1.5rem 0 1.4rem; }
+
+/* rotating task line */
+.ticker { font-size: 1.05rem; color: var(--muted); margin-bottom: 2.2rem; }
+.tick {
+  display: inline-block;
+  font-weight: 700; color: var(--ink);
+  background: var(--gold-soft);
+  border-radius: 8px;
+  padding: .05rem .5rem;
+  transition: opacity .28s ease, transform .28s ease;
+}
+.tick.out { opacity: 0; transform: translateY(8px); }
+
+/* hero entrance + marker draw-in */
+@media (prefers-reduced-motion: no-preference) {
+  .hero .kicker, .hero h1, .hero .sub, .hero .ticker, .hero .hero-ctas, .hero .trust {
+    opacity: 0; transform: translateY(16px);
+    animation: rise .7s ease-out both;
+  }
+  .hero h1 { animation-delay: .08s; }
+  .hero .sub { animation-delay: .18s; }
+  .hero .ticker { animation-delay: .26s; }
+  .hero .hero-ctas { animation-delay: .34s; }
+  .hero .trust { animation-delay: .44s; }
+  .hero .hl { animation: hlDraw .8s .7s both ease-out; }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+  @keyframes hlDraw { from { background-size: 0% 42%; } to { background-size: 100% 42%; } }
+}
+
+/* scroll reveal */
+.reveal { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
+.reveal.in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; transition: none; }
+}
 .hero-ctas { display: flex; gap: .9rem; flex-wrap: wrap; align-items: center; }
 .trust {
   margin-top: 2.6rem; display: flex; gap: 1.6rem; flex-wrap: wrap;
@@ -294,8 +334,9 @@ footer a { color: var(--muted); }
 <section class="hero" id="top">
   <div class="wrap">
     <span class="kicker">Practical AI for nonprofits &amp; lean teams · New Orleans</span>
-    <h1>Bring me the task that eats your week. <span class="hl">I'll send back the AI workflow that does it.</span></h1>
-    <p class="sub">Hands-on AI help for Gulf South nonprofits and lean teams, from the director of AI strategy and communications at one of the region's largest nonprofits. No sales calls, no jargon — your real work, results the same week.</p>
+    <h1>Stop doing work <span class="hl">AI can do.</span></h1>
+    <p class="sub">Hands-on AI training and done-for-you workflows for Gulf South nonprofits and lean teams — from the director of AI strategy and communications at one of the region's largest nonprofits. No sales calls, no jargon, results the same week.</p>
+    <p class="ticker">Like <span class="tick" id="tick">the grant report</span></p>
     <div class="hero-ctas">
       <a class="btn btn-primary" href="#intake">Send me your task →</a>
       <a class="btn btn-ghost" href="#work">See the two ways in</a>
@@ -511,6 +552,46 @@ footer a { color: var(--muted); }
 </footer>
 
 <script>
+/* ============================================================
+   HERO TICKER + SCROLL REVEAL
+   ============================================================ */
+const TASKS = [
+  "the grant report", "the board memo", "the social calendar",
+  "the meeting notes", "the donor thank-yous", "the media digest",
+  "the press release", "the onboarding docs"
+];
+const tick = document.getElementById("tick");
+const noMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+if (tick && !noMotion) {
+  let ti = 0;
+  setInterval(() => {
+    tick.classList.add("out");
+    setTimeout(() => {
+      ti = (ti + 1) % TASKS.length;
+      tick.textContent = TASKS[ti];
+      tick.classList.remove("out");
+    }, 300);
+  }, 2400);
+}
+
+const revealEls = document.querySelectorAll(".rcard, .offer, .qa");
+revealEls.forEach(el => el.classList.add("reveal"));
+if ("IntersectionObserver" in window) {
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        const sibs = [...e.target.parentElement.children].filter(c => c.classList.contains("reveal"));
+        e.target.style.transitionDelay = (sibs.indexOf(e.target) % 4) * 90 + "ms";
+        e.target.classList.add("in");
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  revealEls.forEach(el => io.observe(el));
+} else {
+  revealEls.forEach(el => el.classList.add("in"));
+}
+
 /* ============================================================
    INTAKE — path picker + demo-mode submit
    ============================================================ */
